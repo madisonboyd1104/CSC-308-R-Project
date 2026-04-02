@@ -1,0 +1,4 @@
+"Analysis_Type","Correlation_Coefficient","P_Value","Year"
+"Income vs Clinical Care",-0.393125574226005,3.20739370189749e-39,2021
+"Factors vs Outcomes",0.917373221320741,0,2021
+"Black vs White YPLL",0.543787441790141,6.12368643481578e-80,2021
