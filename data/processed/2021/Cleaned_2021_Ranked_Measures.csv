@@ -1,0 +1,1026 @@
+"FIPS","State","County","YPLL_Rate","YPLL_Black","YPLL_White","Percent_Poor_Health","Percent_Low_Birthweight"
+1001,"Alabama","Autauga",7830,10729,7245,20,9
+1003,"Alabama","Baldwin",7680,10269,7708,16,8
+1005,"Alabama","Barbour",11477,13846,9424,30,11
+1007,"Alabama","Bibb",12173,13027,12377,24,10
+1013,"Alabama","Butler",12848,13158,13128,28,12
+1015,"Alabama","Calhoun",11327,10559,11837,24,9
+1017,"Alabama","Chambers",10371,9759,10550,25,13
+1021,"Alabama","Chilton",10109,10080,10549,24,9
+1023,"Alabama","Choctaw",11232,13268,9734,26,11
+1025,"Alabama","Clarke",11294,13839,9219,27,13
+1031,"Alabama","Coffee",8355,10354,8768,22,9
+1033,"Alabama","Colbert",10467,11544,10602,22,11
+1035,"Alabama","Conecuh",13182,16272,10382,29,14
+1039,"Alabama","Covington",11526,14045,11428,23,10
+1041,"Alabama","Crenshaw",10407,9031,11483,25,10
+1045,"Alabama","Dale",10261,11592,10383,22,8
+1047,"Alabama","Dallas",13776,14573,11564,30,14
+1051,"Alabama","Elmore",8112,10818,7676,19,9
+1053,"Alabama","Escambia",11843,13682,11145,28,10
+1055,"Alabama","Etowah",11495,13447,11467,22,9
+1061,"Alabama","Geneva",11998,15297,12283,26,8
+1065,"Alabama","Hale",13672,15630,10844,29,12
+1067,"Alabama","Henry",9576,11637,8915,23,10
+1069,"Alabama","Houston",9244,13201,7761,23,11
+1073,"Alabama","Jefferson",11082,13544,9390,20,11
+1077,"Alabama","Lauderdale",8624,11823,8371,20,10
+1079,"Alabama","Lawrence",11511,15882,11894,24,8
+1081,"Alabama","Lee",7241,11170,6276,20,9
+1083,"Alabama","Limestone",7447,7767,7776,20,9
+1089,"Alabama","Madison",8089,9802,8002,18,10
+1091,"Alabama","Marengo",13500,14394,10160,27,12
+1097,"Alabama","Mobile",10290,12756,9168,21,12
+1099,"Alabama","Monroe",12250,16732,8661,28,12
+1101,"Alabama","Montgomery",9500,11266,7236,23,13
+1103,"Alabama","Morgan",9710,13083,9728,20,9
+1107,"Alabama","Pickens",8848,9857,8161,27,13
+1109,"Alabama","Pike",10633,13968,8345,25,11
+1111,"Alabama","Randolph",12343,15000,12040,24,9
+1113,"Alabama","Russell",11200,11551,11558,25,11
+1115,"Alabama","St. Clair",9242,7691,9695,21,9
+1117,"Alabama","Shelby",5942,7106,5926,15,7
+1121,"Alabama","Talladega",12029,12461,12181,27,11
+1123,"Alabama","Tallapoosa",10208,13214,9162,25,14
+1125,"Alabama","Tuscaloosa",8535,10848,7472,21,11
+1127,"Alabama","Walker",14797,14458,15196,24,11
+1129,"Alabama","Washington",10145,9110,9182,26,12
+2020,"Alaska","Anchorage",7599,9877,6135,14,6
+2090,"Alaska","Fairbanks North Star",6820,5994,5840,14,6
+4013,"Arizona","Maricopa",6461,9539,6268,18,7
+4015,"Arizona","Mohave",10068,10986,10483,23,7
+4019,"Arizona","Pima",7533,10720,7572,18,7
+4021,"Arizona","Pinal",6942,8361,6695,22,7
+4027,"Arizona","Yuma",6291,9517,8087,26,6
+5001,"Arkansas","Arkansas",10791,12825,10081,28,10
+5003,"Arkansas","Ashley",9989,14037,8897,28,12
+5007,"Arkansas","Benton",6080,5912,6707,20,7
+5011,"Arkansas","Bradley",12357,18952,9788,29,10
+5017,"Arkansas","Chicot",13710,14783,13085,32,11
+5019,"Arkansas","Clark",8398,11820,7383,23,9
+5027,"Arkansas","Columbia",9430,14053,6892,27,12
+5031,"Arkansas","Craighead",8150,11670,7911,23,10
+5035,"Arkansas","Crittenden",13013,14394,11695,30,14
+5037,"Arkansas","Cross",12394,14176,11949,27,11
+5041,"Arkansas","Desha",12617,13789,13447,33,15
+5043,"Arkansas","Drew",11060,13356,10892,25,10
+5045,"Arkansas","Faulkner",8034,10207,7909,21,7
+5051,"Arkansas","Garland",10905,15580,10846,23,9
+5057,"Arkansas","Hempstead",9830,9706,11444,29,9
+5059,"Arkansas","Hot Spring",11518,15713,11091,24,10
+5061,"Arkansas","Howard",10976,18280,9861,28,8
+5067,"Arkansas","Jackson",10712,11909,10791,30,10
+5069,"Arkansas","Jefferson",12834,14051,11681,28,13
+5073,"Arkansas","Lafayette",9634,12449,8067,29,10
+5077,"Arkansas","Lee",11636,11060,13043,34,12
+5079,"Arkansas","Lincoln",10783,8999,12141,29,8
+5085,"Arkansas","Lonoke",9170,13883,9373,21,8
+5091,"Arkansas","Miller",11524,13170,10867,26,10
+5093,"Arkansas","Mississippi",14112,18393,11645,30,11
+5095,"Arkansas","Monroe",18263,18338,17902,32,12
+5103,"Arkansas","Ouachita",11415,12245,11145,29,11
+5107,"Arkansas","Phillips",15856,17843,11958,33,13
+5111,"Arkansas","Poinsett",14035,16216,14318,28,10
+5119,"Arkansas","Pulaski",9605,12788,7986,23,11
+5123,"Arkansas","St. Francis",10893,12342,10148,31,13
+5125,"Arkansas","Saline",8230,8317,8555,19,8
+5131,"Arkansas","Sebastian",9121,11467,10184,26,8
+5139,"Arkansas","Union",12933,17666,10555,25,10
+5143,"Arkansas","Washington",6775,8882,7113,23,8
+5145,"Arkansas","White",8790,11401,9038,23,8
+6001,"California","Alameda",4341,9980,4088,15,7
+6007,"California","Butte",7578,9503,8052,19,6
+6013,"California","Contra Costa",4619,9093,4645,15,7
+6019,"California","Fresno",7008,13471,7391,25,8
+6023,"California","Humboldt",8733,11171,8193,18,6
+6025,"California","Imperial",5980,5114,10311,29,6
+6029,"California","Kern",8031,13587,9495,27,7
+6031,"California","Kings",6595,7104,7560,25,6
+6037,"California","Los Angeles",5005,9851,4946,21,7
+6039,"California","Madera",6778,7363,7951,26,6
+6041,"California","Marin",3239,7438,3105,12,6
+6047,"California","Merced",6593,14779,7915,28,6
+6053,"California","Monterey",5072,5570,5489,24,6
+6059,"California","Orange",4144,5581,4776,17,6
+6061,"California","Placer",4471,5369,4780,13,6
+6065,"California","Riverside",5842,8588,6834,20,7
+6067,"California","Sacramento",6382,10713,6431,18,7
+6071,"California","San Bernardino",6846,10760,8388,24,7
+6073,"California","San Diego",4634,7688,4875,16,7
+6075,"California","San Francisco",4315,12924,3833,13,7
+6077,"California","San Joaquin",7275,13814,8028,22,7
+6079,"California","San Luis Obispo",5153,3945,5458,15,6
+6081,"California","San Mateo",3297,6770,3629,13,7
+6083,"California","Santa Barbara",5200,7609,5768,19,7
+6085,"California","Santa Clara",3494,6578,3833,14,7
+6089,"California","Shasta",9067,12261,9306,17,6
+6095,"California","Solano",6159,10369,6532,17,7
+6097,"California","Sonoma",4803,6916,5217,15,6
+6099,"California","Stanislaus",7117,12207,8407,22,6
+6107,"California","Tulare",6953,12514,8396,28,7
+6111,"California","Ventura",4654,5792,5055,18,6
+6113,"California","Yolo",4617,9066,5039,18,6
+6115,"California","Yuba",9488,12506,11173,21,7
+8001,"Colorado","Adams",6320,8896,6591,18,9
+8005,"Colorado","Arapahoe",5344,7561,5188,14,10
+8031,"Colorado","Denver",6341,10785,5171,16,9
+8041,"Colorado","El Paso",7534,9946,7333,14,10
+8059,"Colorado","Jefferson",5488,11353,5326,12,9
+8101,"Colorado","Pueblo",10009,14365,9430,20,10
+9001,"Connecticut","Fairfield",4442,7361,4261,12,8
+9003,"Connecticut","Hartford",6154,7537,6206,14,9
+9007,"Connecticut","Middlesex",5365,6364,5681,11,7
+9009,"Connecticut","New Haven",6337,9009,6281,15,8
+9011,"Connecticut","New London",6593,7364,7074,14,7
+9013,"Connecticut","Tolland",5068,5660,5488,11,7
+10001,"Delaware","Kent",8104,9706,7996,21,9
+10003,"Delaware","New Castle",7918,10615,7690,17,9
+10005,"Delaware","Sussex",8067,10427,8311,19,8
+11001,"District of Columbia","District of Columbia",7956,14160,2390,15,10
+12001,"Florida","Alachua",6840,10773,6370,18,10
+12005,"Florida","Bay",9456,11360,9660,21,8
+12007,"Florida","Bradford",10229,7133,11632,25,11
+12009,"Florida","Brevard",8904,10899,9353,19,8
+12011,"Florida","Broward",6142,7508,7468,20,10
+12015,"Florida","Charlotte",7982,6337,8581,18,8
+12017,"Florida","Citrus",11524,8864,12080,20,9
+12019,"Florida","Clay",7703,7174,8446,19,8
+12021,"Florida","Collier",5468,7240,6096,18,7
+12023,"Florida","Columbia",10763,10897,11361,23,11
+12027,"Florida","DeSoto",8070,11803,9840,29,7
+12031,"Florida","Duval",9822,12043,9848,20,10
+12033,"Florida","Escambia",10070,12840,9767,19,10
+12035,"Florida","Flagler",8033,9924,8154,19,8
+12039,"Florida","Gadsden",10148,11767,9259,27,12
+12047,"Florida","Hamilton",9102,9858,9745,28,10
+12051,"Florida","Hendry",8357,12781,11125,32,8
+12053,"Florida","Hernando",8789,9164,9585,21,9
+12055,"Florida","Highlands",9884,13137,10586,23,9
+12057,"Florida","Hillsborough",6589,9426,6720,20,9
+12061,"Florida","Indian River",7112,11334,7330,19,8
+12063,"Florida","Jackson",11028,10843,11245,25,9
+12065,"Florida","Jefferson",9502,12228,7802,22,11
+12069,"Florida","Lake",8179,10511,8777,20,9
+12071,"Florida","Lee",7347,9416,8275,20,8
+12073,"Florida","Leon",6574,9071,5716,17,10
+12075,"Florida","Levy",10748,9345,11332,24,9
+12079,"Florida","Madison",10194,11792,9844,28,13
+12081,"Florida","Manatee",7503,10770,7896,18,7
+12083,"Florida","Marion",10705,10934,11540,23,9
+12085,"Florida","Martin",6792,8426,7262,16,7
+12086,"Florida","Miami-Dade",5186,10216,5942,24,8
+12089,"Florida","Nassau",8842,13880,8973,17,8
+12091,"Florida","Okaloosa",7804,9805,7990,18,8
+12095,"Florida","Orange",6147,8670,6163,20,9
+12097,"Florida","Osceola",6521,7484,8300,24,8
+12099,"Florida","Palm Beach",6644,8054,7385,19,8
+12101,"Florida","Pasco",8729,8684,9806,20,8
+12103,"Florida","Pinellas",8103,11496,8244,18,8
+12105,"Florida","Polk",7968,10657,8431,22,9
+12107,"Florida","Putnam",12954,18103,12741,26,11
+12109,"Florida","St. Johns",5314,9302,5336,14,7
+12111,"Florida","St. Lucie",7496,8964,8390,21,8
+12113,"Florida","Santa Rosa",7374,6512,7945,18,8
+12115,"Florida","Sarasota",7273,11202,7528,16,7
+12117,"Florida","Seminole",6078,9416,6408,17,8
+12119,"Florida","Sumter",8823,11463,9297,17,9
+12121,"Florida","Suwannee",9714,9557,10346,24,10
+12123,"Florida","Taylor",10414,10745,11204,28,10
+12125,"Florida","Union",17356,15153,18985,28,10
+12127,"Florida","Volusia",9522,10361,10487,19,9
+12133,"Florida","Washington",11460,10084,12238,27,8
+13001,"Georgia","Appling",9868,13316,9734,26,10
+13005,"Georgia","Bacon",10293,15257,9888,25,11
+13009,"Georgia","Baldwin",10323,12071,9502,24,12
+13013,"Georgia","Barrow",8845,10148,9349,20,8
+13015,"Georgia","Bartow",8396,9858,8754,20,8
+13017,"Georgia","Ben Hill",11217,12017,11811,26,14
+13021,"Georgia","Bibb",11148,13119,9316,23,14
+13023,"Georgia","Bleckley",7928,12683,6908,21,8
+13027,"Georgia","Brooks",10283,13425,9519,25,11
+13029,"Georgia","Bryan",7691,9310,7759,16,8
+13031,"Georgia","Bulloch",7478,9667,6842,22,10
+13033,"Georgia","Burke",11843,13516,10975,26,12
+13035,"Georgia","Butts",10485,10231,10933,25,10
+13039,"Georgia","Camden",8072,10726,7576,18,8
+13043,"Georgia","Candler",10154,16458,8335,28,12
+13045,"Georgia","Carroll",9327,10891,9489,21,8
+13051,"Georgia","Chatham",8047,10061,7076,19,10
+13055,"Georgia","Chattooga",11185,15183,11447,25,8
+13057,"Georgia","Cherokee",5318,6695,5452,14,7
+13059,"Georgia","Clarke",6904,11061,5901,21,10
+13063,"Georgia","Clayton",8852,9047,14493,25,12
+13067,"Georgia","Cobb",5436,6706,5445,14,9
+13069,"Georgia","Coffee",10452,11711,11214,25,11
+13071,"Georgia","Colquitt",10686,14870,10463,27,10
+13073,"Georgia","Columbia",5789,5780,6267,15,8
+13075,"Georgia","Cook",10290,12403,9892,24,11
+13077,"Georgia","Coweta",6320,8473,6217,17,9
+13081,"Georgia","Crisp",11243,13409,10529,28,13
+13087,"Georgia","Decatur",10108,12620,8587,25,12
+13089,"Georgia","DeKalb",7008,8988,4469,18,10
+13091,"Georgia","Dodge",9874,11050,9562,24,10
+13095,"Georgia","Dougherty",11493,11913,11296,27,14
+13097,"Georgia","Douglas",7376,6934,8947,19,10
+13099,"Georgia","Early",12042,12901,11139,27,15
+13103,"Georgia","Effingham",8170,9930,8102,17,9
+13105,"Georgia","Elbert",10146,10136,10627,24,10
+13107,"Georgia","Emanuel",11524,12288,11382,27,10
+13113,"Georgia","Fayette",5455,7413,5004,13,9
+13115,"Georgia","Floyd",9737,13250,9911,22,9
+13117,"Georgia","Forsyth",3930,4698,4569,12,7
+13119,"Georgia","Franklin",11145,15162,11415,23,9
+13121,"Georgia","Fulton",6602,10427,3970,15,11
+13127,"Georgia","Glynn",8879,11307,8582,18,12
+13131,"Georgia","Grady",9551,12434,8821,24,9
+13133,"Georgia","Greene",8472,11206,7370,22,12
+13135,"Georgia","Gwinnett",5114,5850,5782,17,9
+13139,"Georgia","Hall",6554,8991,7596,21,7
+13145,"Georgia","Harris",7046,9971,6549,14,9
+13147,"Georgia","Hart",7321,7933,7574,23,9
+13151,"Georgia","Henry",7348,8066,7460,17,10
+13153,"Georgia","Houston",7682,9230,7399,19,9
+13155,"Georgia","Irwin",12872,15941,11586,26,13
+13157,"Georgia","Jackson",7262,7446,7559,17,8
+13163,"Georgia","Jefferson",11449,13295,9906,27,11
+13165,"Georgia","Jenkins",9873,11109,9810,28,12
+13169,"Georgia","Jones",7692,7514,7863,20,8
+13171,"Georgia","Lamar",10838,12589,10627,21,12
+13175,"Georgia","Laurens",11835,14830,9868,25,11
+13177,"Georgia","Lee",8153,7293,8739,17,9
+13179,"Georgia","Liberty",9197,8843,11092,22,9
+13183,"Georgia","Long",6638,6618,7739,22,9
+13185,"Georgia","Lowndes",8962,11672,7815,22,11
+13189,"Georgia","McDuffie",12491,14720,11497,25,12
+13191,"Georgia","McIntosh",10963,11735,10856,21,10
+13199,"Georgia","Meriwether",12394,14724,11217,25,12
+13201,"Georgia","Miller",17646,30826,11848,22,10
+13205,"Georgia","Mitchell",11707,14318,9744,27,11
+13207,"Georgia","Monroe",8417,11649,7799,19,12
+13211,"Georgia","Morgan",8508,12801,7803,17,8
+13215,"Georgia","Muscogee",10724,13205,8880,21,12
+13217,"Georgia","Newton",8671,8680,9300,22,10
+13223,"Georgia","Paulding",6270,5723,6772,17,8
+13225,"Georgia","Peach",10198,12165,9473,23,10
+13233,"Georgia","Polk",10696,18398,10679,23,9
+13235,"Georgia","Pulaski",9955,13429,8077,25,10
+13237,"Georgia","Putnam",7079,9071,6589,21,9
+13245,"Georgia","Richmond",11403,11718,12490,25,12
+13247,"Georgia","Rockdale",8209,8365,9419,21,11
+13251,"Georgia","Screven",9711,9629,10293,24,11
+13253,"Georgia","Seminole",10839,12961,10318,23,13
+13255,"Georgia","Spalding",10754,12090,10691,23,13
+13257,"Georgia","Stephens",11054,15209,10794,20,9
+13261,"Georgia","Sumter",11395,14055,8411,26,13
+13267,"Georgia","Tattnall",8503,9555,8969,26,10
+13269,"Georgia","Taylor",10554,10399,10483,27,10
+13271,"Georgia","Telfair",8950,11146,9553,30,12
+13275,"Georgia","Thomas",9662,12594,8091,22,11
+13277,"Georgia","Tift",8956,12488,7885,23,12
+13279,"Georgia","Toombs",10565,12016,11038,26,12
+13285,"Georgia","Troup",9326,10462,9104,22,11
+13287,"Georgia","Turner",10494,14027,8904,26,14
+13289,"Georgia","Twiggs",15383,12742,18444,27,10
+13293,"Georgia","Upson",11324,10426,12208,24,12
+13295,"Georgia","Walker",9824,11332,9852,21,10
+13297,"Georgia","Walton",8188,10876,7638,18,9
+13299,"Georgia","Ware",10890,12310,10608,24,10
+13303,"Georgia","Washington",8422,9178,7834,26,10
+13305,"Georgia","Wayne",10702,14889,10022,24,10
+13313,"Georgia","Whitfield",7019,12850,8961,26,8
+13317,"Georgia","Wilkes",10523,11619,11003,26,10
+13319,"Georgia","Wilkinson",10558,9745,11910,25,13
+13321,"Georgia","Worth",10602,13480,9272,23,13
+15003,"Hawaii","Honolulu",5629,5960,5126,17,8
+16001,"Idaho","Ada",4834,5096,4910,13,7
+17001,"Illinois","Adams",7287,13167,7178,17,8
+17019,"Illinois","Champaign",6083,12638,5491,16,9
+17031,"Illinois","Cook",6892,13381,5093,18,9
+17037,"Illinois","DeKalb",5997,11648,5674,16,7
+17043,"Illinois","DuPage",4320,7237,4715,12,7
+17077,"Illinois","Jackson",8248,11495,8293,19,9
+17081,"Illinois","Jefferson",8953,15946,8264,19,9
+17089,"Illinois","Kane",4957,9729,5302,16,7
+17091,"Illinois","Kankakee",8534,14966,7451,19,9
+17093,"Illinois","Kendall",4309,6863,4125,14,7
+17095,"Illinois","Knox",7315,10578,7180,20,8
+17097,"Illinois","Lake",4860,11139,4745,14,8
+17099,"Illinois","LaSalle",8513,11269,9026,18,7
+17113,"Illinois","McLean",5884,10509,5756,14,8
+17115,"Illinois","Macon",8398,11635,7599,18,10
+17119,"Illinois","Madison",8831,13709,8588,16,8
+17143,"Illinois","Peoria",8579,15737,7311,17,10
+17161,"Illinois","Rock Island",7257,11685,7083,18,8
+17163,"Illinois","St. Clair",9679,14709,7714,19,10
+17167,"Illinois","Sangamon",7492,12204,6891,16,10
+17177,"Illinois","Stephenson",6942,11598,6289,17,9
+17183,"Illinois","Vermilion",10624,18087,9335,21,11
+17197,"Illinois","Will",5866,8968,6046,15,8
+17201,"Illinois","Winnebago",9314,15077,9026,19,9
+18003,"Indiana","Allen",8161,14159,7479,19,9
+18019,"Indiana","Clark",9430,11311,9840,19,8
+18035,"Indiana","Delaware",10682,15502,10527,21,9
+18039,"Indiana","Elkhart",7177,13094,7215,21,7
+18043,"Indiana","Floyd",8452,13914,8393,17,9
+18053,"Indiana","Grant",11110,16017,11169,21,10
+18057,"Indiana","Hamilton",4193,5514,4333,12,7
+18063,"Indiana","Hendricks",5288,4525,5556,14,6
+18067,"Indiana","Howard",11282,15903,11062,20,8
+18081,"Indiana","Johnson",6506,7377,6800,16,7
+18089,"Indiana","Lake",9390,14197,8485,23,9
+18091,"Indiana","LaPorte",9039,10961,9289,22,9
+18095,"Indiana","Madison",9538,12058,9459,21,9
+18097,"Indiana","Marion",9843,12810,9259,22,9
+18105,"Indiana","Monroe",5600,7252,5956,17,7
+18127,"Indiana","Porter",6911,9962,6991,17,7
+18141,"Indiana","St. Joseph",8466,15059,7707,19,9
+18157,"Indiana","Tippecanoe",6318,12810,6585,17,7
+18163,"Indiana","Vanderburgh",9139,14533,8610,19,9
+18167,"Indiana","Vigo",9109,8524,9651,20,9
+18177,"Indiana","Wayne",12777,19187,12634,21,8
+19013,"Iowa","Black Hawk",6998,14327,6223,15,7
+19057,"Iowa","Des Moines",7182,14925,6738,16,7
+19103,"Iowa","Johnson",4274,7787,4340,13,7
+19113,"Iowa","Linn",5827,11412,5595,13,7
+19153,"Iowa","Polk",6409,12674,6093,14,7
+19163,"Iowa","Scott",6615,12469,6306,13,8
+19193,"Iowa","Woodbury",7179,8720,7217,17,7
+20045,"Kansas","Douglas",5356,8073,5357,15,7
+20061,"Kansas","Geary",9848,11622,9778,18,7
+20091,"Kansas","Johnson",4424,6917,4439,11,7
+20103,"Kansas","Leavenworth",6217,8595,6093,16,7
+20125,"Kansas","Montgomery",10422,19084,10838,20,8
+20173,"Kansas","Sedgwick",8081,13094,7649,18,8
+20177,"Kansas","Shawnee",8864,16673,7799,16,7
+20209,"Kansas","Wyandotte",9684,14598,9276,26,9
+21015,"Kentucky","Boone",6765,8681,6860,17,7
+21047,"Kentucky","Christian",10460,14266,9781,26,9
+21059,"Kentucky","Daviess",8266,9037,8425,21,8
+21067,"Kentucky","Fayette",7181,10410,6950,19,9
+21073,"Kentucky","Franklin",9523,8517,10246,19,10
+21093,"Kentucky","Hardin",8306,8345,8557,22,8
+21101,"Kentucky","Henderson",8790,11179,8755,23,11
+21107,"Kentucky","Hopkins",9599,8639,9768,24,9
+21111,"Kentucky","Jefferson",9656,12810,9185,21,9
+21117,"Kentucky","Kenton",9555,13846,9536,20,9
+21145,"Kentucky","McCracken",8944,11068,8955,22,9
+21151,"Kentucky","Madison",9088,13357,9140,21,9
+21227,"Kentucky","Warren",7661,10814,7568,22,9
+22001,"Louisiana","Acadia",10312,16091,9256,25,9
+22003,"Louisiana","Allen",9788,10849,9557,24,9
+22005,"Louisiana","Ascension",7012,8835,6867,18,9
+22007,"Louisiana","Assumption",9149,13577,7675,25,11
+22009,"Louisiana","Avoyelles",11220,13834,10378,28,12
+22011,"Louisiana","Beauregard",8975,12262,8710,22,9
+22013,"Louisiana","Bienville",12230,13798,11394,29,14
+22015,"Louisiana","Bossier",7491,9167,7081,20,11
+22017,"Louisiana","Caddo",10972,13882,8001,25,14
+22019,"Louisiana","Calcasieu",9980,13354,8870,21,10
+22027,"Louisiana","Claiborne",10257,11184,9724,30,16
+22029,"Louisiana","Concordia",12465,16000,10322,30,14
+22031,"Louisiana","De Soto",9036,11400,7779,26,12
+22033,"Louisiana","East Baton Rouge",10041,13186,7676,19,12
+22037,"Louisiana","East Feliciana",10923,12143,10136,25,11
+22039,"Louisiana","Evangeline",12099,14827,11736,29,11
+22041,"Louisiana","Franklin",9381,11296,8283,28,13
+22045,"Louisiana","Iberia",10094,14550,8433,25,11
+22047,"Louisiana","Iberville",10102,11208,9676,25,13
+22049,"Louisiana","Jackson",9590,12957,8735,26,11
+22051,"Louisiana","Jefferson",8665,11607,8556,21,10
+22053,"Louisiana","Jefferson Davis",10567,12791,10187,23,10
+22055,"Louisiana","Lafayette",7334,10690,6410,19,9
+22057,"Louisiana","Lafourche",8831,14529,7693,23,9
+22061,"Louisiana","Lincoln",8655,11037,7456,23,11
+22063,"Louisiana","Livingston",8945,12518,8860,19,8
+22065,"Louisiana","Madison",12780,16010,7011,34,16
+22067,"Louisiana","Morehouse",13952,16741,11166,28,14
+22069,"Louisiana","Natchitoches",10810,13518,9141,26,12
+22071,"Louisiana","Orleans",10085,12614,6339,22,12
+22073,"Louisiana","Ouachita",10051,13266,8241,24,12
+22075,"Louisiana","Plaquemines",8110,9524,8596,22,9
+22077,"Louisiana","Pointe Coupee",9999,11819,9299,24,10
+22079,"Louisiana","Rapides",10835,14975,9426,23,11
+22081,"Louisiana","Red River",13681,17937,11889,27,11
+22083,"Louisiana","Richland",11560,14796,9800,28,14
+22085,"Louisiana","Sabine",9907,14118,10181,24,9
+22087,"Louisiana","St. Bernard",11111,10916,12086,25,10
+22089,"Louisiana","St. Charles",7431,9212,6431,18,10
+22091,"Louisiana","St. Helena",11619,11783,12501,28,11
+22093,"Louisiana","St. James",10123,12618,8099,23,12
+22095,"Louisiana","St. John the Baptist",10467,11684,9855,23,12
+22097,"Louisiana","St. Landry",12818,16105,10771,28,11
+22099,"Louisiana","St. Martin",9402,12214,8448,23,9
+22101,"Louisiana","St. Mary",9924,13168,8820,27,10
+22103,"Louisiana","St. Tammany",7237,9076,7139,16,9
+22105,"Louisiana","Tangipahoa",9955,12651,9322,23,11
+22109,"Louisiana","Terrebonne",10094,14842,9402,25,9
+22111,"Louisiana","Union",9553,13639,8116,23,11
+22113,"Louisiana","Vermilion",7910,12838,7161,23,10
+22115,"Louisiana","Vernon",9176,12217,9385,21,7
+22117,"Louisiana","Washington",14398,14781,14655,27,12
+22119,"Louisiana","Webster",11687,13219,11005,27,12
+22121,"Louisiana","West Baton Rouge",8218,10804,6813,21,11
+22125,"Louisiana","West Feliciana",8979,9162,8929,21,9
+22127,"Louisiana","Winn",9740,7658,11599,25,11
+23001,"Maine","Androscoggin",7751,11159,7554,18,8
+23005,"Maine","Cumberland",5583,7314,5572,12,7
+24001,"Maryland","Allegany",8602,7760,9242,20,9
+24003,"Maryland","Anne Arundel",6793,7685,7046,13,8
+24005,"Maryland","Baltimore",8127,9580,8132,17,9
+24009,"Maryland","Calvert",6842,7303,7068,13,7
+24011,"Maryland","Caroline",8336,9394,8337,21,7
+24013,"Maryland","Carroll",6753,8828,6987,13,7
+24015,"Maryland","Cecil",9841,11852,9993,17,8
+24017,"Maryland","Charles",7310,7374,8145,15,9
+24019,"Maryland","Dorchester",10435,15584,9091,21,10
+24021,"Maryland","Frederick",5645,7521,5815,13,7
+24025,"Maryland","Harford",6854,8434,6888,16,7
+24027,"Maryland","Howard",4244,6657,3997,11,8
+24031,"Maryland","Montgomery",4065,5897,4153,12,7
+24033,"Maryland","Prince George's",6828,7905,6301,18,9
+24035,"Maryland","Queen Anne's",6647,11885,6394,13,7
+24037,"Maryland","St. Mary's",6877,9566,6821,16,7
+24039,"Maryland","Somerset",9586,9128,11612,24,9
+24041,"Maryland","Talbot",7284,10080,7101,14,7
+24043,"Maryland","Washington",8849,11732,8885,18,9
+24045,"Maryland","Wicomico",8637,10726,8354,18,9
+24047,"Maryland","Worcester",7443,10071,7036,16,6
+24510,"Maryland","Baltimore City",13830,16833,9977,21,12
+25001,"Massachusetts","Barnstable",7072,6719,7144,13,7
+25003,"Massachusetts","Berkshire",8223,15952,8168,15,8
+25005,"Massachusetts","Bristol",7181,6317,7134,16,8
+25009,"Massachusetts","Essex",5943,6661,6231,15,8
+25013,"Massachusetts","Hampden",7737,11195,7434,19,8
+25017,"Massachusetts","Middlesex",4231,5480,4455,11,7
+25021,"Massachusetts","Norfolk",4545,5291,4956,11,7
+25023,"Massachusetts","Plymouth",6132,5751,6289,14,7
+25025,"Massachusetts","Suffolk",5423,7807,5298,18,9
+25027,"Massachusetts","Worcester",6420,6327,6488,15,8
+26017,"Michigan","Bay",8069,14941,7917,19,7
+26021,"Michigan","Berrien",7875,13373,6986,19,8
+26025,"Michigan","Calhoun",9084,12908,8928,19,9
+26045,"Michigan","Eaton",6175,6639,6096,16,7
+26049,"Michigan","Genesee",10130,14796,8847,20,10
+26065,"Michigan","Ingham",7338,12573,6790,16,8
+26075,"Michigan","Jackson",8177,11256,7765,18,9
+26077,"Michigan","Kalamazoo",6816,11725,6179,16,8
+26081,"Michigan","Kent",5741,10593,5272,17,8
+26099,"Michigan","Macomb",7621,10986,7284,17,9
+26115,"Michigan","Monroe",7983,10454,7901,17,7
+26121,"Michigan","Muskegon",8533,13064,7388,20,10
+26125,"Michigan","Oakland",5627,8755,5400,14,8
+26139,"Michigan","Ottawa",4454,7444,4334,15,6
+26145,"Michigan","Saginaw",8543,14122,6944,20,10
+26147,"Michigan","St. Clair",8305,13776,8255,19,7
+26159,"Michigan","Van Buren",7254,12645,7158,21,7
+26161,"Michigan","Washtenaw",5019,9157,4727,14,7
+26163,"Michigan","Wayne",10534,14801,8023,24,11
+27003,"Minnesota","Anoka",5087,6928,4967,13,6
+27037,"Minnesota","Dakota",4314,5717,4199,11,7
+27053,"Minnesota","Hennepin",5175,9889,4357,11,7
+27109,"Minnesota","Olmsted",4427,8082,4318,11,6
+27123,"Minnesota","Ramsey",5984,10369,5053,14,8
+27137,"Minnesota","St. Louis",6962,15103,6534,14,7
+27139,"Minnesota","Scott",3661,4741,3563,11,6
+27145,"Minnesota","Stearns",5231,7231,5041,13,6
+27163,"Minnesota","Washington",4265,4214,4393,11,6
+28001,"Mississippi","Adams",11856,14946,11061,31,13
+28003,"Mississippi","Alcorn",11779,14237,11481,23,11
+28005,"Mississippi","Amite",9465,11837,8128,27,11
+28007,"Mississippi","Attala",11022,14762,8055,27,14
+28009,"Mississippi","Benton",12427,14123,12147,27,11
+28011,"Mississippi","Bolivar",13397,15236,10246,30,14
+28013,"Mississippi","Calhoun",10794,13862,9649,27,12
+28017,"Mississippi","Chickasaw",11860,13035,11817,29,13
+28019,"Mississippi","Choctaw",12555,18305,10366,24,11
+28023,"Mississippi","Clarke",11519,16178,8883,24,13
+28025,"Mississippi","Clay",8220,9164,7097,27,14
+28027,"Mississippi","Coahoma",16184,17413,13384,33,18
+28029,"Mississippi","Copiah",9958,10602,9691,27,15
+28031,"Mississippi","Covington",11898,13627,11282,26,12
+28033,"Mississippi","DeSoto",8323,7919,8989,18,9
+28035,"Mississippi","Forrest",11926,15316,10220,23,12
+28041,"Mississippi","Greene",8658,9634,8592,23,7
+28043,"Mississippi","Grenada",15644,19224,13219,25,12
+28047,"Mississippi","Harrison",9845,11514,9857,22,10
+28049,"Mississippi","Hinds",11034,11756,9169,24,15
+28059,"Mississippi","Jackson",9522,11301,9753,20,10
+28061,"Mississippi","Jasper",11799,12371,11472,27,13
+28067,"Mississippi","Jones",10863,12395,10376,24,11
+28071,"Mississippi","Lafayette",6898,10840,5591,19,8
+28073,"Mississippi","Lamar",6775,7872,6740,17,10
+28075,"Mississippi","Lauderdale",10922,12957,9447,23,13
+28077,"Mississippi","Lawrence",12691,13059,12575,24,11
+28079,"Mississippi","Leake",9681,9203,8521,30,10
+28081,"Mississippi","Lee",9700,11785,8860,22,12
+28083,"Mississippi","Leflore",14973,16258,11855,33,15
+28085,"Mississippi","Lincoln",10895,13134,10151,23,11
+28087,"Mississippi","Lowndes",10574,11842,9736,23,11
+28089,"Mississippi","Madison",6804,9225,5557,16,11
+28091,"Mississippi","Marion",11627,11368,11730,29,11
+28093,"Mississippi","Marshall",12772,12863,13335,26,12
+28095,"Mississippi","Monroe",10541,11215,10247,24,14
+28097,"Mississippi","Montgomery",14248,14578,15070,27,14
+28099,"Mississippi","Neshoba",14637,13683,11515,28,9
+28101,"Mississippi","Newton",10474,12443,8960,25,12
+28105,"Mississippi","Oktibbeha",8973,13190,6023,22,11
+28107,"Mississippi","Panola",12059,13089,10823,27,12
+28109,"Mississippi","Pearl River",11552,14462,11221,21,10
+28111,"Mississippi","Perry",10135,14707,8982,26,8
+28113,"Mississippi","Pike",13324,14501,12218,30,13
+28115,"Mississippi","Pontotoc",9079,10030,9515,25,10
+28117,"Mississippi","Prentiss",11485,10490,11712,27,12
+28119,"Mississippi","Quitman",14885,15124,14111,36,17
+28121,"Mississippi","Rankin",7309,7492,7531,18,9
+28123,"Mississippi","Scott",12349,14881,12255,30,13
+28127,"Mississippi","Simpson",10683,11173,10821,27,12
+28129,"Mississippi","Smith",11966,15352,11156,24,11
+28131,"Mississippi","Stone",9573,11302,9081,23,12
+28133,"Mississippi","Sunflower",15304,16528,12048,32,15
+28135,"Mississippi","Tallahatchie",11374,13882,8271,33,15
+28137,"Mississippi","Tate",10383,11458,9868,24,10
+28139,"Mississippi","Tippah",10770,15050,10270,26,11
+28145,"Mississippi","Union",8540,11045,8296,23,10
+28147,"Mississippi","Walthall",9892,11580,8755,29,12
+28149,"Mississippi","Warren",12001,13715,10540,24,13
+28151,"Mississippi","Washington",15516,17076,11617,29,14
+28153,"Mississippi","Wayne",10058,11942,9074,27,13
+28159,"Mississippi","Winston",11005,13628,8243,27,14
+28161,"Mississippi","Yalobusha",12731,10525,14845,25,11
+28163,"Mississippi","Yazoo",11149,13323,9770,32,13
+29019,"Missouri","Boone",6226,14069,5608,17,8
+29021,"Missouri","Buchanan",8366,11227,8372,22,8
+29023,"Missouri","Butler",10680,17989,10415,25,11
+29031,"Missouri","Cape Girardeau",8199,15791,7495,19,9
+29037,"Missouri","Cass",7170,8188,7235,17,7
+29047,"Missouri","Clay",6125,8109,6060,16,7
+29051,"Missouri","Cole",7103,11322,6607,17,8
+29069,"Missouri","Dunklin",11981,15967,11929,29,12
+29077,"Missouri","Greene",8453,13561,8489,20,8
+29095,"Missouri","Jackson",8944,14275,7469,21,9
+29097,"Missouri","Jasper",8975,20995,9060,22,7
+29099,"Missouri","Jefferson",9032,15505,9113,18,8
+29133,"Missouri","Mississippi",12941,13138,13122,31,12
+29143,"Missouri","New Madrid",12169,15118,12072,29,11
+29155,"Missouri","Pemiscot",13952,20167,12218,31,12
+29165,"Missouri","Platte",5890,8314,5806,14,6
+29169,"Missouri","Pulaski",8041,6593,9088,20,7
+29183,"Missouri","St. Charles",5915,7284,5979,14,7
+29189,"Missouri","St. Louis",8211,14841,6153,16,10
+29201,"Missouri","Scott",9790,10784,9995,23,10
+29510,"Missouri","St. Louis City",13145,19471,8596,24,13
+30111,"Montana","Yellowstone",7279,20558,6706,15,8
+31055,"Nebraska","Douglas",6494,11781,6108,15,8
+31109,"Nebraska","Lancaster",5474,7570,5552,13,7
+31153,"Nebraska","Sarpy",4742,6296,4879,10,7
+32003,"Nevada","Clark",7029,11551,7927,22,9
+32031,"Nevada","Washoe",6771,10797,7593,18,8
+33011,"New Hampshire","Hillsborough",6609,6729,7050,12,7
+34001,"New Jersey","Atlantic",8908,13766,9182,19,8
+34003,"New Jersey","Bergen",3893,5766,4620,14,8
+34005,"New Jersey","Burlington",6543,8276,6766,15,8
+34007,"New Jersey","Camden",8675,13029,8119,18,9
+34009,"New Jersey","Cape May",9076,12919,9109,15,7
+34011,"New Jersey","Cumberland",10298,11470,11002,25,10
+34013,"New Jersey","Essex",7139,10880,4745,21,10
+34015,"New Jersey","Gloucester",7829,10823,7974,15,8
+34017,"New Jersey","Hudson",4971,10043,5861,20,9
+34021,"New Jersey","Mercer",6182,10622,5953,17,9
+34023,"New Jersey","Middlesex",4910,6390,6590,15,8
+34025,"New Jersey","Monmouth",5633,10561,5606,14,7
+34027,"New Jersey","Morris",4044,5945,4353,12,6
+34029,"New Jersey","Ocean",6778,9430,7012,16,6
+34031,"New Jersey","Passaic",6000,12218,6190,22,9
+34033,"New Jersey","Salem",10268,17085,9572,19,8
+34035,"New Jersey","Somerset",4377,7552,4888,12,7
+34037,"New Jersey","Sussex",6557,6849,6976,13,6
+34039,"New Jersey","Union",5295,8365,5127,19,8
+34041,"New Jersey","Warren",6272,6173,6757,15,8
+35001,"New Mexico","Bernalillo",8398,10648,7348,19,9
+35009,"New Mexico","Curry",8939,16592,7856,22,8
+35013,"New Mexico","Dona Ana",6918,8609,7565,24,8
+35025,"New Mexico","Lea",9828,14648,12432,23,9
+36001,"New York","Albany",6039,10578,5553,13,8
+36005,"New York","Bronx",6711,8488,7881,29,10
+36007,"New York","Broome",7179,11233,7012,17,8
+36013,"New York","Chautauqua",7432,11360,7222,18,8
+36015,"New York","Chemung",8545,12120,8412,18,7
+36021,"New York","Columbia",6700,9700,6715,15,6
+36027,"New York","Dutchess",5893,7472,6111,15,7
+36029,"New York","Erie",6828,11852,6029,17,9
+36039,"New York","Greene",8216,9697,8494,17,7
+36045,"New York","Jefferson",6983,6419,7280,17,7
+36047,"New York","Kings",5068,6901,4002,19,8
+36055,"New York","Monroe",6583,11596,5517,16,9
+36059,"New York","Nassau",4150,6269,4201,13,8
+36061,"New York","New York",3939,8812,2554,16,8
+36063,"New York","Niagara",7250,13861,6660,18,8
+36065,"New York","Oneida",7392,12946,7050,19,8
+36067,"New York","Onondaga",6398,11636,5639,15,8
+36071,"New York","Orange",5739,7293,6112,17,7
+36081,"New York","Queens",4307,6301,4881,19,8
+36083,"New York","Rensselaer",6459,11813,5928,15,8
+36085,"New York","Richmond",5541,7784,5172,17,8
+36087,"New York","Rockland",4363,4915,4631,16,6
+36091,"New York","Saratoga",4783,4891,4943,13,6
+36093,"New York","Schenectady",6690,10168,6516,16,8
+36103,"New York","Suffolk",5652,8160,5765,14,8
+36105,"New York","Sullivan",7978,6870,9016,20,8
+36111,"New York","Ulster",6073,7356,6407,16,7
+36119,"New York","Westchester",4221,6580,4055,14,8
+37001,"North Carolina","Alamance",8101,10466,8326,21,9
+37007,"North Carolina","Anson",11631,13060,10512,26,13
+37013,"North Carolina","Beaufort",10240,12665,9912,22,10
+37015,"North Carolina","Bertie",9957,10900,7955,27,12
+37017,"North Carolina","Bladen",10312,13811,9678,26,10
+37019,"North Carolina","Brunswick",8508,8533,8844,17,9
+37021,"North Carolina","Buncombe",7414,10468,7526,16,8
+37023,"North Carolina","Burke",9675,11226,10099,22,9
+37025,"North Carolina","Cabarrus",6824,8327,7132,17,9
+37027,"North Carolina","Caldwell",8982,12903,8962,22,10
+37031,"North Carolina","Carteret",8476,11506,8821,17,7
+37033,"North Carolina","Caswell",10311,11733,9850,23,10
+37035,"North Carolina","Catawba",8016,12570,7909,19,9
+37037,"North Carolina","Chatham",6456,10576,6135,16,9
+37041,"North Carolina","Chowan",11330,15651,9332,23,10
+37045,"North Carolina","Cleveland",10088,12120,9869,23,10
+37047,"North Carolina","Columbus",11408,13463,11117,26,11
+37049,"North Carolina","Craven",9633,12500,9709,19,8
+37051,"North Carolina","Cumberland",9279,10644,9283,22,10
+37057,"North Carolina","Davidson",8898,9648,9096,20,10
+37061,"North Carolina","Duplin",8197,11606,8216,29,9
+37063,"North Carolina","Durham",6069,8833,4724,17,9
+37065,"North Carolina","Edgecombe",12841,14401,10975,28,13
+37067,"North Carolina","Forsyth",7836,11104,7122,19,11
+37069,"North Carolina","Franklin",8209,10787,7643,21,9
+37071,"North Carolina","Gaston",9230,10309,9388,21,10
+37073,"North Carolina","Gates",12810,16277,11900,19,10
+37077,"North Carolina","Granville",7699,8880,7630,21,9
+37079,"North Carolina","Greene",7770,10295,8365,27,11
+37081,"North Carolina","Guilford",7958,10145,7326,19,10
+37083,"North Carolina","Halifax",11371,12100,11349,29,12
+37085,"North Carolina","Harnett",8377,10849,8297,21,9
+37089,"North Carolina","Henderson",6986,8311,7316,17,8
+37091,"North Carolina","Hertford",9028,8112,10632,27,11
+37093,"North Carolina","Hoke",9138,11569,7305,24,9
+37097,"North Carolina","Iredell",7326,11262,7233,17,8
+37101,"North Carolina","Johnston",6711,8626,6637,20,8
+37105,"North Carolina","Lee",9721,16529,9039,23,10
+37107,"North Carolina","Lenoir",11111,13037,10607,26,11
+37109,"North Carolina","Lincoln",7753,12796,7856,19,8
+37117,"North Carolina","Martin",10177,12111,9468,24,12
+37119,"North Carolina","Mecklenburg",5763,8436,4899,15,9
+37123,"North Carolina","Montgomery",9020,13515,9209,24,10
+37125,"North Carolina","Moore",7569,11314,7382,17,8
+37127,"North Carolina","Nash",9964,10713,10012,21,10
+37129,"North Carolina","New Hanover",7115,11732,6602,16,8
+37131,"North Carolina","Northampton",9664,11259,7108,27,12
+37133,"North Carolina","Onslow",8163,9698,8525,20,7
+37135,"North Carolina","Orange",4756,9984,4358,14,8
+37139,"North Carolina","Pasquotank",8830,9159,9385,21,9
+37141,"North Carolina","Pender",8870,13885,8236,18,9
+37145,"North Carolina","Person",10004,13964,8753,22,10
+37147,"North Carolina","Pitt",7935,11458,5971,20,10
+37151,"North Carolina","Randolph",9898,14335,10529,21,8
+37153,"North Carolina","Richmond",10824,13363,10255,27,12
+37155,"North Carolina","Robeson",13450,15425,12766,31,12
+37157,"North Carolina","Rockingham",10030,13062,9645,22,9
+37159,"North Carolina","Rowan",9636,12104,9989,21,10
+37161,"North Carolina","Rutherford",9033,12180,8871,22,9
+37163,"North Carolina","Sampson",9038,9672,9717,27,9
+37165,"North Carolina","Scotland",11691,14000,9952,28,14
+37167,"North Carolina","Stanly",10175,11703,10233,20,10
+37179,"North Carolina","Union",5403,8615,5285,16,7
+37181,"North Carolina","Vance",13172,15607,12659,27,12
+37183,"North Carolina","Wake",4667,7472,4086,14,8
+37185,"North Carolina","Warren",9176,10047,6955,26,12
+37191,"North Carolina","Wayne",9643,12552,8792,24,9
+37193,"North Carolina","Wilkes",9317,16649,9371,23,10
+37195,"North Carolina","Wilson",9941,12587,8721,25,11
+38017,"North Dakota","Cass",5590,6568,5224,13,7
+39003,"Ohio","Allen",8211,10889,7972,19,9
+39007,"Ohio","Ashtabula",10033,13166,10175,23,8
+39017,"Ohio","Butler",9226,10692,9536,17,8
+39023,"Ohio","Clark",11727,17883,11466,21,9
+39025,"Ohio","Clermont",8020,9122,8145,17,7
+39035,"Ohio","Cuyahoga",8939,13007,7377,19,11
+39041,"Ohio","Delaware",4186,6263,4277,12,6
+39043,"Ohio","Erie",8799,11770,8720,18,8
+39045,"Ohio","Fairfield",7039,5863,7278,16,8
+39049,"Ohio","Franklin",8285,12047,7628,16,9
+39057,"Ohio","Greene",6822,7759,6917,16,7
+39061,"Ohio","Hamilton",9110,13146,7915,18,9
+39081,"Ohio","Jefferson",10642,28639,9542,20,9
+39085,"Ohio","Lake",7239,8761,7403,16,7
+39089,"Ohio","Licking",7203,6340,7438,17,8
+39093,"Ohio","Lorain",7932,13054,7519,18,8
+39095,"Ohio","Lucas",9889,14340,9029,20,10
+39099,"Ohio","Mahoning",9341,16949,7982,20,11
+39101,"Ohio","Marion",10216,7681,10783,22,9
+39109,"Ohio","Miami",7500,12427,7578,17,6
+39113,"Ohio","Montgomery",11171,15069,10415,20,9
+39119,"Ohio","Muskingum",9620,12966,9523,21,8
+39133,"Ohio","Portage",7185,8637,7265,17,8
+39139,"Ohio","Richland",9760,11809,9859,21,8
+39141,"Ohio","Ross",9606,7032,9925,22,9
+39143,"Ohio","Sandusky",8730,16158,8917,19,7
+39151,"Ohio","Stark",8372,12475,8150,19,8
+39153,"Ohio","Summit",8522,13454,7725,17,9
+39155,"Ohio","Trumbull",10571,15875,10066,21,9
+39165,"Ohio","Warren",5921,6661,6235,14,7
+40017,"Oklahoma","Canadian",6733,7129,6852,17,7
+40019,"Oklahoma","Carter",9817,8943,9835,22,9
+40027,"Oklahoma","Cleveland",7056,7436,7317,17,7
+40031,"Oklahoma","Comanche",8947,10650,8636,22,8
+40037,"Oklahoma","Creek",10328,13815,9779,22,8
+40089,"Oklahoma","McCurtain",12692,22007,11770,28,8
+40101,"Oklahoma","Muskogee",11630,12346,11092,25,8
+40109,"Oklahoma","Oklahoma",8819,12642,8405,21,9
+40111,"Oklahoma","Okmulgee",12598,17870,11882,25,8
+40143,"Oklahoma","Tulsa",8484,13993,7871,20,8
+41005,"Oregon","Clackamas",5053,4972,5309,15,6
+41039,"Oregon","Lane",6433,9543,6592,18,7
+41047,"Oregon","Marion",5880,5360,6514,21,6
+41051,"Oregon","Multnomah",5903,10893,5828,17,7
+41067,"Oregon","Washington",4069,5474,4318,15,6
+42003,"Pennsylvania","Allegheny",7750,13993,6872,16,8
+42007,"Pennsylvania","Beaver",8676,15069,8156,17,7
+42011,"Pennsylvania","Berks",6683,10049,6465,19,8
+42013,"Pennsylvania","Blair",8038,11877,7994,18,7
+42017,"Pennsylvania","Bucks",6261,7368,6566,13,8
+42021,"Pennsylvania","Cambria",9711,19857,9371,19,9
+42029,"Pennsylvania","Chester",5038,9167,5166,13,7
+42041,"Pennsylvania","Cumberland",5925,6728,6172,15,7
+42043,"Pennsylvania","Dauphin",7632,10935,6834,18,9
+42045,"Pennsylvania","Delaware",7441,10085,7037,16,9
+42049,"Pennsylvania","Erie",7921,13288,7553,18,9
+42051,"Pennsylvania","Fayette",10187,12209,10181,21,9
+42055,"Pennsylvania","Franklin",6721,9798,6729,18,7
+42069,"Pennsylvania","Lackawanna",8546,14614,8537,18,9
+42071,"Pennsylvania","Lancaster",5905,6449,5872,18,7
+42073,"Pennsylvania","Lawrence",9791,15911,9476,18,9
+42075,"Pennsylvania","Lebanon",6898,9667,6671,19,8
+42077,"Pennsylvania","Lehigh",6360,7948,6676,19,8
+42079,"Pennsylvania","Luzerne",9007,13121,9360,20,8
+42081,"Pennsylvania","Lycoming",7282,14990,6823,18,8
+42085,"Pennsylvania","Mercer",8813,15959,8322,18,8
+42089,"Pennsylvania","Monroe",7295,7950,8178,19,9
+42091,"Pennsylvania","Montgomery",5231,7786,5264,14,7
+42095,"Pennsylvania","Northampton",6017,8907,6095,17,8
+42097,"Pennsylvania","Northumberland",8733,10907,8485,20,7
+42101,"Pennsylvania","Philadelphia",10027,12795,8961,24,11
+42107,"Pennsylvania","Schuylkill",9758,7505,10249,20,8
+42125,"Pennsylvania","Washington",8560,14559,8523,16,7
+42129,"Pennsylvania","Westmoreland",8008,14084,7854,15,7
+42133,"Pennsylvania","York",7027,10235,6885,17,8
+44007,"Rhode Island","Providence",6400,8110,6879,19,8
+45001,"South Carolina","Abbeville",9821,13371,8392,22,9
+45003,"South Carolina","Aiken",9511,11798,9213,19,10
+45007,"South Carolina","Anderson",8977,10235,8990,19,9
+45009,"South Carolina","Bamberg",13649,16166,9568,25,12
+45011,"South Carolina","Barnwell",12378,14063,11951,25,12
+45013,"South Carolina","Beaufort",5899,10642,5225,14,8
+45015,"South Carolina","Berkeley",7347,9518,7013,18,9
+45017,"South Carolina","Calhoun",11072,12451,11494,21,11
+45019,"South Carolina","Charleston",7270,12593,5471,14,9
+45021,"South Carolina","Cherokee",11476,13282,11354,22,11
+45023,"South Carolina","Chester",12513,15048,11300,23,12
+45025,"South Carolina","Chesterfield",11254,12646,10969,25,11
+45027,"South Carolina","Clarendon",11174,12840,9802,25,11
+45029,"South Carolina","Colleton",13795,16003,12376,25,11
+45031,"South Carolina","Darlington",12416,12457,12780,23,12
+45033,"South Carolina","Dillon",13023,13827,12748,30,12
+45035,"South Carolina","Dorchester",7213,8597,6972,17,8
+45037,"South Carolina","Edgefield",6872,9559,5624,22,9
+45039,"South Carolina","Fairfield",12492,12881,12914,25,12
+45041,"South Carolina","Florence",11627,13895,10154,21,13
+45043,"South Carolina","Georgetown",11261,12721,10933,20,11
+45045,"South Carolina","Greenville",7365,10383,7136,16,8
+45047,"South Carolina","Greenwood",9714,11887,9016,21,10
+45049,"South Carolina","Hampton",12301,12661,12541,27,13
+45051,"South Carolina","Horry",9249,11591,9316,18,9
+45053,"South Carolina","Jasper",9861,10583,10210,24,10
+45055,"South Carolina","Kershaw",8948,9221,9323,19,9
+45057,"South Carolina","Lancaster",9346,12323,9027,18,10
+45059,"South Carolina","Laurens",10964,12548,10860,23,11
+45061,"South Carolina","Lee",13980,14368,13356,28,14
+45063,"South Carolina","Lexington",7569,9143,7568,16,8
+45067,"South Carolina","Marion",13959,15222,12371,26,13
+45069,"South Carolina","Marlboro",13300,12578,15290,29,12
+45071,"South Carolina","Newberry",8375,11368,7888,22,12
+45073,"South Carolina","Oconee",9869,9534,10562,20,8
+45075,"South Carolina","Orangeburg",12580,13152,12307,24,12
+45077,"South Carolina","Pickens",8059,8501,8397,18,8
+45079,"South Carolina","Richland",7864,9753,6188,16,11
+45081,"South Carolina","Saluda",7562,10565,7485,22,10
+45083,"South Carolina","Spartanburg",9341,11123,9495,19,9
+45085,"South Carolina","Sumter",10103,11484,9369,22,11
+45087,"South Carolina","Union",11252,11657,11566,23,13
+45089,"South Carolina","Williamsburg",15223,16636,14190,27,13
+45091,"South Carolina","York",7095,9212,7045,15,8
+46099,"South Dakota","Minnehaha",6682,9209,6246,13,7
+47001,"Tennessee","Anderson",10513,11912,10854,21,9
+47003,"Tennessee","Bedford",9846,10942,10185,25,9
+47009,"Tennessee","Blount",8763,8565,9084,20,8
+47011,"Tennessee","Bradley",8450,10329,8587,22,9
+47037,"Tennessee","Davidson",8539,11719,7721,19,9
+47043,"Tennessee","Dickson",10257,14933,10042,22,8
+47045,"Tennessee","Dyer",11637,16072,11137,24,11
+47047,"Tennessee","Fayette",8600,13059,6877,21,10
+47053,"Tennessee","Gibson",10452,15163,9556,24,9
+47063,"Tennessee","Hamblen",10029,15771,10277,25,8
+47065,"Tennessee","Hamilton",8534,12090,7987,20,10
+47069,"Tennessee","Hardeman",9794,10539,8956,30,12
+47075,"Tennessee","Haywood",12640,14906,10724,29,12
+47093,"Tennessee","Knox",9209,14474,8974,19,8
+47095,"Tennessee","Lake",11872,9473,13494,30,10
+47097,"Tennessee","Lauderdale",10958,10908,11588,30,11
+47107,"Tennessee","McMinn",11206,14893,11346,24,9
+47113,"Tennessee","Madison",10019,12681,8625,24,10
+47119,"Tennessee","Maury",8652,10812,8610,21,9
+47125,"Tennessee","Montgomery",8999,11410,8912,21,8
+47131,"Tennessee","Obion",9150,13206,8863,27,9
+47147,"Tennessee","Robertson",8769,13619,8719,20,8
+47149,"Tennessee","Rutherford",7311,8746,7335,19,9
+47157,"Tennessee","Shelby",10577,13145,7827,23,12
+47163,"Tennessee","Sullivan",9723,14336,9783,22,8
+47165,"Tennessee","Sumner",7296,9243,7319,18,8
+47167,"Tennessee","Tipton",9191,11845,8904,22,9
+47179,"Tennessee","Washington",9691,12186,9730,20,8
+47183,"Tennessee","Weakley",9101,14916,8906,24,7
+47187,"Tennessee","Williamson",4273,6690,4395,12,6
+47189,"Tennessee","Wilson",7276,10060,7136,17,9
+48001,"Texas","Anderson",11034,12939,10790,24,7
+48005,"Texas","Angelina",8689,13503,8442,25,9
+48021,"Texas","Bastrop",7492,7730,8787,22,8
+48027,"Texas","Bell",7426,9639,7743,20,9
+48029,"Texas","Bexar",6970,9858,7119,22,9
+48037,"Texas","Bowie",9573,12804,8848,21,10
+48039,"Texas","Brazoria",6092,6938,7254,18,8
+48041,"Texas","Brazos",4907,9715,4442,19,8
+48051,"Texas","Burleson",7508,13643,7197,21,9
+48067,"Texas","Cass",10331,15468,9694,22,8
+48071,"Texas","Chambers",7206,11504,7783,19,8
+48073,"Texas","Cherokee",9686,12413,10607,25,8
+48085,"Texas","Collin",4089,5552,4455,14,8
+48089,"Texas","Colorado",8982,16219,7184,22,9
+48099,"Texas","Coryell",7110,6111,8308,21,9
+48113,"Texas","Dallas",6802,10711,6812,23,9
+48121,"Texas","Denton",4268,5346,4749,14,7
+48123,"Texas","DeWitt",8665,17544,7910,24,8
+48135,"Texas","Ector",9731,11969,14287,24,9
+48139,"Texas","Ellis",6433,8314,7282,18,7
+48141,"Texas","El Paso",6214,8949,8401,27,8
+48145,"Texas","Falls",7536,9520,8867,27,10
+48157,"Texas","Fort Bend",4242,6139,4567,15,9
+48167,"Texas","Galveston",7481,12762,7507,19,9
+48181,"Texas","Grayson",8948,12901,9444,19,8
+48183,"Texas","Gregg",9445,14172,9168,23,8
+48185,"Texas","Grimes",8989,11368,8971,25,10
+48187,"Texas","Guadalupe",6143,6197,6269,19,8
+48199,"Texas","Hardin",9471,24055,8763,19,9
+48201,"Texas","Harris",6391,10743,6556,22,9
+48203,"Texas","Harrison",9714,15039,9433,22,8
+48209,"Texas","Hays",4886,8427,5030,18,7
+48213,"Texas","Henderson",10723,16387,11382,22,8
+48217,"Texas","Hill",9112,14780,10045,22,8
+48225,"Texas","Houston",9750,10543,10961,27,9
+48231,"Texas","Hunt",8805,16945,8849,22,8
+48241,"Texas","Jasper",10795,14404,10495,23,9
+48245,"Texas","Jefferson",9409,13034,9604,24,10
+48251,"Texas","Johnson",7766,8390,8577,20,7
+48257,"Texas","Kaufman",7757,10688,8431,20,8
+48277,"Texas","Lamar",10617,13688,10482,22,9
+48291,"Texas","Liberty",10282,9770,11985,25,9
+48293,"Texas","Limestone",10407,12020,12551,25,10
+48303,"Texas","Lubbock",8522,16137,7728,21,9
+48309,"Texas","McLennan",7731,12753,7260,22,8
+48321,"Texas","Matagorda",9337,12700,11963,26,8
+48329,"Texas","Midland",7223,13193,7922,19,8
+48331,"Texas","Milam",9454,16060,9475,24,7
+48339,"Texas","Montgomery",6071,8459,6615,16,7
+48347,"Texas","Nacogdoches",8458,11455,8956,23,8
+48349,"Texas","Navarro",9577,9374,11189,24,9
+48351,"Texas","Newton",9981,10856,10005,24,10
+48355,"Texas","Nueces",7952,12901,8626,24,9
+48361,"Texas","Orange",10299,14333,10525,20,10
+48365,"Texas","Panola",9412,12995,9304,22,9
+48373,"Texas","Polk",9712,8973,10745,24,7
+48375,"Texas","Potter",10643,14190,12646,26,10
+48381,"Texas","Randall",6780,9457,7217,16,8
+48395,"Texas","Robertson",9945,13862,10361,22,10
+48397,"Texas","Rockwall",4923,6579,5165,14,8
+48401,"Texas","Rusk",8248,10869,8075,23,7
+48407,"Texas","San Jacinto",9807,14989,9962,24,9
+48419,"Texas","Shelby",10117,10429,11539,26,8
+48423,"Texas","Smith",7667,10838,8004,21,8
+48439,"Texas","Tarrant",6323,8848,6720,21,8
+48441,"Texas","Taylor",9300,14299,9250,20,9
+48449,"Texas","Titus",7609,15094,9792,26,7
+48451,"Texas","Tom Green",7594,11270,8216,21,8
+48453,"Texas","Travis",4665,7972,4735,16,8
+48457,"Texas","Tyler",10738,13860,10896,22,8
+48459,"Texas","Upshur",10394,12490,10883,20,8
+48469,"Texas","Victoria",8039,10616,8485,23,8
+48471,"Texas","Walker",6379,6393,7015,23,8
+48473,"Texas","Waller",6295,10591,6493,23,8
+48477,"Texas","Washington",7179,12934,6063,20,8
+48481,"Texas","Wharton",8116,12295,7562,25,9
+48485,"Texas","Wichita",9500,13004,9526,22,8
+48491,"Texas","Williamson",4248,5470,4866,15,7
+49011,"Utah","Davis",4984,6931,4988,12,7
+49035,"Utah","Salt Lake",6190,9317,6348,16,8
+49057,"Utah","Weber",6654,10974,6748,16,8
+50007,"Vermont","Chittenden",4994,11633,4815,11,6
+51001,"Virginia","Accomack",8645,10384,7880,24,10
+51003,"Virginia","Albemarle",4567,7765,4408,14,7
+51009,"Virginia","Amherst",7579,8254,7552,20,8
+51011,"Virginia","Appomattox",8097,11412,7208,20,9
+51013,"Virginia","Arlington",2821,5711,2491,11,7
+51019,"Virginia","Bedford",6754,7611,6929,16,7
+51025,"Virginia","Brunswick",11056,11849,10767,26,11
+51029,"Virginia","Buckingham",7995,12740,5620,24,10
+51031,"Virginia","Campbell",6761,7104,6945,19,8
+51033,"Virginia","Caroline",7947,8458,8134,18,9
+51037,"Virginia","Charlotte",10929,12719,10375,24,11
+51041,"Virginia","Chesterfield",6436,7316,6569,15,8
+51047,"Virginia","Culpeper",7539,10265,7531,18,7
+51053,"Virginia","Dinwiddie",8137,6635,9215,21,10
+51057,"Virginia","Essex",11283,12371,11830,22,14
+51059,"Virginia","Fairfax",3430,4692,3583,12,7
+51061,"Virginia","Fauquier",6233,11166,6248,14,5
+51065,"Virginia","Fluvanna",6678,8723,5959,15,8
+51067,"Virginia","Franklin",8213,10424,8320,19,8
+51081,"Virginia","Greensville",9649,9394,9555,28,13
+51083,"Virginia","Halifax",10126,11653,9491,22,10
+51085,"Virginia","Hanover",6199,10411,5995,13,7
+51087,"Virginia","Henrico",6474,7888,6154,15,8
+51089,"Virginia","Henry",9968,10269,10361,26,9
+51093,"Virginia","Isle of Wight",6293,6749,6332,17,8
+51095,"Virginia","James City",5416,9048,4477,13,7
+51099,"Virginia","King George",7708,8536,7620,15,8
+51107,"Virginia","Loudoun",3174,5115,3440,12,7
+51109,"Virginia","Louisa",8277,11454,8020,19,7
+51111,"Virginia","Lunenburg",10332,15623,7439,26,14
+51117,"Virginia","Mecklenburg",11316,14863,9755,23,10
+51131,"Virginia","Northampton",9899,12349,9695,23,10
+51135,"Virginia","Nottoway",9093,10008,8511,25,11
+51137,"Virginia","Orange",8298,9745,8099,18,8
+51143,"Virginia","Pittsylvania",9501,12517,8994,22,8
+51147,"Virginia","Prince Edward",8677,11581,6799,21,11
+51149,"Virginia","Prince George",5884,4621,7465,18,8
+51153,"Virginia","Prince William",4608,6002,4887,16,7
+51159,"Virginia","Richmond",10077,16464,7487,24,10
+51161,"Virginia","Roanoke",6739,7522,7032,16,7
+51175,"Virginia","Southampton",7928,9868,6841,20,10
+51177,"Virginia","Spotsylvania",6799,7091,7347,16,7
+51179,"Virginia","Stafford",5331,5911,5725,14,7
+51183,"Virginia","Sussex",10577,8769,11954,26,12
+51193,"Virginia","Westmoreland",8740,6420,10743,20,11
+51199,"Virginia","York",4779,7000,4617,13,7
+51510,"Virginia","Alexandria City",3667,5666,2953,13,7
+51540,"Virginia","Charlottesville City",5763,11558,4443,18,6
+51550,"Virginia","Chesapeake City",6639,7743,6414,16,9
+51570,"Virginia","Colonial Heights City",10339,14425,10244,19,10
+51590,"Virginia","Danville City",13113,14078,12537,25,13
+51620,"Virginia","Franklin City",14620,16352,11998,25,12
+51630,"Virginia","Fredericksburg City",7861,9857,7295,18,8
+51650,"Virginia","Hampton City",8824,9429,8817,19,10
+51670,"Virginia","Hopewell City",14304,14072,15642,25,13
+51680,"Virginia","Lynchburg City",8534,12115,6957,21,8
+51683,"Virginia","Manassas City",6419,9321,7565,20,7
+51690,"Virginia","Martinsville City",16024,16837,16615,25,12
+51700,"Virginia","Newport News City",8425,11305,6941,20,10
+51710,"Virginia","Norfolk City",9410,12658,7775,20,11
+51730,"Virginia","Petersburg City",19445,18176,28201,28,12
+51740,"Virginia","Portsmouth City",10363,12093,8790,23,12
+51760,"Virginia","Richmond City",9173,13315,4971,23,11
+51770,"Virginia","Roanoke City",11162,12570,11412,22,10
+51790,"Virginia","Staunton City",8663,8072,9058,17,9
+51800,"Virginia","Suffolk City",7008,8014,6499,18,9
+51810,"Virginia","Virginia Beach City",5840,7903,5678,16,8
+51840,"Virginia","Winchester City",7110,10506,7276,19,9
+53011,"Washington","Clark",5579,8468,5683,16,6
+53033,"Washington","King",4540,8637,4415,12,7
+53035,"Washington","Kitsap",5774,8958,5680,15,6
+53053,"Washington","Pierce",6453,9381,6229,17,7
+53061,"Washington","Snohomish",5351,5914,5735,15,6
+53063,"Washington","Spokane",6642,10281,6615,16,7
+53067,"Washington","Thurston",5503,6422,5614,15,6
+53077,"Washington","Yakima",7717,11373,8308,26,7
+54003,"West Virginia","Berkeley",9597,11336,9840,20,8
+54011,"West Virginia","Cabell",15438,20492,15372,23,11
+54037,"West Virginia","Jefferson",7325,9687,7274,19,8
+54039,"West Virginia","Kanawha",12673,15475,12703,22,11
+54055,"West Virginia","Mercer",13072,16361,13128,27,11
+54081,"West Virginia","Raleigh",13810,13398,13904,24,10
+55009,"Wisconsin","Brown",5698,14294,5287,15,7
+55025,"Wisconsin","Dane",4681,10895,4484,12,7
+55059,"Wisconsin","Kenosha",6805,13086,6588,16,8
+55063,"Wisconsin","La Crosse",5896,18519,5677,14,7
+55079,"Wisconsin","Milwaukee",8922,14648,7083,20,10
+55087,"Wisconsin","Outagamie",5347,12224,4986,14,7
+55101,"Wisconsin","Racine",7062,14579,6061,16,8
+55105,"Wisconsin","Rock",7355,13280,7330,17,8
+55133,"Wisconsin","Waukesha",4778,8424,4816,11,6
+55139,"Wisconsin","Winnebago",5832,8694,5699,15,7
