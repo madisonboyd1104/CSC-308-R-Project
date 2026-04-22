@@ -1,0 +1,73 @@
+---
+title: "BoydMadison_CSC308FinalProject"
+author: "Madison Boyd"
+date: "2026-04-19"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cosmo
+    highlight: tango
+    df_print: paged
+---
+
+# Project Overview
+
+This document represents my extra credit contributions for my 308 project "Exploring Healthcare Access Disparities Through Data-Driven Visualization and Analysis." I expanded this project by focusing on the South Atlantic states of Maryland, Virginia, Georgia, Florida, and North Carolina. I also expanded the project by data cleaning not only the 2021 data but 2022, and 2023 samples. I expanded the project by completing exploratory data analysis (EDA) on the 2021, 2022, and 2023 data and comparing them. 
+
+
+# Madison Boyd Individual Contribution
+
+Role: Data Cleaning, Structural Engineering, and Processing Logic (2021).
+
+My work focused on the complex deconstruction of six raw data files to create an efficient master dataset. This involved designing a modular cleaning pipeline, resolving schema inconsistencies, and executing a rigorous data type audit to ensure all socioeconomic and health variables were mathematically valid for analysis. All technical logic and processing steps presented here reflect my individual work in establishing the project's foundational dataset.
+
+# Data Cleaning and Processing Logic (2021)
+
+The 2021 analytical baseline was built using a modular cleaning pipeline. Since the County Health Rankings data is stored in specialized files, the method required a "Deconstruction and Extraction" approach to separate the metrics that are important for the project.
+
+# Ingestion of Socioeconomic Predictors (Files 1 & 2)
+
+The first step involved processing the "Additional Measure Data" along with the metadata for this file. The main challenge was the presence of metadata headers in the raw CSV. This required using the skip = 1 argument to match the headers with the data rows.
+
+```{r clean_2021_file1}
+#Processing File 1: Additional Measure Data 
+# Standardizing 'null' values to handle suppressed data points
+
+ clean21_measures <- read.csv("data/raw/2021/Additional Measure Data.csv", skip = 1, na.strings = c("N/A", "", " ")) %>% dplyr::select(FIPS, State, County, Median.Household.Income, X..Uninsured, X..Rural) %>% filter(County != "") 
+
+# Verification: Ensure Socioeconomic columns are present names(clean21_measures) 
+```
+
+# Normalizing Health Rankings (Files 3 & 4)
+
+Files 3 (Outcomes and Factors Rankings) and 4 (Outcomes and Factors SubRankings) gave the "calculated results" of the study. Because the raw files used generic headers like Rank and Rank.1, I used a Descriptive Renaming Strategy during selection to avoid variable collision when creating the final master join.
+
+```{r clean_2021_file3_4}
+# Processing File 3: Core Rankings 
+clean21_ranked <- read.csv("data/raw/2021/Outcomes and Factors Rankings.csv", skip = 1) %>% dplyr::select(FIPS, Health_Outcomes_Rank = Rank, Health_Factors_Rank = Rank.1) 
+
+# Processing File 4: Specialized Sub-Rankings 
+
+clean21_subranked <- read.csv("data/raw/2021/Outcomes and Factors SubRankings.csv", skip = 1) %>% dplyr::select(FIPS, Length_of_Life_Rank = Rank, Clinical_Care_Rank = Rank.3, Socioeconomic_Rank = Rank.4)
+```
+
+# Isolating Racial Disparity Metrics (Files 5 & 6)
+
+File 5 (Ranked Measure Data) had over 100 columns, including raw rates, confidence intervals, and data reliability flags. To keep the focus on racial equity, I used the contains() function to target the main Years of Potential Life Lost (YPLL) rates for Black and White populations while discarding secondary statistics.
+
+```{r clean_2021_file5}
+ # Processing File 5: Targeted extraction of YPLL and Poor Health metrics clean21_rankedmeasures <- read.csv("data/raw/2021/Ranked Measure Data.csv", skip = 1) %>% dplyr::select(FIPS, YPLL_Rate = contains("Potential.Life.Lost.Rate"), YPLL_Black = contains("YPLL.Rate..Black"), YPLL_White = contains("YPLL.Rate..White"), Percent_Poor_Health = contains("Fair.or.Poor.Health")) %>% filter(!is.na(YPLL_Rate)) 
+
+```
+
+# Relational Integration and Data Type Audit
+
+The last step of the 2021 method was a multi-stage Relational Join using the Federal Information Processing Standard (FIPS) codes as the main key. After the join, I did a Data Type Audit. Because raw CSVs often import numeric rankings as character strings due to alphanumeric placeholders like "NR" (Not Reported), I converted these to numeric doubles.
+
+# Synthesizing the 2021 Master Dataset
+
+```{r join_and_audit_2021}
+
+master_2021 <- clean21_measures %>% inner_join(clean21_ranked, by = "FIPS") %>% inner_join(clean21_subranked, by = "FIPS") %>% inner_join(clean21_rankedmeasures, by = "FIPS") # Auditing and forcing numeric types for mathematical validity master_2021$Median.Household.Income <- as.numeric(as.character(master_2021$Median.Household.Income)) master_2021$Health_Factors_Rank <- as.numeric(as.character(master_2021$Health_Factors_Rank)) master_2021$YPLL_Black <- as.numeric(as.character(master_2021$YPLL_Black)) master_2021$YPLL_White <- as.numeric(as.character(master_2021$YPLL_White)) # Listwise deletion of incomplete records master_2021 <- na.omit(master_2021) # Final Verification print(paste("Final 2021 County Count:", nrow(master_2021))) str(master_2021[c("Median.Household.Income", "YPLL_Black")])
+```
