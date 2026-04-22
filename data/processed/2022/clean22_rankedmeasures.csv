@@ -1,0 +1,2866 @@
+"FIPS","State","County","YPLL_Rate","YPLL_Black","YPLL_White","Percent_Poor_Health","Percent_Low_Birthweight"
+1001,"Alabama","Autauga",8027,11549,7333,20,10
+1003,"Alabama","Baldwin",8118,11603,8059,17,8
+1005,"Alabama","Barbour",12877,15534,9950,31,12
+1007,"Alabama","Bibb",11191,11737,11369,25,10
+1009,"Alabama","Blount",10787,NA,NA,23,8
+1011,"Alabama","Bullock",11406,NA,NA,31,15
+1013,"Alabama","Butler",12717,14141,12183,27,13
+1015,"Alabama","Calhoun",11826,12233,12018,24,9
+1017,"Alabama","Chambers",11059,10544,11004,25,13
+1019,"Alabama","Cherokee",11396,NA,NA,24,8
+1021,"Alabama","Chilton",10342,11094,10603,25,9
+1023,"Alabama","Choctaw",12129,15799,9599,27,12
+1025,"Alabama","Clarke",14428,16735,12930,28,13
+1027,"Alabama","Clay",12554,NA,NA,27,8
+1029,"Alabama","Cleburne",10530,NA,NA,23,8
+1031,"Alabama","Coffee",9298,13258,9291,22,9
+1033,"Alabama","Colbert",11072,13995,10732,22,11
+1035,"Alabama","Conecuh",15565,19263,12273,28,14
+1037,"Alabama","Coosa",13477,17958,10693,25,15
+1039,"Alabama","Covington",12059,18134,11429,24,11
+1041,"Alabama","Crenshaw",12025,12014,12633,25,11
+1043,"Alabama","Cullman",10571,NA,NA,22,9
+1045,"Alabama","Dale",10385,10896,10838,23,8
+1047,"Alabama","Dallas",15053,16585,11215,29,14
+1049,"Alabama","DeKalb",10883,NA,12228,27,8
+1051,"Alabama","Elmore",9205,11995,8721,21,9
+1053,"Alabama","Escambia",13084,15275,12292,28,10
+1055,"Alabama","Etowah",12211,14965,12075,23,9
+1057,"Alabama","Fayette",12489,20741,11642,25,10
+1059,"Alabama","Franklin",10961,NA,NA,26,10
+1061,"Alabama","Geneva",12682,15699,12996,25,8
+1063,"Alabama","Greene",14803,NA,NA,36,16
+1065,"Alabama","Hale",13407,16213,9211,29,12
+1067,"Alabama","Henry",10034,13002,9309,23,11
+1069,"Alabama","Houston",9505,13213,8260,23,11
+1071,"Alabama","Jackson",11395,NA,NA,24,9
+1073,"Alabama","Jefferson",11420,14310,9275,19,11
+1075,"Alabama","Lamar",9968,NA,NA,25,9
+1077,"Alabama","Lauderdale",9012,14185,8532,21,10
+1079,"Alabama","Lawrence",12574,18794,12900,25,9
+1081,"Alabama","Lee",7312,11344,6180,20,9
+1083,"Alabama","Limestone",7852,8058,8182,21,9
+1085,"Alabama","Lowndes",16606,NA,NA,32,15
+1087,"Alabama","Macon",14740,NA,NA,28,13
+1089,"Alabama","Madison",8360,10288,8132,18,10
+1091,"Alabama","Marengo",15174,16808,11947,27,12
+1093,"Alabama","Marion",11967,NA,NA,24,9
+1095,"Alabama","Marshall",10517,NA,10953,25,8
+1097,"Alabama","Mobile",10974,13877,9592,23,12
+1099,"Alabama","Monroe",13664,19917,8403,28,12
+1101,"Alabama","Montgomery",10524,12643,7534,23,13
+1103,"Alabama","Morgan",10860,15044,10639,22,9
+1105,"Alabama","Perry",16199,NA,NA,32,14
+1107,"Alabama","Pickens",10619,12953,8978,28,13
+1109,"Alabama","Pike",11574,15340,9037,24,11
+1111,"Alabama","Randolph",11568,14065,11386,24,9
+1113,"Alabama","Russell",11475,11166,12994,25,11
+1115,"Alabama","St. Clair",9846,10032,10051,21,9
+1117,"Alabama","Shelby",6125,7565,6141,16,8
+1119,"Alabama","Sumter",14936,NA,NA,29,14
+1121,"Alabama","Talladega",12311,12936,12325,26,11
+1123,"Alabama","Tallapoosa",11408,14588,10383,24,14
+1125,"Alabama","Tuscaloosa",9050,12238,7431,21,11
+1127,"Alabama","Walker",15734,15500,16074,24,11
+1129,"Alabama","Washington",10228,8986,9574,26,12
+1131,"Alabama","Wilcox",17714,NA,NA,33,14
+1133,"Alabama","Winston",10680,NA,NA,26,10
+2020,"Alaska","Anchorage",8016,10587,6315,15,6
+2050,"Alaska","Bethel",16259,NA,NA,34,7
+2070,"Alaska","Dillingham",17438,NA,NA,28,6
+2090,"Alaska","Fairbanks North Star",6865,6161,5939,16,6
+2110,"Alaska","Juneau",6633,NA,6064,15,5
+2122,"Alaska","Kenai Peninsula",7920,NA,8018,18,5
+2130,"Alaska","Ketchikan Gateway",6148,NA,4373,18,7
+2150,"Alaska","Kodiak Island",6130,NA,5470,16,5
+2158,"Alaska","Kusilvak",20939,NA,NA,42,7
+2170,"Alaska","Matanuska-Susitna",7120,NA,6533,17,6
+2180,"Alaska","Nome",16615,NA,NA,28,6
+2185,"Alaska","North Slope",9548,NA,NA,21,6
+2188,"Alaska","Northwest Arctic",15740,NA,NA,31,8
+2198,"Alaska","Prince of Wales-Hyder",12723,NA,NA,23,5
+2220,"Alaska","Sitka",6246,NA,NA,16,5
+2240,"Alaska","Southeast Fairbanks",8864,NA,NA,19,4
+2261,"Alaska","Valdez-Cordova",9157,NA,NA,16,4
+2290,"Alaska","Yukon-Koyukuk",14985,NA,NA,29,5
+4001,"Arizona","Apache",18661,NA,10449,31,8
+4003,"Arizona","Cochise",7810,5006,8234,22,8
+4005,"Arizona","Coconino",9533,NA,5677,18,8
+4007,"Arizona","Gila",15821,NA,12467,22,10
+4009,"Arizona","Graham",8828,NA,6749,23,8
+4011,"Arizona","Greenlee",7439,NA,NA,21,8
+4012,"Arizona","La Paz",16355,NA,19078,26,7
+4013,"Arizona","Maricopa",7005,10719,6551,18,7
+4015,"Arizona","Mohave",10550,11545,10995,21,7
+4017,"Arizona","Navajo",16595,NA,9447,26,9
+4019,"Arizona","Pima",8321,11540,8274,20,8
+4021,"Arizona","Pinal",7261,9184,6682,20,7
+4023,"Arizona","Santa Cruz",6336,NA,NA,29,7
+4025,"Arizona","Yavapai",8558,NA,9131,18,7
+4027,"Arizona","Yuma",7986,10919,9456,27,6
+5001,"Arkansas","Arkansas",11870,17118,9886,26,10
+5003,"Arkansas","Ashley",11534,15489,10866,27,11
+5005,"Arkansas","Baxter",9852,NA,NA,21,7
+5007,"Arkansas","Benton",6156,7612,6782,20,7
+5009,"Arkansas","Boone",9168,NA,NA,23,7
+5011,"Arkansas","Bradley",14029,17955,11577,28,11
+5013,"Arkansas","Calhoun",12530,NA,NA,25,9
+5015,"Arkansas","Carroll",10596,NA,NA,24,7
+5017,"Arkansas","Chicot",13801,16370,11506,32,13
+5019,"Arkansas","Clark",8860,10822,8309,23,9
+5021,"Arkansas","Clay",11723,NA,NA,26,7
+5023,"Arkansas","Cleburne",11260,NA,NA,22,8
+5025,"Arkansas","Cleveland",9677,NA,NA,24,9
+5027,"Arkansas","Columbia",11042,16625,8152,27,11
+5029,"Arkansas","Conway",9977,NA,NA,25,9
+5031,"Arkansas","Craighead",9015,13169,8526,23,10
+5033,"Arkansas","Crawford",8738,NA,NA,25,8
+5035,"Arkansas","Crittenden",13358,15625,10706,28,14
+5037,"Arkansas","Cross",12963,13308,13106,25,10
+5039,"Arkansas","Dallas",12408,13880,12410,27,12
+5041,"Arkansas","Desha",13137,12679,15489,32,15
+5043,"Arkansas","Drew",11482,16050,10516,24,10
+5045,"Arkansas","Faulkner",8425,11336,8162,21,8
+5047,"Arkansas","Franklin",11538,NA,NA,27,8
+5049,"Arkansas","Fulton",10345,NA,NA,27,7
+5051,"Arkansas","Garland",11824,16481,11852,23,9
+5053,"Arkansas","Grant",8833,NA,NA,21,9
+5055,"Arkansas","Greene",9091,NA,NA,23,8
+5057,"Arkansas","Hempstead",10016,9239,12165,28,10
+5059,"Arkansas","Hot Spring",10833,12450,10640,24,9
+5061,"Arkansas","Howard",11060,16884,11291,27,9
+5063,"Arkansas","Independence",9053,NA,NA,24,8
+5065,"Arkansas","Izard",11824,NA,NA,24,8
+5067,"Arkansas","Jackson",12163,11730,12951,29,10
+5069,"Arkansas","Jefferson",13724,14855,12796,27,13
+5071,"Arkansas","Johnson",10175,NA,NA,29,7
+5073,"Arkansas","Lafayette",10754,13029,10208,29,10
+5075,"Arkansas","Lawrence",12090,NA,NA,24,8
+5077,"Arkansas","Lee",14584,15555,13676,31,13
+5079,"Arkansas","Lincoln",10917,9160,11527,28,9
+5081,"Arkansas","Little River",11153,NA,NA,25,9
+5083,"Arkansas","Logan",11040,NA,NA,25,10
+5085,"Arkansas","Lonoke",9192,13434,9342,21,8
+5087,"Arkansas","Madison",9048,NA,NA,26,6
+5089,"Arkansas","Marion",11024,NA,NA,23,8
+5091,"Arkansas","Miller",11644,15684,10446,25,10
+5093,"Arkansas","Mississippi",16101,20513,13806,29,11
+5095,"Arkansas","Monroe",17644,21576,14838,30,11
+5097,"Arkansas","Montgomery",10745,NA,NA,26,7
+5099,"Arkansas","Nevada",10041,NA,NA,25,12
+5101,"Arkansas","Newton",11372,NA,NA,22,6
+5103,"Arkansas","Ouachita",12522,15091,11281,28,10
+5105,"Arkansas","Perry",8815,NA,NA,24,8
+5107,"Arkansas","Phillips",17709,20101,12993,33,13
+5109,"Arkansas","Pike",9044,NA,NA,24,8
+5111,"Arkansas","Poinsett",14333,16383,14652,27,10
+5113,"Arkansas","Polk",10860,NA,NA,26,7
+5115,"Arkansas","Pope",8283,NA,NA,24,8
+5117,"Arkansas","Prairie",12030,NA,NA,24,10
+5119,"Arkansas","Pulaski",10346,13511,8838,22,11
+5121,"Arkansas","Randolph",11140,NA,NA,27,7
+5123,"Arkansas","St. Francis",11447,13432,10178,31,13
+5125,"Arkansas","Saline",8128,8886,8432,19,8
+5127,"Arkansas","Scott",12800,NA,NA,29,9
+5129,"Arkansas","Searcy",11153,NA,NA,27,6
+5131,"Arkansas","Sebastian",9845,12207,11106,25,8
+5133,"Arkansas","Sevier",9206,NA,NA,29,6
+5135,"Arkansas","Sharp",9040,NA,NA,28,10
+5137,"Arkansas","Stone",9266,NA,NA,27,8
+5139,"Arkansas","Union",13874,18330,11682,24,11
+5141,"Arkansas","Van Buren",9228,NA,NA,26,8
+5143,"Arkansas","Washington",6924,10733,7043,22,8
+5145,"Arkansas","White",9608,10750,9940,24,8
+5147,"Arkansas","Woodruff",12704,NA,NA,28,8
+5149,"Arkansas","Yell",9081,NA,NA,29,8
+6001,"California","Alameda",4651,11112,4356,16,7
+6005,"California","Amador",6930,NA,NA,17,6
+6007,"California","Butte",7851,10674,8176,19,6
+6009,"California","Calaveras",7892,NA,NA,17,6
+6011,"California","Colusa",6877,NA,8245,25,6
+6013,"California","Contra Costa",4995,10658,4881,16,7
+6015,"California","Del Norte",9205,NA,10433,23,6
+6017,"California","El Dorado",5329,NA,5713,14,7
+6019,"California","Fresno",7511,14126,7712,26,8
+6021,"California","Glenn",7905,NA,10112,24,6
+6023,"California","Humboldt",8530,NA,8263,19,6
+6025,"California","Imperial",7111,6454,10926,29,6
+6027,"California","Inyo",8004,NA,6788,18,8
+6029,"California","Kern",8735,15364,10070,27,7
+6031,"California","Kings",6863,7803,7645,26,6
+6033,"California","Lake",11559,21581,11800,22,7
+6035,"California","Lassen",7624,NA,NA,22,8
+6037,"California","Los Angeles",5558,10982,5220,22,7
+6039,"California","Madera",7197,7855,8109,26,6
+6041,"California","Marin",3555,7411,3393,12,6
+6043,"California","Mariposa",7490,NA,NA,18,7
+6045,"California","Mendocino",8620,NA,8562,20,7
+6047,"California","Merced",7372,18086,8839,27,6
+6049,"California","Modoc",10679,NA,NA,21,8
+6051,"California","Mono",3315,NA,NA,17,8
+6053,"California","Monterey",5292,6610,5876,24,6
+6055,"California","Napa",4618,NA,5474,16,6
+6057,"California","Nevada",6753,NA,NA,15,6
+6059,"California","Orange",4401,6280,4880,17,6
+6061,"California","Placer",4579,5585,4910,14,6
+6063,"California","Plumas",10123,NA,NA,16,9
+6065,"California","Riverside",6381,9754,7139,22,7
+6067,"California","Sacramento",6667,11638,6720,18,7
+6069,"California","San Benito",5285,NA,5912,21,7
+6071,"California","San Bernardino",7724,12398,8961,24,8
+6073,"California","San Diego",4926,8457,5050,17,7
+6075,"California","San Francisco",4811,14935,4122,14,7
+6077,"California","San Joaquin",7768,14471,8371,23,7
+6079,"California","San Luis Obispo",5260,3388,5623,16,6
+6081,"California","San Mateo",3504,8053,3570,14,7
+6083,"California","Santa Barbara",5334,7493,5647,20,7
+6085,"California","Santa Clara",3683,7248,4033,14,7
+6087,"California","Santa Cruz",5048,NA,4914,18,6
+6089,"California","Shasta",9500,12474,9818,18,6
+6093,"California","Siskiyou",10618,NA,10474,19,9
+6095,"California","Solano",6402,10131,6940,18,7
+6097,"California","Sonoma",5097,8330,5464,16,6
+6099,"California","Stanislaus",7821,12865,9006,24,6
+6101,"California","Sutter",7515,NA,10066,22,7
+6103,"California","Tehama",9623,NA,10906,23,6
+6105,"California","Trinity",14307,NA,NA,20,6
+6107,"California","Tulare",7364,13279,8767,28,7
+6109,"California","Tuolumne",8067,NA,8820,18,7
+6111,"California","Ventura",4737,6146,4970,18,6
+6113,"California","Yolo",4742,8368,5062,19,6
+6115,"California","Yuba",9163,8744,10717,21,7
+8001,"Colorado","Adams",6706,10045,6766,18,9
+8003,"Colorado","Alamosa",10310,NA,9992,23,11
+8005,"Colorado","Arapahoe",5840,8228,5421,14,10
+8007,"Colorado","Archuleta",7122,NA,NA,14,8
+8011,"Colorado","Bent",12361,NA,NA,26,11
+8013,"Colorado","Boulder",4278,NA,4122,12,8
+8014,"Colorado","Broomfield",4932,NA,4813,10,8
+8015,"Colorado","Chaffee",6230,NA,NA,14,8
+8019,"Colorado","Clear Creek",4875,NA,NA,12,10
+8021,"Colorado","Conejos",11260,NA,NA,24,11
+8025,"Colorado","Crowley",7766,NA,NA,25,10
+8029,"Colorado","Delta",9092,NA,NA,19,9
+8031,"Colorado","Denver",6996,12628,5330,16,9
+8035,"Colorado","Douglas",3749,NA,3825,9,9
+8037,"Colorado","Eagle",3639,NA,4273,14,8
+8039,"Colorado","Elbert",5167,NA,NA,12,9
+8041,"Colorado","El Paso",8046,11391,7769,15,10
+8043,"Colorado","Fremont",8888,NA,9442,18,9
+8045,"Colorado","Garfield",5393,NA,5527,15,9
+8049,"Colorado","Grand",5357,NA,NA,14,12
+8051,"Colorado","Gunnison",4261,NA,NA,13,10
+8055,"Colorado","Huerfano",9886,NA,NA,18,9
+8059,"Colorado","Jefferson",5769,11118,5410,12,9
+8063,"Colorado","Kit Carson",8430,NA,NA,17,7
+8065,"Colorado","Lake",5629,NA,NA,19,13
+8067,"Colorado","La Plata",5607,NA,4762,13,8
+8069,"Colorado","Larimer",5090,NA,5027,12,9
+8071,"Colorado","Las Animas",12066,NA,9674,20,11
+8073,"Colorado","Lincoln",5798,NA,NA,18,7
+8075,"Colorado","Logan",8423,NA,NA,18,8
+8077,"Colorado","Mesa",7394,NA,7526,16,8
+8081,"Colorado","Moffat",8809,NA,NA,18,9
+8083,"Colorado","Montezuma",10614,NA,8070,18,9
+8085,"Colorado","Montrose",6743,NA,6950,17,9
+8087,"Colorado","Morgan",8673,NA,10437,20,8
+8089,"Colorado","Otero",14160,NA,12594,23,9
+8093,"Colorado","Park",6399,NA,NA,13,11
+8097,"Colorado","Pitkin",3101,NA,NA,10,10
+8099,"Colorado","Prowers",9414,NA,9870,20,8
+8101,"Colorado","Pueblo",10996,14657,10321,20,10
+8103,"Colorado","Rio Blanco",6057,NA,NA,16,9
+8105,"Colorado","Rio Grande",9722,NA,6433,20,12
+8107,"Colorado","Routt",4082,NA,NA,12,9
+8109,"Colorado","Saguache",11714,NA,NA,22,13
+8117,"Colorado","Summit",3965,NA,NA,12,13
+8119,"Colorado","Teller",6523,NA,NA,12,14
+8121,"Colorado","Washington",9787,NA,NA,16,7
+8123,"Colorado","Weld",5952,7254,5702,16,8
+8125,"Colorado","Yuma",5932,NA,NA,18,7
+9001,"Connecticut","Fairfield",4781,7939,4355,13,7
+9003,"Connecticut","Hartford",6484,8603,6232,15,9
+9005,"Connecticut","Litchfield",7164,9169,7504,13,6
+9007,"Connecticut","Middlesex",5588,8182,5881,12,7
+9009,"Connecticut","New Haven",6794,10112,6384,16,8
+9011,"Connecticut","New London",6842,8280,7235,14,7
+9013,"Connecticut","Tolland",5422,4844,5905,13,7
+9015,"Connecticut","Windham",7522,NA,7802,16,8
+10001,"Delaware","Kent",8555,10778,8220,20,9
+10003,"Delaware","New Castle",8092,11031,7799,17,9
+10005,"Delaware","Sussex",8196,10514,8331,19,8
+11001,"District of Columbia","District of Columbia",8357,14992,2302,15,10
+12001,"Florida","Alachua",7325,11562,6783,19,10
+12003,"Florida","Baker",9554,10913,9527,23,10
+12005,"Florida","Bay",10042,11907,10283,20,8
+12007,"Florida","Bradford",10079,9694,10631,26,11
+12009,"Florida","Brevard",9275,12031,9557,19,8
+12011,"Florida","Broward",6463,8099,7772,22,10
+12013,"Florida","Calhoun",8352,NA,NA,25,9
+12015,"Florida","Charlotte",7970,6398,8817,20,9
+12017,"Florida","Citrus",12774,13967,13298,22,8
+12019,"Florida","Clay",7992,7988,8634,19,8
+12021,"Florida","Collier",5479,7351,6218,19,7
+12023,"Florida","Columbia",10821,11983,11035,23,11
+12027,"Florida","DeSoto",8506,9502,10899,31,8
+12029,"Florida","Dixie",11427,NA,NA,27,10
+12031,"Florida","Duval",10230,12941,10147,21,10
+12033,"Florida","Escambia",10736,13950,10477,21,11
+12035,"Florida","Flagler",8150,11980,8230,19,8
+12037,"Florida","Franklin",8588,NA,NA,24,9
+12039,"Florida","Gadsden",10980,12848,9109,27,13
+12041,"Florida","Gilchrist",9095,NA,NA,25,8
+12043,"Florida","Glades",10125,NA,NA,28,9
+12045,"Florida","Gulf",11380,NA,NA,22,7
+12047,"Florida","Hamilton",9955,12067,9670,31,11
+12049,"Florida","Hardee",8286,NA,8664,32,8
+12051,"Florida","Hendry",8755,16833,10287,34,8
+12053,"Florida","Hernando",9194,9762,10137,22,9
+12055,"Florida","Highlands",10873,13062,11709,26,9
+12057,"Florida","Hillsborough",6879,9949,6961,21,9
+12059,"Florida","Holmes",11944,NA,NA,27,8
+12061,"Florida","Indian River",7341,12643,7447,19,8
+12063,"Florida","Jackson",12314,12790,12607,26,9
+12065,"Florida","Jefferson",9727,11933,8576,24,11
+12067,"Florida","Lafayette",8682,NA,NA,27,8
+12069,"Florida","Lake",8220,10138,8931,21,9
+12071,"Florida","Lee",7557,10386,8447,21,8
+12073,"Florida","Leon",7238,10236,6225,18,10
+12075,"Florida","Levy",10637,11300,10986,26,10
+12077,"Florida","Liberty",8511,NA,NA,28,8
+12079,"Florida","Madison",10993,13141,10155,28,13
+12081,"Florida","Manatee",7791,11530,7996,20,8
+12083,"Florida","Marion",11268,12090,12227,23,9
+12085,"Florida","Martin",7049,7236,7716,18,7
+12086,"Florida","Miami-Dade",5443,10851,6219,26,8
+12087,"Florida","Monroe",7199,9818,8211,19,6
+12089,"Florida","Nassau",8898,14317,8841,17,8
+12091,"Florida","Okaloosa",8213,10632,8331,18,8
+12093,"Florida","Okeechobee",10993,9033,13223,29,7
+12095,"Florida","Orange",6259,9150,6246,22,9
+12097,"Florida","Osceola",6673,8165,8255,25,8
+12099,"Florida","Palm Beach",6802,8754,7279,20,9
+12101,"Florida","Pasco",9158,9242,10320,21,8
+12103,"Florida","Pinellas",8466,11972,8622,19,8
+12105,"Florida","Polk",8243,11236,8637,24,9
+12107,"Florida","Putnam",14058,20090,13715,27,11
+12109,"Florida","St. Johns",5348,9919,5374,15,7
+12111,"Florida","St. Lucie",7674,9614,8565,22,9
+12113,"Florida","Santa Rosa",7653,7019,8201,18,8
+12115,"Florida","Sarasota",7630,11021,7974,16,7
+12117,"Florida","Seminole",6204,10135,6346,17,8
+12119,"Florida","Sumter",9077,11509,9680,17,10
+12121,"Florida","Suwannee",9705,10430,10112,24,9
+12123,"Florida","Taylor",10935,11876,11579,28,10
+12125,"Florida","Union",18116,15423,19719,26,10
+12127,"Florida","Volusia",9828,11067,10907,21,9
+12129,"Florida","Wakulla",8538,NA,NA,20,8
+12131,"Florida","Walton",8014,NA,8438,20,8
+12133,"Florida","Washington",11029,11093,11510,28,9
+13001,"Georgia","Appling",11114,13686,11277,28,10
+13003,"Georgia","Atkinson",11430,NA,NA,32,8
+13005,"Georgia","Bacon",12650,15445,12715,27,10
+13009,"Georgia","Baldwin",10744,12610,9932,24,11
+13011,"Georgia","Banks",9608,NA,NA,24,8
+13013,"Georgia","Barrow",8252,9392,8740,21,8
+13015,"Georgia","Bartow",9339,10693,9748,22,8
+13017,"Georgia","Ben Hill",13655,15544,13255,27,14
+13019,"Georgia","Berrien",10796,12154,11247,26,12
+13021,"Georgia","Bibb",12094,14520,9652,24,14
+13023,"Georgia","Bleckley",8779,17287,6411,22,9
+13025,"Georgia","Brantley",12170,NA,NA,26,10
+13027,"Georgia","Brooks",10563,13904,9734,25,11
+13029,"Georgia","Bryan",8661,10627,8797,17,8
+13031,"Georgia","Bulloch",8045,11283,6926,23,10
+13033,"Georgia","Burke",12826,15138,11500,26,12
+13035,"Georgia","Butts",10183,10077,10658,25,10
+13037,"Georgia","Calhoun",7844,NA,NA,33,11
+13039,"Georgia","Camden",8023,10099,7631,20,8
+13043,"Georgia","Candler",12612,20133,10965,30,12
+13045,"Georgia","Carroll",9678,12229,9628,22,8
+13047,"Georgia","Catoosa",7455,NA,NA,18,8
+13049,"Georgia","Charlton",10157,NA,NA,30,8
+13051,"Georgia","Chatham",8515,10677,7289,19,10
+13053,"Georgia","Chattahoochee",9156,NA,NA,22,7
+13055,"Georgia","Chattooga",12857,NA,NA,27,8
+13057,"Georgia","Cherokee",5301,6743,5349,15,7
+13059,"Georgia","Clarke",6647,10392,5793,22,10
+13063,"Georgia","Clayton",9245,9390,16039,26,12
+13065,"Georgia","Clinch",12115,17534,9501,34,12
+13067,"Georgia","Cobb",5632,7055,5411,16,9
+13069,"Georgia","Coffee",10957,12517,11353,27,11
+13071,"Georgia","Colquitt",11709,15923,11390,29,10
+13073,"Georgia","Columbia",5894,6426,6218,16,8
+13075,"Georgia","Cook",10330,13750,9208,26,12
+13077,"Georgia","Coweta",6892,10366,6538,18,9
+13079,"Georgia","Crawford",10977,NA,NA,24,11
+13081,"Georgia","Crisp",12936,15360,12101,29,14
+13083,"Georgia","Dade",9292,NA,NA,21,8
+13085,"Georgia","Dawson",8757,NA,NA,17,7
+13087,"Georgia","Decatur",11425,14364,9262,25,12
+13089,"Georgia","DeKalb",7302,9403,4522,19,10
+13091,"Georgia","Dodge",10106,12903,9026,25,10
+13093,"Georgia","Dooly",11503,12771,11950,27,15
+13095,"Georgia","Dougherty",12864,13675,11615,27,14
+13097,"Georgia","Douglas",7838,7604,9456,21,10
+13099,"Georgia","Early",13191,14664,11990,29,16
+13103,"Georgia","Effingham",8106,9521,7982,18,9
+13105,"Georgia","Elbert",11208,14216,10491,26,10
+13107,"Georgia","Emanuel",10564,11583,10431,27,10
+13109,"Georgia","Evans",11074,12795,11296,29,11
+13111,"Georgia","Fannin",10230,NA,NA,19,8
+13113,"Georgia","Fayette",5603,8283,4778,14,9
+13115,"Georgia","Floyd",10411,13194,10566,23,9
+13117,"Georgia","Forsyth",3833,4912,4460,13,7
+13119,"Georgia","Franklin",11218,15408,11391,23,8
+13121,"Georgia","Fulton",6956,11107,4002,17,11
+13123,"Georgia","Gilmer",10255,NA,NA,22,7
+13125,"Georgia","Glascock",12143,NA,NA,23,7
+13127,"Georgia","Glynn",9751,12047,9449,20,12
+13129,"Georgia","Gordon",9550,14346,10515,24,8
+13131,"Georgia","Grady",9508,13404,8600,26,9
+13133,"Georgia","Greene",8428,12731,6279,23,11
+13135,"Georgia","Gwinnett",5395,6298,5889,19,9
+13137,"Georgia","Habersham",8080,NA,NA,23,7
+13139,"Georgia","Hall",6790,9655,7493,22,7
+13141,"Georgia","Hancock",14476,NA,NA,32,18
+13143,"Georgia","Haralson",11509,NA,NA,22,9
+13145,"Georgia","Harris",7434,9969,7093,16,8
+13147,"Georgia","Hart",7988,8776,8170,23,10
+13149,"Georgia","Heard",11208,NA,NA,23,9
+13151,"Georgia","Henry",7858,8602,7807,18,11
+13153,"Georgia","Houston",8221,9944,7812,19,9
+13155,"Georgia","Irwin",12428,16411,10735,26,14
+13157,"Georgia","Jackson",7868,8889,8285,20,7
+13159,"Georgia","Jasper",9533,NA,NA,23,10
+13161,"Georgia","Jeff Davis",10663,13778,11111,29,10
+13163,"Georgia","Jefferson",11936,13727,10604,29,12
+13165,"Georgia","Jenkins",10221,10326,11435,32,13
+13167,"Georgia","Johnson",12246,11897,13050,28,10
+13169,"Georgia","Jones",8080,7258,8443,21,8
+13171,"Georgia","Lamar",11343,11657,11660,22,12
+13173,"Georgia","Lanier",9691,NA,NA,25,9
+13175,"Georgia","Laurens",12656,15353,11099,26,11
+13177,"Georgia","Lee",8752,10858,8562,18,9
+13179,"Georgia","Liberty",10000,10551,11536,24,9
+13181,"Georgia","Lincoln",7927,NA,NA,23,9
+13183,"Georgia","Long",6926,7253,6996,24,9
+13185,"Georgia","Lowndes",9557,12566,8286,23,11
+13187,"Georgia","Lumpkin",8964,NA,NA,20,7
+13189,"Georgia","McDuffie",12937,15143,12458,26,12
+13191,"Georgia","McIntosh",11222,11543,11453,22,12
+13193,"Georgia","Macon",12001,NA,NA,31,14
+13195,"Georgia","Madison",8924,12134,9140,22,9
+13197,"Georgia","Marion",10244,NA,NA,26,8
+13199,"Georgia","Meriwether",12890,15340,11801,27,12
+13201,"Georgia","Miller",19590,30079,15558,24,11
+13205,"Georgia","Mitchell",11817,14027,10709,29,12
+13207,"Georgia","Monroe",9705,13039,9268,19,11
+13209,"Georgia","Montgomery",9674,NA,NA,24,10
+13211,"Georgia","Morgan",9388,12136,9076,18,8
+13213,"Georgia","Murray",9851,NA,NA,26,9
+13215,"Georgia","Muscogee",11213,13586,9695,23,12
+13217,"Georgia","Newton",8978,9093,9513,22,10
+13219,"Georgia","Oconee",4752,NA,NA,13,6
+13221,"Georgia","Oglethorpe",7716,NA,NA,23,8
+13223,"Georgia","Paulding",6438,5973,6908,19,8
+13225,"Georgia","Peach",11795,13540,11071,24,10
+13227,"Georgia","Pickens",8017,NA,NA,19,8
+13229,"Georgia","Pierce",11392,NA,NA,24,9
+13231,"Georgia","Pike",9625,NA,NA,18,10
+13233,"Georgia","Polk",10968,17331,11188,25,9
+13235,"Georgia","Pulaski",8847,13411,6023,24,10
+13237,"Georgia","Putnam",8368,11074,8073,22,9
+13241,"Georgia","Rabun",8318,NA,NA,22,7
+13243,"Georgia","Randolph",12537,NA,NA,33,13
+13245,"Georgia","Richmond",12200,12689,12956,25,12
+13247,"Georgia","Rockdale",8609,8338,10941,22,11
+13249,"Georgia","Schley",9199,NA,NA,22,9
+13251,"Georgia","Screven",10920,12239,10151,25,12
+13253,"Georgia","Seminole",11612,16037,9779,24,14
+13255,"Georgia","Spalding",10926,12257,11110,24,13
+13257,"Georgia","Stephens",11241,13824,11437,21,10
+13259,"Georgia","Stewart",11740,NA,NA,35,12
+13261,"Georgia","Sumter",11142,14196,7729,27,13
+13263,"Georgia","Talbot",12044,NA,NA,28,12
+13267,"Georgia","Tattnall",8347,9432,9140,28,10
+13269,"Georgia","Taylor",9541,9116,9776,29,10
+13271,"Georgia","Telfair",10746,14598,11122,32,13
+13273,"Georgia","Terrell",11843,NA,NA,30,12
+13275,"Georgia","Thomas",9990,14311,7524,22,11
+13277,"Georgia","Tift",10424,15569,8350,25,12
+13279,"Georgia","Toombs",11330,12829,11464,26,12
+13281,"Georgia","Towns",7431,NA,NA,18,7
+13283,"Georgia","Treutlen",10150,NA,NA,28,11
+13285,"Georgia","Troup",10327,11714,9936,24,11
+13287,"Georgia","Turner",11347,16008,9295,28,13
+13289,"Georgia","Twiggs",14942,12824,17667,26,11
+13291,"Georgia","Union",8067,NA,NA,19,9
+13293,"Georgia","Upson",12867,11654,13891,25,12
+13295,"Georgia","Walker",10412,12590,10354,21,10
+13297,"Georgia","Walton",8509,10688,8250,20,9
+13299,"Georgia","Ware",11958,13338,11661,27,11
+13301,"Georgia","Warren",13006,NA,NA,30,14
+13303,"Georgia","Washington",9949,11203,8974,27,10
+13305,"Georgia","Wayne",11175,14875,10635,25,10
+13309,"Georgia","Wheeler",6985,NA,NA,28,10
+13311,"Georgia","White",8353,NA,NA,18,7
+13313,"Georgia","Whitfield",7722,13859,9936,27,8
+13315,"Georgia","Wilcox",10254,13239,8937,27,12
+13317,"Georgia","Wilkes",10023,10605,10491,27,10
+13319,"Georgia","Wilkinson",12854,10621,14988,26,13
+13321,"Georgia","Worth",11107,14324,9980,24,13
+15001,"Hawaii","Hawaii",6986,NA,6848,19,9
+15003,"Hawaii","Honolulu",5725,6122,5319,17,8
+15007,"Hawaii","Kauai",5966,NA,5642,17,8
+15009,"Hawaii","Maui",5763,NA,5690,16,8
+16001,"Idaho","Ada",4887,6605,5003,14,7
+16005,"Idaho","Bannock",7892,NA,7336,18,8
+16007,"Idaho","Bear Lake",7841,NA,NA,18,9
+16009,"Idaho","Benewah",10909,NA,NA,20,7
+16011,"Idaho","Bingham",8366,NA,7857,19,8
+16013,"Idaho","Blaine",4719,NA,NA,17,7
+16015,"Idaho","Boise",8967,NA,NA,16,7
+16017,"Idaho","Bonner",7304,NA,NA,17,6
+16019,"Idaho","Bonneville",7887,NA,8017,16,8
+16021,"Idaho","Boundary",8056,NA,NA,19,5
+16027,"Idaho","Canyon",6633,NA,6851,21,7
+16029,"Idaho","Caribou",5852,NA,NA,17,9
+16031,"Idaho","Cassia",7382,NA,8290,22,8
+16035,"Idaho","Clearwater",7868,NA,NA,18,7
+16039,"Idaho","Elmore",6765,NA,NA,21,7
+16041,"Idaho","Franklin",6488,NA,NA,17,8
+16043,"Idaho","Fremont",6221,NA,NA,19,7
+16045,"Idaho","Gem",7611,NA,NA,19,7
+16047,"Idaho","Gooding",7097,NA,NA,22,8
+16049,"Idaho","Idaho",6924,NA,NA,20,5
+16051,"Idaho","Jefferson",6391,NA,NA,17,8
+16053,"Idaho","Jerome",5562,NA,NA,24,7
+16055,"Idaho","Kootenai",6183,NA,NA,17,6
+16057,"Idaho","Latah",5150,NA,NA,15,5
+16059,"Idaho","Lemhi",9120,NA,NA,18,6
+16063,"Idaho","Lincoln",9411,NA,NA,24,6
+16065,"Idaho","Madison",4326,NA,NA,19,6
+16067,"Idaho","Minidoka",7441,NA,8415,23,7
+16069,"Idaho","Nez Perce",8021,NA,7784,18,6
+16073,"Idaho","Owyhee",8042,NA,NA,24,8
+16075,"Idaho","Payette",8194,NA,NA,20,7
+16077,"Idaho","Power",7601,NA,NA,22,7
+16079,"Idaho","Shoshone",9063,NA,NA,22,7
+16081,"Idaho","Teton",5099,NA,NA,14,8
+16083,"Idaho","Twin Falls",7523,NA,7796,19,8
+16085,"Idaho","Valley",4073,NA,NA,15,5
+16087,"Idaho","Washington",6950,NA,NA,22,6
+17001,"Illinois","Adams",7530,14974,7343,17,8
+17003,"Illinois","Alexander",15550,NA,NA,24,9
+17005,"Illinois","Bond",7404,NA,NA,18,7
+17007,"Illinois","Boone",6426,NA,7219,18,7
+17009,"Illinois","Brown",4975,NA,NA,21,7
+17011,"Illinois","Bureau",7315,NA,NA,18,7
+17015,"Illinois","Carroll",7168,NA,NA,17,6
+17017,"Illinois","Cass",8575,NA,NA,22,9
+17019,"Illinois","Champaign",6390,13753,5645,17,8
+17021,"Illinois","Christian",7929,NA,NA,18,9
+17023,"Illinois","Clark",8523,NA,NA,18,8
+17025,"Illinois","Clay",8120,NA,NA,20,8
+17027,"Illinois","Clinton",5271,NA,NA,16,7
+17029,"Illinois","Coles",7230,NA,NA,19,7
+17031,"Illinois","Cook",7508,14799,5287,19,9
+17033,"Illinois","Crawford",5517,NA,NA,19,7
+17035,"Illinois","Cumberland",5919,NA,NA,18,8
+17037,"Illinois","DeKalb",6670,12897,6451,18,7
+17039,"Illinois","De Witt",9717,NA,NA,18,6
+17041,"Illinois","Douglas",6555,NA,NA,20,6
+17043,"Illinois","DuPage",4528,8112,4808,14,7
+17045,"Illinois","Edgar",9172,NA,NA,17,8
+17047,"Illinois","Edwards",10466,NA,NA,17,8
+17049,"Illinois","Effingham",6676,NA,NA,16,7
+17051,"Illinois","Fayette",7412,NA,NA,21,7
+17053,"Illinois","Ford",7141,NA,NA,18,6
+17055,"Illinois","Franklin",10016,NA,NA,21,8
+17057,"Illinois","Fulton",8268,NA,NA,19,8
+17059,"Illinois","Gallatin",11481,NA,NA,22,8
+17061,"Illinois","Greene",7880,NA,NA,19,8
+17063,"Illinois","Grundy",7527,NA,NA,16,7
+17065,"Illinois","Hamilton",6918,NA,NA,18,8
+17067,"Illinois","Hancock",7795,NA,NA,17,7
+17069,"Illinois","Hardin",11521,NA,NA,21,8
+17071,"Illinois","Henderson",8519,NA,NA,17,9
+17073,"Illinois","Henry",7142,NA,NA,17,7
+17075,"Illinois","Iroquois",9187,NA,NA,19,8
+17077,"Illinois","Jackson",8964,13353,8675,20,9
+17079,"Illinois","Jasper",4478,NA,NA,18,7
+17081,"Illinois","Jefferson",9447,16372,8897,20,10
+17083,"Illinois","Jersey",8545,NA,NA,16,8
+17085,"Illinois","Jo Daviess",6576,NA,NA,16,7
+17087,"Illinois","Johnson",8990,NA,NA,20,6
+17089,"Illinois","Kane",5306,11186,5236,18,7
+17091,"Illinois","Kankakee",8664,16057,7318,19,9
+17093,"Illinois","Kendall",4382,7534,4251,15,7
+17095,"Illinois","Knox",7998,9610,7978,20,8
+17097,"Illinois","Lake",5097,12035,4907,16,8
+17099,"Illinois","LaSalle",8393,10415,8889,19,8
+17101,"Illinois","Lawrence",9378,NA,NA,21,10
+17103,"Illinois","Lee",6541,NA,NA,18,7
+17105,"Illinois","Livingston",9121,NA,NA,20,8
+17107,"Illinois","Logan",7415,NA,NA,18,8
+17109,"Illinois","McDonough",7131,NA,NA,18,7
+17111,"Illinois","McHenry",5287,NA,5413,15,6
+17113,"Illinois","McLean",6280,12116,6007,15,8
+17115,"Illinois","Macon",9414,14605,8006,19,10
+17117,"Illinois","Macoupin",8154,NA,NA,18,10
+17119,"Illinois","Madison",8623,14866,8174,17,9
+17121,"Illinois","Marion",11371,NA,NA,20,9
+17123,"Illinois","Marshall",7940,NA,NA,17,8
+17125,"Illinois","Mason",9743,NA,NA,19,8
+17127,"Illinois","Massac",10592,NA,NA,20,8
+17129,"Illinois","Menard",6500,NA,NA,15,8
+17131,"Illinois","Mercer",6407,NA,NA,17,8
+17133,"Illinois","Monroe",5100,NA,NA,13,8
+17135,"Illinois","Montgomery",9457,NA,NA,20,9
+17137,"Illinois","Morgan",8247,NA,NA,19,10
+17139,"Illinois","Moultrie",6445,NA,NA,18,7
+17141,"Illinois","Ogle",6749,NA,NA,17,7
+17143,"Illinois","Peoria",9002,16832,7424,18,10
+17145,"Illinois","Perry",7539,NA,NA,21,7
+17147,"Illinois","Piatt",5243,NA,NA,14,6
+17149,"Illinois","Pike",8156,NA,NA,19,7
+17153,"Illinois","Pulaski",10745,NA,NA,24,12
+17157,"Illinois","Randolph",8262,NA,NA,20,8
+17159,"Illinois","Richland",8262,NA,NA,19,7
+17161,"Illinois","Rock Island",7527,12160,7222,18,8
+17163,"Illinois","St. Clair",10086,16100,7714,19,10
+17165,"Illinois","Saline",11303,NA,NA,21,9
+17167,"Illinois","Sangamon",7883,13470,7248,17,11
+17169,"Illinois","Schuyler",8875,NA,NA,19,8
+17171,"Illinois","Scott",6660,NA,NA,18,8
+17173,"Illinois","Shelby",6661,NA,NA,18,7
+17175,"Illinois","Stark",8333,NA,NA,19,7
+17177,"Illinois","Stephenson",8224,14066,7700,18,9
+17179,"Illinois","Tazewell",6821,NA,NA,16,6
+17181,"Illinois","Union",9241,NA,NA,20,7
+17183,"Illinois","Vermilion",10716,18167,9568,21,11
+17185,"Illinois","Wabash",7622,NA,NA,18,8
+17187,"Illinois","Warren",7880,NA,NA,19,7
+17189,"Illinois","Washington",6343,NA,NA,15,6
+17191,"Illinois","Wayne",8860,NA,NA,19,8
+17193,"Illinois","White",9125,NA,NA,19,9
+17195,"Illinois","Whiteside",7282,NA,7280,18,6
+17197,"Illinois","Will",6107,9698,6152,16,8
+17199,"Illinois","Williamson",7379,11023,7286,18,9
+17201,"Illinois","Winnebago",9701,16258,9118,20,9
+17203,"Illinois","Woodford",6640,NA,NA,14,6
+18001,"Indiana","Adams",7838,NA,NA,23,7
+18003,"Indiana","Allen",8471,14759,7649,19,9
+18005,"Indiana","Bartholomew",7592,NA,NA,18,8
+18007,"Indiana","Benton",8792,NA,NA,21,7
+18009,"Indiana","Blackford",10190,NA,NA,22,9
+18011,"Indiana","Boone",6470,NA,NA,14,7
+18013,"Indiana","Brown",8159,NA,NA,18,7
+18015,"Indiana","Carroll",6178,NA,NA,20,6
+18017,"Indiana","Cass",9431,NA,10009,23,8
+18019,"Indiana","Clark",10022,11705,10428,20,8
+18021,"Indiana","Clay",9141,NA,NA,20,8
+18023,"Indiana","Clinton",9035,NA,NA,23,7
+18025,"Indiana","Crawford",11883,NA,NA,25,10
+18027,"Indiana","Daviess",7361,NA,NA,24,6
+18029,"Indiana","Dearborn",7817,NA,NA,18,7
+18031,"Indiana","Decatur",8470,NA,NA,19,7
+18033,"Indiana","DeKalb",8334,NA,NA,19,7
+18035,"Indiana","Delaware",10902,15492,10839,22,9
+18037,"Indiana","Dubois",5606,NA,NA,18,8
+18039,"Indiana","Elkhart",7319,12968,7326,22,7
+18041,"Indiana","Fayette",13349,NA,NA,24,8
+18043,"Indiana","Floyd",9458,15714,9373,18,8
+18045,"Indiana","Fountain",9847,NA,NA,20,7
+18047,"Indiana","Franklin",8705,NA,NA,19,7
+18049,"Indiana","Fulton",10646,NA,NA,20,9
+18051,"Indiana","Gibson",7814,NA,NA,19,8
+18053,"Indiana","Grant",12289,18803,12086,23,10
+18055,"Indiana","Greene",9043,NA,NA,21,8
+18057,"Indiana","Hamilton",4212,6185,4306,12,7
+18059,"Indiana","Hancock",6250,NA,NA,16,6
+18061,"Indiana","Harrison",8858,NA,NA,19,7
+18063,"Indiana","Hendricks",5571,4825,5865,15,6
+18065,"Indiana","Henry",9781,NA,NA,21,8
+18067,"Indiana","Howard",11097,15270,11117,20,9
+18069,"Indiana","Huntington",7516,NA,NA,19,9
+18071,"Indiana","Jackson",9487,NA,NA,22,7
+18073,"Indiana","Jasper",7990,NA,NA,19,7
+18075,"Indiana","Jay",10200,NA,NA,22,9
+18077,"Indiana","Jefferson",8927,NA,NA,20,8
+18079,"Indiana","Jennings",11372,NA,NA,21,7
+18081,"Indiana","Johnson",6664,8281,6898,17,7
+18083,"Indiana","Knox",10386,NA,NA,21,9
+18085,"Indiana","Kosciusko",7540,NA,7924,20,7
+18087,"Indiana","LaGrange",6352,NA,NA,25,5
+18089,"Indiana","Lake",9809,14822,8796,23,9
+18091,"Indiana","LaPorte",9809,12470,9839,22,9
+18093,"Indiana","Lawrence",8615,NA,NA,20,8
+18095,"Indiana","Madison",9852,14331,9739,22,9
+18097,"Indiana","Marion",10673,14021,9962,22,9
+18099,"Indiana","Marshall",7398,NA,NA,22,7
+18101,"Indiana","Martin",9268,NA,NA,20,7
+18103,"Indiana","Miami",8645,NA,NA,23,9
+18105,"Indiana","Monroe",6485,10217,6760,18,7
+18107,"Indiana","Montgomery",7694,NA,NA,20,7
+18109,"Indiana","Morgan",8334,NA,NA,19,8
+18111,"Indiana","Newton",8981,NA,NA,21,7
+18113,"Indiana","Noble",8342,NA,8661,21,7
+18115,"Indiana","Ohio",6204,NA,NA,19,7
+18117,"Indiana","Orange",10097,NA,NA,23,7
+18119,"Indiana","Owen",10014,NA,NA,22,8
+18121,"Indiana","Parke",6829,NA,NA,22,6
+18123,"Indiana","Perry",6761,NA,NA,20,9
+18125,"Indiana","Pike",8081,NA,NA,21,8
+18127,"Indiana","Porter",6927,8967,7057,17,7
+18129,"Indiana","Posey",6820,NA,NA,17,8
+18131,"Indiana","Pulaski",11408,NA,NA,21,8
+18133,"Indiana","Putnam",7407,NA,NA,19,7
+18135,"Indiana","Randolph",10301,NA,NA,21,9
+18137,"Indiana","Ripley",8369,NA,NA,19,6
+18139,"Indiana","Rush",7987,NA,NA,21,7
+18141,"Indiana","St. Joseph",8578,15413,7818,20,9
+18143,"Indiana","Scott",13045,NA,NA,23,8
+18145,"Indiana","Shelby",9154,NA,NA,20,7
+18147,"Indiana","Spencer",8070,NA,NA,19,6
+18149,"Indiana","Starke",11120,NA,NA,23,8
+18151,"Indiana","Steuben",6819,NA,NA,19,7
+18153,"Indiana","Sullivan",9197,NA,NA,21,7
+18155,"Indiana","Switzerland",11523,NA,NA,24,9
+18157,"Indiana","Tippecanoe",6367,12130,6621,19,8
+18159,"Indiana","Tipton",8138,NA,NA,18,8
+18161,"Indiana","Union",9367,NA,NA,20,6
+18163,"Indiana","Vanderburgh",9536,14073,9101,21,9
+18165,"Indiana","Vermillion",9632,NA,NA,20,8
+18167,"Indiana","Vigo",9218,10463,9484,21,9
+18169,"Indiana","Wabash",8781,NA,NA,21,8
+18171,"Indiana","Warren",6866,NA,NA,18,5
+18173,"Indiana","Warrick",6925,NA,NA,16,8
+18175,"Indiana","Washington",10140,NA,NA,21,7
+18177,"Indiana","Wayne",12520,20084,12392,22,9
+18179,"Indiana","Wells",7951,NA,NA,18,8
+18181,"Indiana","White",9383,NA,NA,20,7
+18183,"Indiana","Whitley",6598,NA,NA,18,8
+19001,"Iowa","Adair",7304,NA,NA,15,5
+19005,"Iowa","Allamakee",6941,NA,NA,17,5
+19007,"Iowa","Appanoose",7692,NA,NA,17,8
+19009,"Iowa","Audubon",8614,NA,NA,15,5
+19011,"Iowa","Benton",6246,NA,NA,14,6
+19013,"Iowa","Black Hawk",7435,14182,6713,16,7
+19015,"Iowa","Boone",5199,NA,NA,14,6
+19017,"Iowa","Bremer",5150,NA,NA,12,6
+19019,"Iowa","Buchanan",4977,NA,NA,14,5
+19021,"Iowa","Buena Vista",5550,NA,NA,19,7
+19023,"Iowa","Butler",7172,NA,NA,14,6
+19025,"Iowa","Calhoun",6969,NA,NA,15,8
+19027,"Iowa","Carroll",6246,NA,NA,14,5
+19029,"Iowa","Cass",9008,NA,NA,17,7
+19031,"Iowa","Cedar",4950,NA,NA,13,6
+19033,"Iowa","Cerro Gordo",8339,NA,NA,15,7
+19035,"Iowa","Cherokee",7083,NA,NA,15,6
+19037,"Iowa","Chickasaw",6572,NA,NA,15,5
+19039,"Iowa","Clarke",8793,NA,NA,18,7
+19041,"Iowa","Clay",6223,NA,NA,15,6
+19043,"Iowa","Clayton",5706,NA,NA,16,5
+19045,"Iowa","Clinton",7839,NA,NA,16,8
+19047,"Iowa","Crawford",5995,NA,NA,20,6
+19049,"Iowa","Dallas",4284,NA,NA,11,6
+19051,"Iowa","Davis",7549,NA,NA,17,6
+19053,"Iowa","Decatur",8778,NA,NA,17,7
+19055,"Iowa","Delaware",6054,NA,NA,14,6
+19057,"Iowa","Des Moines",7725,12742,7528,16,7
+19059,"Iowa","Dickinson",5782,NA,NA,13,6
+19061,"Iowa","Dubuque",5644,9370,5440,13,6
+19063,"Iowa","Emmet",8814,NA,NA,16,6
+19065,"Iowa","Fayette",7576,NA,NA,16,6
+19067,"Iowa","Floyd",7092,NA,NA,16,6
+19069,"Iowa","Franklin",7248,NA,NA,17,5
+19071,"Iowa","Fremont",8711,NA,NA,15,6
+19073,"Iowa","Greene",5951,NA,NA,15,7
+19075,"Iowa","Grundy",6074,NA,NA,12,5
+19077,"Iowa","Guthrie",5214,NA,NA,14,7
+19079,"Iowa","Hamilton",7821,NA,NA,14,6
+19081,"Iowa","Hancock",3983,NA,NA,14,5
+19083,"Iowa","Hardin",6336,NA,NA,15,6
+19085,"Iowa","Harrison",7375,NA,NA,15,7
+19087,"Iowa","Henry",5588,NA,NA,15,7
+19089,"Iowa","Howard",5170,NA,NA,15,7
+19091,"Iowa","Humboldt",4876,NA,NA,15,6
+19093,"Iowa","Ida",7508,NA,NA,14,7
+19095,"Iowa","Iowa",5723,NA,NA,14,5
+19097,"Iowa","Jackson",6825,NA,NA,15,5
+19099,"Iowa","Jasper",6216,NA,NA,15,7
+19101,"Iowa","Jefferson",6081,NA,NA,15,6
+19103,"Iowa","Johnson",4643,8514,4711,13,7
+19105,"Iowa","Jones",4797,NA,NA,16,6
+19107,"Iowa","Keokuk",6692,NA,NA,15,6
+19109,"Iowa","Kossuth",7189,NA,NA,15,5
+19111,"Iowa","Lee",8827,NA,NA,17,8
+19113,"Iowa","Linn",6367,12879,5969,13,7
+19115,"Iowa","Louisa",8178,NA,NA,18,7
+19117,"Iowa","Lucas",7786,NA,NA,16,6
+19119,"Iowa","Lyon",5005,NA,NA,14,6
+19121,"Iowa","Madison",6009,NA,NA,13,5
+19123,"Iowa","Mahaska",6455,NA,NA,16,6
+19125,"Iowa","Marion",5996,NA,NA,13,6
+19127,"Iowa","Marshall",7771,NA,8523,19,7
+19129,"Iowa","Mills",7547,NA,NA,14,8
+19131,"Iowa","Mitchell",3877,NA,NA,15,5
+19133,"Iowa","Monona",9581,NA,NA,16,7
+19135,"Iowa","Monroe",7262,NA,NA,16,6
+19137,"Iowa","Montgomery",9556,NA,NA,16,8
+19139,"Iowa","Muscatine",6960,NA,7529,16,8
+19141,"Iowa","O'Brien",7362,NA,NA,15,5
+19143,"Iowa","Osceola",8384,NA,NA,16,5
+19145,"Iowa","Page",6688,NA,NA,16,8
+19147,"Iowa","Palo Alto",8477,NA,NA,14,7
+19149,"Iowa","Plymouth",6221,NA,NA,14,7
+19151,"Iowa","Pocahontas",7455,NA,NA,16,6
+19153,"Iowa","Polk",6860,13166,6537,15,7
+19155,"Iowa","Pottawattamie",8516,NA,NA,16,8
+19157,"Iowa","Poweshiek",6352,NA,NA,14,7
+19159,"Iowa","Ringgold",7021,NA,NA,15,6
+19161,"Iowa","Sac",6445,NA,NA,14,6
+19163,"Iowa","Scott",6664,12873,6337,14,8
+19165,"Iowa","Shelby",5889,NA,NA,14,6
+19167,"Iowa","Sioux",3614,NA,NA,14,5
+19169,"Iowa","Story",4710,NA,NA,13,6
+19171,"Iowa","Tama",8212,NA,NA,17,7
+19173,"Iowa","Taylor",7617,NA,NA,17,6
+19175,"Iowa","Union",9909,NA,NA,16,5
+19177,"Iowa","Van Buren",7288,NA,NA,17,4
+19179,"Iowa","Wapello",8748,NA,NA,18,7
+19181,"Iowa","Warren",6040,NA,NA,12,7
+19183,"Iowa","Washington",6315,NA,NA,15,6
+19185,"Iowa","Wayne",7036,NA,NA,18,5
+19187,"Iowa","Webster",7920,NA,NA,17,6
+19189,"Iowa","Winnebago",5423,NA,NA,15,7
+19191,"Iowa","Winneshiek",3137,NA,NA,12,6
+19193,"Iowa","Woodbury",8278,10711,8212,17,7
+19195,"Iowa","Worth",5754,NA,NA,14,7
+19197,"Iowa","Wright",5525,NA,NA,16,6
+20001,"Kansas","Allen",9545,NA,NA,19,7
+20003,"Kansas","Anderson",9392,NA,NA,19,6
+20005,"Kansas","Atchison",7702,NA,NA,18,7
+20007,"Kansas","Barber",9840,NA,NA,19,6
+20009,"Kansas","Barton",8663,NA,8098,20,7
+20011,"Kansas","Bourbon",9254,NA,NA,20,7
+20013,"Kansas","Brown",9546,NA,NA,19,6
+20015,"Kansas","Butler",7575,NA,NA,16,7
+20021,"Kansas","Cherokee",11079,NA,NA,20,9
+20027,"Kansas","Clay",7410,NA,NA,16,7
+20029,"Kansas","Cloud",7626,NA,NA,18,6
+20031,"Kansas","Coffey",7754,NA,NA,16,6
+20035,"Kansas","Cowley",9278,NA,NA,19,8
+20037,"Kansas","Crawford",9829,NA,NA,19,7
+20041,"Kansas","Dickinson",7252,NA,NA,18,8
+20043,"Kansas","Doniphan",7749,NA,NA,18,7
+20045,"Kansas","Douglas",5280,9139,5212,15,7
+20047,"Kansas","Edwards",24807,NA,NA,21,8
+20051,"Kansas","Ellis",5700,NA,NA,16,7
+20053,"Kansas","Ellsworth",5397,NA,NA,17,7
+20055,"Kansas","Finney",7998,NA,11304,25,8
+20057,"Kansas","Ford",7203,NA,9564,26,6
+20059,"Kansas","Franklin",7614,NA,NA,17,8
+20061,"Kansas","Geary",10650,13280,10348,19,7
+20067,"Kansas","Grant",6804,NA,NA,23,7
+20069,"Kansas","Gray",6479,NA,NA,19,5
+20073,"Kansas","Greenwood",10311,NA,NA,18,10
+20077,"Kansas","Harper",10221,NA,NA,20,6
+20079,"Kansas","Harvey",7507,NA,NA,17,8
+20085,"Kansas","Jackson",7310,NA,NA,17,7
+20087,"Kansas","Jefferson",6480,NA,NA,16,5
+20091,"Kansas","Johnson",4541,7411,4513,12,6
+20095,"Kansas","Kingman",19645,NA,NA,15,7
+20099,"Kansas","Labette",9665,NA,NA,20,7
+20103,"Kansas","Leavenworth",6919,8905,6994,16,7
+20107,"Kansas","Linn",9869,NA,NA,20,6
+20111,"Kansas","Lyon",7196,NA,7307,20,8
+20113,"Kansas","McPherson",5767,NA,NA,16,6
+20115,"Kansas","Marion",7974,NA,NA,16,6
+20117,"Kansas","Marshall",7689,NA,NA,17,6
+20119,"Kansas","Meade",13268,NA,NA,20,9
+20121,"Kansas","Miami",6609,NA,NA,14,6
+20123,"Kansas","Mitchell",6388,NA,NA,17,7
+20125,"Kansas","Montgomery",10010,NA,NA,21,8
+20127,"Kansas","Morris",7118,NA,NA,17,6
+20131,"Kansas","Nemaha",5272,NA,NA,15,5
+20133,"Kansas","Neosho",10004,NA,NA,19,7
+20137,"Kansas","Norton",9586,NA,NA,18,7
+20139,"Kansas","Osage",7425,NA,NA,18,6
+20143,"Kansas","Ottawa",8897,NA,NA,16,6
+20145,"Kansas","Pawnee",8165,NA,NA,18,9
+20147,"Kansas","Phillips",6616,NA,NA,17,8
+20149,"Kansas","Pottawatomie",5021,NA,NA,15,5
+20151,"Kansas","Pratt",9668,NA,NA,17,7
+20155,"Kansas","Reno",7941,NA,8299,18,7
+20157,"Kansas","Republic",10568,NA,NA,16,6
+20159,"Kansas","Rice",6892,NA,NA,18,6
+20161,"Kansas","Riley",5013,8809,4833,17,6
+20163,"Kansas","Rooks",7494,NA,NA,17,6
+20167,"Kansas","Russell",9659,NA,NA,18,5
+20169,"Kansas","Saline",7918,NA,7861,17,7
+20171,"Kansas","Scott",7052,NA,NA,18,10
+20173,"Kansas","Sedgwick",8909,14743,8360,20,8
+20175,"Kansas","Seward",7225,NA,10400,29,6
+20177,"Kansas","Shawnee",9104,17300,7962,18,7
+20181,"Kansas","Sherman",7222,NA,NA,17,8
+20185,"Kansas","Stafford",9748,NA,NA,19,3
+20189,"Kansas","Stevens",7283,NA,NA,25,4
+20191,"Kansas","Sumner",10086,NA,NA,18,7
+20193,"Kansas","Thomas",10683,NA,NA,17,7
+20197,"Kansas","Wabaunsee",7463,NA,NA,15,5
+20205,"Kansas","Wilson",9827,NA,NA,19,7
+20207,"Kansas","Woodson",7813,NA,NA,20,6
+20209,"Kansas","Wyandotte",10612,15777,9915,25,9
+21001,"Kentucky","Adair",10424,NA,NA,27,9
+21003,"Kentucky","Allen",10248,NA,NA,25,10
+21005,"Kentucky","Anderson",9580,NA,NA,21,8
+21007,"Kentucky","Ballard",8181,NA,NA,23,8
+21009,"Kentucky","Barren",8953,13714,8799,26,8
+21011,"Kentucky","Bath",13512,NA,NA,26,9
+21013,"Kentucky","Bell",15155,NA,NA,33,10
+21015,"Kentucky","Boone",6763,7578,6907,17,7
+21017,"Kentucky","Bourbon",10974,NA,NA,24,8
+21019,"Kentucky","Boyd",11203,NA,NA,23,10
+21021,"Kentucky","Boyle",8140,NA,NA,22,8
+21023,"Kentucky","Bracken",11392,NA,NA,24,10
+21025,"Kentucky","Breathitt",18390,NA,NA,31,11
+21027,"Kentucky","Breckinridge",9519,NA,NA,25,8
+21029,"Kentucky","Bullitt",8299,NA,NA,20,8
+21031,"Kentucky","Butler",11649,NA,NA,25,7
+21033,"Kentucky","Caldwell",11022,NA,NA,24,9
+21035,"Kentucky","Calloway",7622,NA,NA,22,7
+21037,"Kentucky","Campbell",8205,NA,NA,19,8
+21039,"Kentucky","Carlisle",9821,NA,NA,25,6
+21041,"Kentucky","Carroll",13990,NA,NA,27,9
+21043,"Kentucky","Carter",12176,NA,NA,27,8
+21045,"Kentucky","Casey",11007,NA,NA,29,8
+21047,"Kentucky","Christian",11174,16215,10099,25,9
+21049,"Kentucky","Clark",11914,NA,NA,22,9
+21051,"Kentucky","Clay",14326,NA,NA,35,11
+21053,"Kentucky","Clinton",10085,NA,NA,31,9
+21055,"Kentucky","Crittenden",11746,NA,NA,25,7
+21057,"Kentucky","Cumberland",8568,NA,NA,26,9
+21059,"Kentucky","Daviess",8633,9843,8724,21,8
+21061,"Kentucky","Edmonson",9850,NA,NA,26,6
+21063,"Kentucky","Elliott",10448,NA,NA,31,11
+21065,"Kentucky","Estill",13442,NA,NA,29,8
+21067,"Kentucky","Fayette",7678,11096,7445,19,9
+21069,"Kentucky","Fleming",9863,NA,NA,26,7
+21071,"Kentucky","Floyd",14857,NA,NA,30,11
+21073,"Kentucky","Franklin",9571,7401,10408,20,10
+21075,"Kentucky","Fulton",17207,NA,NA,31,11
+21077,"Kentucky","Gallatin",11209,NA,NA,25,9
+21079,"Kentucky","Garrard",9271,NA,NA,23,9
+21081,"Kentucky","Grant",11831,NA,NA,24,9
+21083,"Kentucky","Graves",9134,NA,NA,25,8
+21085,"Kentucky","Grayson",10536,NA,NA,28,9
+21087,"Kentucky","Green",9743,NA,NA,27,9
+21089,"Kentucky","Greenup",11279,NA,NA,22,8
+21091,"Kentucky","Hancock",8251,NA,NA,22,7
+21093,"Kentucky","Hardin",9280,10648,9344,21,8
+21095,"Kentucky","Harlan",15633,NA,NA,33,10
+21097,"Kentucky","Harrison",10501,NA,NA,24,7
+21099,"Kentucky","Hart",9516,NA,NA,28,8
+21101,"Kentucky","Henderson",8991,8919,9186,23,11
+21103,"Kentucky","Henry",10162,NA,NA,24,8
+21105,"Kentucky","Hickman",10627,NA,NA,27,8
+21107,"Kentucky","Hopkins",9988,11416,9862,24,9
+21109,"Kentucky","Jackson",12787,NA,NA,29,10
+21111,"Kentucky","Jefferson",10470,14825,9684,20,9
+21113,"Kentucky","Jessamine",9014,16815,8840,21,9
+21115,"Kentucky","Johnson",12839,NA,NA,26,10
+21117,"Kentucky","Kenton",9092,15467,8910,18,9
+21119,"Kentucky","Knott",15911,NA,NA,31,10
+21121,"Kentucky","Knox",12956,NA,NA,31,11
+21123,"Kentucky","Larue",10153,NA,NA,24,9
+21125,"Kentucky","Laurel",10219,NA,NA,27,8
+21127,"Kentucky","Lawrence",11855,NA,NA,29,10
+21129,"Kentucky","Lee",15622,NA,NA,35,8
+21131,"Kentucky","Leslie",13801,NA,NA,32,11
+21133,"Kentucky","Letcher",14607,NA,NA,30,10
+21135,"Kentucky","Lewis",14435,NA,NA,29,8
+21137,"Kentucky","Lincoln",11983,NA,NA,26,9
+21139,"Kentucky","Livingston",9049,NA,NA,24,7
+21141,"Kentucky","Logan",10140,NA,NA,24,8
+21143,"Kentucky","Lyon",9973,NA,NA,22,7
+21145,"Kentucky","McCracken",9982,15156,9595,21,9
+21147,"Kentucky","McCreary",12258,NA,NA,33,10
+21149,"Kentucky","McLean",8681,NA,NA,23,11
+21151,"Kentucky","Madison",9619,12687,9707,21,9
+21153,"Kentucky","Magoffin",14978,NA,NA,31,12
+21155,"Kentucky","Marion",10642,NA,NA,27,9
+21157,"Kentucky","Marshall",9731,NA,NA,21,8
+21159,"Kentucky","Martin",11884,NA,NA,27,12
+21161,"Kentucky","Mason",10837,NA,NA,23,8
+21163,"Kentucky","Meade",8596,NA,NA,21,7
+21165,"Kentucky","Menifee",9902,NA,NA,27,9
+21167,"Kentucky","Mercer",8997,NA,NA,22,8
+21169,"Kentucky","Metcalfe",9777,NA,NA,28,9
+21171,"Kentucky","Monroe",11346,NA,NA,27,9
+21173,"Kentucky","Montgomery",9028,NA,NA,25,9
+21175,"Kentucky","Morgan",10873,NA,NA,29,9
+21177,"Kentucky","Muhlenberg",10215,NA,NA,25,9
+21179,"Kentucky","Nelson",9086,NA,NA,20,8
+21181,"Kentucky","Nicholas",11396,NA,NA,30,9
+21183,"Kentucky","Ohio",9271,NA,NA,24,8
+21185,"Kentucky","Oldham",5387,NA,NA,15,6
+21187,"Kentucky","Owen",10460,NA,NA,26,8
+21189,"Kentucky","Owsley",19821,NA,NA,29,10
+21191,"Kentucky","Pendleton",12968,NA,NA,23,8
+21193,"Kentucky","Perry",19737,NA,NA,28,9
+21195,"Kentucky","Pike",13183,NA,NA,28,11
+21197,"Kentucky","Powell",16070,NA,NA,26,9
+21199,"Kentucky","Pulaski",11174,NA,NA,26,9
+21203,"Kentucky","Rockcastle",11398,NA,NA,27,10
+21205,"Kentucky","Rowan",8829,NA,NA,26,9
+21207,"Kentucky","Russell",12431,NA,NA,26,9
+21209,"Kentucky","Scott",7269,NA,NA,19,8
+21211,"Kentucky","Shelby",8052,10710,8289,21,8
+21213,"Kentucky","Simpson",10764,NA,NA,23,9
+21215,"Kentucky","Spencer",7823,NA,NA,19,8
+21217,"Kentucky","Taylor",9809,NA,NA,24,9
+21219,"Kentucky","Todd",10372,NA,NA,25,8
+21221,"Kentucky","Trigg",9938,NA,NA,21,8
+21223,"Kentucky","Trimble",9194,NA,NA,24,9
+21225,"Kentucky","Union",9088,NA,NA,25,12
+21227,"Kentucky","Warren",8126,12382,7904,21,9
+21229,"Kentucky","Washington",9112,NA,NA,23,9
+21231,"Kentucky","Wayne",10278,NA,NA,29,9
+21233,"Kentucky","Webster",10474,NA,NA,27,11
+21235,"Kentucky","Whitley",13783,NA,NA,26,11
+21237,"Kentucky","Wolfe",19818,NA,NA,32,9
+21239,"Kentucky","Woodford",8789,NA,NA,19,8
+22001,"Louisiana","Acadia",11120,17404,10023,26,9
+22003,"Louisiana","Allen",10835,11705,10801,23,9
+22005,"Louisiana","Ascension",7474,9971,6908,19,9
+22007,"Louisiana","Assumption",10590,16413,8674,26,11
+22009,"Louisiana","Avoyelles",12333,14884,11395,28,12
+22011,"Louisiana","Beauregard",9271,15604,8313,22,9
+22013,"Louisiana","Bienville",15415,17601,14165,29,14
+22015,"Louisiana","Bossier",8037,10915,7270,21,11
+22017,"Louisiana","Caddo",12085,15597,8456,24,14
+22019,"Louisiana","Calcasieu",10624,14230,9548,22,10
+22021,"Louisiana","Caldwell",11244,NA,NA,27,10
+22023,"Louisiana","Cameron",6075,NA,NA,22,9
+22025,"Louisiana","Catahoula",9630,9890,9204,26,11
+22027,"Louisiana","Claiborne",10400,10878,10390,32,16
+22029,"Louisiana","Concordia",13948,18892,10737,29,13
+22031,"Louisiana","De Soto",10224,14359,7929,25,12
+22033,"Louisiana","East Baton Rouge",10857,14269,8282,19,12
+22035,"Louisiana","East Carroll",12656,NA,NA,39,15
+22037,"Louisiana","East Feliciana",12075,12859,11588,25,11
+22039,"Louisiana","Evangeline",12473,17326,11276,30,11
+22041,"Louisiana","Franklin",11371,14630,9789,29,14
+22043,"Louisiana","Grant",8797,11866,8820,25,10
+22045,"Louisiana","Iberia",11396,16570,9411,26,11
+22047,"Louisiana","Iberville",10854,12587,9578,26,12
+22049,"Louisiana","Jackson",11251,14759,10250,26,11
+22051,"Louisiana","Jefferson",9147,12647,8744,21,10
+22053,"Louisiana","Jefferson Davis",11620,15514,10983,24,10
+22055,"Louisiana","Lafayette",7991,11570,6950,20,9
+22057,"Louisiana","Lafourche",8820,15477,7582,23,9
+22059,"Louisiana","La Salle",9277,NA,NA,25,9
+22061,"Louisiana","Lincoln",9264,12449,7653,23,11
+22063,"Louisiana","Livingston",9057,11368,9110,20,8
+22065,"Louisiana","Madison",13285,15888,8758,34,16
+22067,"Louisiana","Morehouse",14519,17454,11575,29,15
+22069,"Louisiana","Natchitoches",11050,13715,9254,27,12
+22071,"Louisiana","Orleans",11015,14103,6759,23,12
+22073,"Louisiana","Ouachita",11422,15476,9064,25,12
+22075,"Louisiana","Plaquemines",9002,11522,9211,22,9
+22077,"Louisiana","Pointe Coupee",10402,13529,9312,25,10
+22079,"Louisiana","Rapides",12102,17238,10264,24,11
+22081,"Louisiana","Red River",12988,15371,12551,28,12
+22083,"Louisiana","Richland",11500,16057,9116,29,14
+22085,"Louisiana","Sabine",11430,18497,11324,24,9
+22087,"Louisiana","St. Bernard",11603,13414,11679,26,10
+22089,"Louisiana","St. Charles",8606,12114,7228,19,10
+22091,"Louisiana","St. Helena",13064,15000,10888,26,11
+22093,"Louisiana","St. James",10195,13249,7181,24,12
+22095,"Louisiana","St. John the Baptist",11190,12722,10549,24,12
+22097,"Louisiana","St. Landry",13771,17711,11216,28,11
+22099,"Louisiana","St. Martin",9617,12159,8839,25,10
+22101,"Louisiana","St. Mary",11357,16406,9419,26,10
+22103,"Louisiana","St. Tammany",7716,9801,7693,18,9
+22105,"Louisiana","Tangipahoa",10669,14352,9452,24,10
+22107,"Louisiana","Tensas",13991,NA,NA,34,10
+22109,"Louisiana","Terrebonne",10113,16568,8763,25,10
+22111,"Louisiana","Union",10569,16841,8854,24,10
+22113,"Louisiana","Vermilion",8479,11348,8244,23,10
+22115,"Louisiana","Vernon",9483,13021,9634,23,7
+22117,"Louisiana","Washington",15432,15650,15800,28,12
+22119,"Louisiana","Webster",12533,14567,11802,28,12
+22121,"Louisiana","West Baton Rouge",8814,12036,6947,21,11
+22123,"Louisiana","West Carroll",10649,NA,NA,26,9
+22125,"Louisiana","West Feliciana",9690,9611,10196,21,9
+22127,"Louisiana","Winn",10685,9558,11878,25,11
+23001,"Maine","Androscoggin",8133,14020,7831,18,8
+23003,"Maine","Aroostook",7454,NA,NA,21,7
+23005,"Maine","Cumberland",5665,7579,5636,13,7
+23007,"Maine","Franklin",7217,NA,NA,17,8
+23009,"Maine","Hancock",6877,NA,NA,15,8
+23011,"Maine","Kennebec",7820,NA,NA,17,7
+23013,"Maine","Knox",7039,NA,NA,16,6
+23015,"Maine","Lincoln",6414,NA,NA,16,9
+23017,"Maine","Oxford",8539,NA,NA,18,8
+23019,"Maine","Penobscot",8130,NA,NA,19,7
+23021,"Maine","Piscataquis",8183,NA,NA,21,8
+23023,"Maine","Sagadahoc",5823,NA,NA,16,7
+23025,"Maine","Somerset",8888,NA,NA,21,8
+23027,"Maine","Waldo",7097,NA,NA,17,7
+23029,"Maine","Washington",9882,NA,NA,21,7
+23031,"Maine","York",7082,NA,NA,15,7
+24001,"Maryland","Allegany",9538,10598,10018,19,9
+24003,"Maryland","Anne Arundel",6937,8060,7135,14,8
+24005,"Maryland","Baltimore",8371,10202,8062,16,9
+24009,"Maryland","Calvert",6531,8107,6555,14,7
+24011,"Maryland","Caroline",9003,12404,8625,20,8
+24013,"Maryland","Carroll",6604,10177,6777,13,6
+24015,"Maryland","Cecil",10405,12701,10570,16,8
+24017,"Maryland","Charles",7786,8296,8348,17,9
+24019,"Maryland","Dorchester",10398,16580,8612,19,10
+24021,"Maryland","Frederick",5885,7824,6026,14,7
+24023,"Maryland","Garrett",7521,NA,NA,18,8
+24025,"Maryland","Harford",7005,9213,6923,14,7
+24027,"Maryland","Howard",4342,7248,3913,11,8
+24029,"Maryland","Kent",7810,NA,NA,16,10
+24031,"Maryland","Montgomery",4304,6321,4152,13,7
+24033,"Maryland","Prince George's",7484,8538,6748,17,9
+24035,"Maryland","Queen Anne's",6384,NA,NA,13,7
+24037,"Maryland","St. Mary's",6954,10594,6654,15,7
+24039,"Maryland","Somerset",8834,8322,10651,25,10
+24041,"Maryland","Talbot",8256,11713,7983,14,7
+24043,"Maryland","Washington",9490,12197,9633,18,9
+24045,"Maryland","Wicomico",8924,10903,8543,20,9
+24047,"Maryland","Worcester",6632,9282,6466,16,7
+24510,"Maryland","Baltimore City",14845,17967,10524,22,12
+25001,"Massachusetts","Barnstable",7219,8563,7308,13,7
+25003,"Massachusetts","Berkshire",8489,16348,8515,15,8
+25005,"Massachusetts","Bristol",7362,7001,7362,17,8
+25007,"Massachusetts","Dukes",5838,NA,NA,13,5
+25009,"Massachusetts","Essex",5856,6691,6041,15,8
+25011,"Massachusetts","Franklin",6607,NA,NA,14,6
+25013,"Massachusetts","Hampden",8239,12048,7724,20,8
+25015,"Massachusetts","Hampshire",5831,NA,5640,13,7
+25017,"Massachusetts","Middlesex",4226,5897,4431,12,7
+25019,"Massachusetts","Nantucket",4474,NA,NA,13,6
+25021,"Massachusetts","Norfolk",4605,6029,4995,11,7
+25023,"Massachusetts","Plymouth",6245,6540,6302,14,7
+25025,"Massachusetts","Suffolk",5585,8545,5130,19,8
+25027,"Massachusetts","Worcester",6474,6979,6523,16,7
+26001,"Michigan","Alcona",8701,NA,NA,19,8
+26003,"Michigan","Alger",5662,NA,NA,19,9
+26005,"Michigan","Allegan",6913,NA,6583,18,7
+26007,"Michigan","Alpena",7523,NA,NA,19,7
+26009,"Michigan","Antrim",6068,NA,NA,17,6
+26011,"Michigan","Arenac",7898,NA,NA,21,8
+26013,"Michigan","Baraga",7968,NA,NA,21,6
+26015,"Michigan","Barry",6092,NA,NA,16,7
+26017,"Michigan","Bay",8521,12929,8303,19,7
+26019,"Michigan","Benzie",7794,NA,NA,16,7
+26021,"Michigan","Berrien",8036,14900,6892,19,8
+26023,"Michigan","Branch",8386,NA,NA,20,7
+26025,"Michigan","Calhoun",9531,13094,9231,19,9
+26027,"Michigan","Cass",8520,NA,NA,18,7
+26029,"Michigan","Charlevoix",7100,NA,NA,16,6
+26031,"Michigan","Cheboygan",9403,NA,NA,19,8
+26033,"Michigan","Chippewa",7075,NA,6540,21,6
+26035,"Michigan","Clare",10738,NA,NA,22,7
+26037,"Michigan","Clinton",4430,NA,NA,15,6
+26039,"Michigan","Crawford",7805,NA,NA,19,9
+26041,"Michigan","Delta",9172,NA,NA,18,7
+26043,"Michigan","Dickinson",8214,NA,NA,16,6
+26045,"Michigan","Eaton",6639,7686,6467,16,7
+26047,"Michigan","Emmet",6207,NA,NA,15,7
+26049,"Michigan","Genesee",10547,16522,8911,20,10
+26051,"Michigan","Gladwin",10139,NA,NA,21,8
+26053,"Michigan","Gogebic",8249,NA,NA,20,7
+26055,"Michigan","Grand Traverse",5884,NA,NA,15,7
+26057,"Michigan","Gratiot",7163,NA,NA,20,7
+26059,"Michigan","Hillsdale",7989,NA,NA,20,6
+26061,"Michigan","Houghton",6203,NA,NA,18,6
+26063,"Michigan","Huron",7414,NA,NA,19,7
+26065,"Michigan","Ingham",8018,14485,7141,18,8
+26067,"Michigan","Ionia",6162,NA,NA,19,7
+26069,"Michigan","Iosco",11194,NA,NA,20,7
+26071,"Michigan","Iron",11379,NA,NA,19,9
+26073,"Michigan","Isabella",7275,NA,6687,20,8
+26075,"Michigan","Jackson",8567,12987,8098,19,9
+26077,"Michigan","Kalamazoo",6809,12104,6080,16,8
+26079,"Michigan","Kalkaska",8542,NA,NA,20,7
+26081,"Michigan","Kent",6069,12273,5352,16,8
+26085,"Michigan","Lake",10140,NA,NA,24,10
+26087,"Michigan","Lapeer",6929,NA,NA,18,7
+26089,"Michigan","Leelanau",4930,NA,NA,13,5
+26091,"Michigan","Lenawee",6949,8260,6944,18,7
+26093,"Michigan","Livingston",4971,NA,NA,13,6
+26095,"Michigan","Luce",8845,NA,NA,21,11
+26097,"Michigan","Mackinac",7420,NA,NA,20,7
+26099,"Michigan","Macomb",7701,11951,7247,17,9
+26101,"Michigan","Manistee",9175,NA,NA,19,7
+26103,"Michigan","Marquette",6752,NA,NA,17,7
+26105,"Michigan","Mason",7933,NA,NA,18,7
+26107,"Michigan","Mecosta",6889,NA,NA,19,7
+26109,"Michigan","Menominee",7004,NA,NA,19,5
+26111,"Michigan","Midland",5771,NA,NA,15,7
+26113,"Michigan","Missaukee",6067,NA,NA,19,6
+26115,"Michigan","Monroe",8217,11823,8241,17,8
+26117,"Michigan","Montcalm",8401,NA,NA,20,7
+26119,"Michigan","Montmorency",10538,NA,NA,20,7
+26121,"Michigan","Muskegon",8872,14672,7626,20,10
+26123,"Michigan","Newaygo",8028,NA,NA,20,7
+26125,"Michigan","Oakland",5727,9605,5411,14,8
+26127,"Michigan","Oceana",7748,NA,7895,21,8
+26129,"Michigan","Ogemaw",10166,NA,NA,22,7
+26133,"Michigan","Osceola",7633,NA,NA,21,7
+26135,"Michigan","Oscoda",9368,NA,NA,21,9
+26137,"Michigan","Otsego",8680,NA,NA,18,7
+26139,"Michigan","Ottawa",4511,9130,4307,15,6
+26141,"Michigan","Presque Isle",8599,NA,NA,19,6
+26143,"Michigan","Roscommon",10666,NA,NA,20,7
+26145,"Michigan","Saginaw",9342,16253,7236,20,10
+26147,"Michigan","St. Clair",8948,15954,8786,18,7
+26149,"Michigan","St. Joseph",9197,NA,NA,20,7
+26151,"Michigan","Sanilac",7313,NA,NA,20,7
+26153,"Michigan","Schoolcraft",8090,NA,NA,21,9
+26155,"Michigan","Shiawassee",7214,NA,NA,17,8
+26157,"Michigan","Tuscola",8804,NA,NA,20,7
+26159,"Michigan","Van Buren",7351,11470,7184,20,7
+26161,"Michigan","Washtenaw",5265,9892,4903,13,8
+26163,"Michigan","Wayne",11305,16532,8167,22,11
+26165,"Michigan","Wexford",9250,NA,NA,20,7
+27001,"Minnesota","Aitkin",7625,NA,NA,16,5
+27003,"Minnesota","Anoka",5460,7413,5311,13,6
+27005,"Minnesota","Becker",7566,NA,6053,16,6
+27007,"Minnesota","Beltrami",10589,NA,6128,18,6
+27009,"Minnesota","Benton",5860,NA,NA,15,7
+27013,"Minnesota","Blue Earth",5500,NA,NA,14,7
+27015,"Minnesota","Brown",5916,NA,NA,14,6
+27017,"Minnesota","Carlton",6077,NA,5245,15,6
+27019,"Minnesota","Carver",3509,NA,NA,11,6
+27021,"Minnesota","Cass",10379,NA,7039,17,7
+27023,"Minnesota","Chippewa",6993,NA,NA,17,6
+27025,"Minnesota","Chisago",4784,NA,NA,14,7
+27027,"Minnesota","Clay",5611,NA,NA,14,7
+27029,"Minnesota","Clearwater",8455,NA,NA,19,5
+27033,"Minnesota","Cottonwood",6259,NA,NA,17,7
+27035,"Minnesota","Crow Wing",6410,NA,NA,15,6
+27037,"Minnesota","Dakota",4540,6584,4430,12,7
+27039,"Minnesota","Dodge",5654,NA,NA,13,5
+27041,"Minnesota","Douglas",5646,NA,NA,13,6
+27043,"Minnesota","Faribault",7960,NA,NA,16,6
+27045,"Minnesota","Fillmore",5790,NA,NA,15,5
+27047,"Minnesota","Freeborn",5568,NA,NA,18,7
+27049,"Minnesota","Goodhue",6556,NA,NA,14,6
+27051,"Minnesota","Grant",7417,NA,NA,15,8
+27053,"Minnesota","Hennepin",5541,11164,4511,13,7
+27055,"Minnesota","Houston",4480,NA,NA,14,5
+27057,"Minnesota","Hubbard",6944,NA,NA,15,6
+27059,"Minnesota","Isanti",6311,NA,NA,14,6
+27061,"Minnesota","Itasca",7697,NA,6451,15,7
+27063,"Minnesota","Jackson",4818,NA,NA,15,6
+27065,"Minnesota","Kanabec",6692,NA,NA,16,6
+27067,"Minnesota","Kandiyohi",5496,NA,NA,17,6
+27071,"Minnesota","Koochiching",7454,NA,NA,16,7
+27073,"Minnesota","Lac qui Parle",5606,NA,NA,15,5
+27075,"Minnesota","Lake",5280,NA,NA,14,6
+27079,"Minnesota","Le Sueur",5124,NA,NA,14,6
+27081,"Minnesota","Lincoln",7331,NA,NA,16,5
+27083,"Minnesota","Lyon",5555,NA,NA,16,5
+27085,"Minnesota","McLeod",4797,NA,NA,15,6
+27087,"Minnesota","Mahnomen",16679,NA,NA,25,8
+27089,"Minnesota","Marshall",6572,NA,NA,15,6
+27091,"Minnesota","Martin",5380,NA,NA,16,6
+27093,"Minnesota","Meeker",4689,NA,NA,15,6
+27095,"Minnesota","Mille Lacs",9791,NA,7464,17,7
+27097,"Minnesota","Morrison",6751,NA,NA,16,5
+27099,"Minnesota","Mower",6304,NA,NA,17,7
+27101,"Minnesota","Murray",5035,NA,NA,15,7
+27103,"Minnesota","Nicollet",4367,NA,NA,14,6
+27105,"Minnesota","Nobles",6808,NA,NA,21,6
+27107,"Minnesota","Norman",7052,NA,NA,16,9
+27109,"Minnesota","Olmsted",4895,9950,4666,12,6
+27111,"Minnesota","Otter Tail",6291,NA,NA,14,6
+27113,"Minnesota","Pennington",6299,NA,NA,15,5
+27115,"Minnesota","Pine",7219,NA,NA,17,7
+27117,"Minnesota","Pipestone",5784,NA,NA,17,7
+27119,"Minnesota","Polk",6251,NA,NA,15,6
+27121,"Minnesota","Pope",6821,NA,NA,14,7
+27123,"Minnesota","Ramsey",6247,10956,5207,15,8
+27127,"Minnesota","Redwood",5600,NA,NA,16,7
+27129,"Minnesota","Renville",6272,NA,NA,16,8
+27131,"Minnesota","Rice",5121,NA,NA,15,6
+27133,"Minnesota","Rock",7626,NA,NA,14,7
+27135,"Minnesota","Roseau",7575,NA,NA,15,6
+27137,"Minnesota","St. Louis",7266,14666,6887,15,7
+27139,"Minnesota","Scott",3893,5577,3750,12,6
+27141,"Minnesota","Sherburne",4990,NA,NA,13,6
+27143,"Minnesota","Sibley",5611,NA,NA,16,5
+27145,"Minnesota","Stearns",5674,8490,5357,15,6
+27147,"Minnesota","Steele",5005,NA,NA,15,6
+27149,"Minnesota","Stevens",5253,NA,NA,15,5
+27151,"Minnesota","Swift",8093,NA,NA,17,6
+27153,"Minnesota","Todd",6648,NA,NA,18,5
+27157,"Minnesota","Wabasha",5232,NA,NA,14,5
+27159,"Minnesota","Wadena",7375,NA,NA,18,7
+27161,"Minnesota","Waseca",4894,NA,NA,16,6
+27163,"Minnesota","Washington",4526,4990,4632,11,6
+27165,"Minnesota","Watonwan",7090,NA,NA,20,6
+27167,"Minnesota","Wilkin",7042,NA,NA,14,5
+27169,"Minnesota","Winona",4960,NA,NA,15,7
+27171,"Minnesota","Wright",4375,NA,NA,12,5
+27173,"Minnesota","Yellow Medicine",4806,NA,NA,16,5
+28001,"Mississippi","Adams",12891,16493,11635,31,13
+28003,"Mississippi","Alcorn",11689,14093,11557,24,11
+28005,"Mississippi","Amite",10788,13279,9460,27,11
+28007,"Mississippi","Attala",10713,14371,8104,28,14
+28009,"Mississippi","Benton",11959,12322,12493,27,11
+28011,"Mississippi","Bolivar",15459,18305,10435,31,14
+28013,"Mississippi","Calhoun",13104,14625,12323,27,12
+28015,"Mississippi","Carroll",13253,14040,13095,25,12
+28017,"Mississippi","Chickasaw",13035,15313,12150,29,13
+28019,"Mississippi","Choctaw",12378,16984,10660,25,12
+28021,"Mississippi","Claiborne",15083,NA,NA,33,17
+28023,"Mississippi","Clarke",12323,16791,9696,24,13
+28025,"Mississippi","Clay",9299,10266,8076,28,15
+28027,"Mississippi","Coahoma",17894,20084,9951,32,17
+28029,"Mississippi","Copiah",12073,14261,10290,27,15
+28031,"Mississippi","Covington",14299,16656,13226,27,12
+28033,"Mississippi","DeSoto",8587,9016,8765,19,9
+28035,"Mississippi","Forrest",12349,16709,9910,24,12
+28037,"Mississippi","Franklin",9878,13047,8338,25,11
+28039,"Mississippi","George",11123,NA,NA,23,9
+28041,"Mississippi","Greene",8155,7838,8501,24,7
+28043,"Mississippi","Grenada",16840,21550,13149,25,12
+28045,"Mississippi","Hancock",9096,9785,9358,21,8
+28047,"Mississippi","Harrison",10194,12430,9811,22,10
+28049,"Mississippi","Hinds",12588,13621,9521,24,15
+28051,"Mississippi","Holmes",17871,NA,NA,37,15
+28053,"Mississippi","Humphreys",16312,NA,NA,37,16
+28057,"Mississippi","Itawamba",9446,NA,NA,23,10
+28059,"Mississippi","Jackson",10503,13195,10602,21,10
+28061,"Mississippi","Jasper",13755,15517,11685,27,13
+28063,"Mississippi","Jefferson",15153,NA,NA,33,15
+28065,"Mississippi","Jefferson Davis",17056,NA,NA,29,16
+28067,"Mississippi","Jones",11520,12695,11188,25,11
+28069,"Mississippi","Kemper",10928,NA,NA,31,15
+28071,"Mississippi","Lafayette",7227,10701,6032,19,8
+28073,"Mississippi","Lamar",7274,7898,7288,19,10
+28075,"Mississippi","Lauderdale",12345,14343,10925,24,13
+28077,"Mississippi","Lawrence",12635,12477,12851,25,12
+28079,"Mississippi","Leake",10942,10818,9128,29,10
+28081,"Mississippi","Lee",10547,13250,9422,21,12
+28083,"Mississippi","Leflore",17605,19041,14135,33,15
+28085,"Mississippi","Lincoln",11418,14375,10377,25,11
+28087,"Mississippi","Lowndes",12044,14263,10520,23,12
+28089,"Mississippi","Madison",7384,10530,5381,16,10
+28091,"Mississippi","Marion",12417,13201,12222,28,11
+28093,"Mississippi","Marshall",14341,14277,15394,26,12
+28095,"Mississippi","Monroe",11976,14252,10901,24,14
+28097,"Mississippi","Montgomery",16416,19004,15363,27,13
+28099,"Mississippi","Neshoba",17989,16734,12673,28,9
+28101,"Mississippi","Newton",12641,14864,10201,26,13
+28103,"Mississippi","Noxubee",12836,NA,NA,32,12
+28105,"Mississippi","Oktibbeha",9463,13176,6874,22,12
+28107,"Mississippi","Panola",11699,12899,10470,27,12
+28109,"Mississippi","Pearl River",12071,17669,11552,22,10
+28111,"Mississippi","Perry",11752,18951,9821,26,8
+28113,"Mississippi","Pike",13307,15028,11396,29,13
+28115,"Mississippi","Pontotoc",9760,10088,9951,25,10
+28117,"Mississippi","Prentiss",12378,13812,12120,26,12
+28119,"Mississippi","Quitman",15953,NA,NA,36,16
+28121,"Mississippi","Rankin",7772,8736,7768,18,9
+28123,"Mississippi","Scott",12437,14005,12694,31,14
+28125,"Mississippi","Sharkey",16043,NA,NA,33,14
+28127,"Mississippi","Simpson",11867,13770,11161,25,11
+28129,"Mississippi","Smith",11983,16862,10744,25,11
+28131,"Mississippi","Stone",10302,12876,9676,24,11
+28133,"Mississippi","Sunflower",17116,19197,11599,32,14
+28135,"Mississippi","Tallahatchie",13032,15726,10839,33,14
+28137,"Mississippi","Tate",12069,13837,10637,24,10
+28139,"Mississippi","Tippah",10663,13705,10376,26,11
+28141,"Mississippi","Tishomingo",12443,NA,NA,25,10
+28143,"Mississippi","Tunica",18173,NA,NA,28,14
+28145,"Mississippi","Union",9476,11697,9406,24,10
+28147,"Mississippi","Walthall",12927,16995,9868,29,12
+28149,"Mississippi","Warren",12987,15280,11107,24,13
+28151,"Mississippi","Washington",17491,19436,12525,31,14
+28153,"Mississippi","Wayne",11120,15081,8682,26,14
+28155,"Mississippi","Webster",12104,NA,NA,23,12
+28157,"Mississippi","Wilkinson",16748,NA,NA,35,13
+28159,"Mississippi","Winston",12037,13903,10184,27,13
+28161,"Mississippi","Yalobusha",15302,11048,18891,25,11
+28163,"Mississippi","Yazoo",11833,14293,10283,32,14
+29001,"Missouri","Adair",8052,NA,NA,21,8
+29003,"Missouri","Andrew",6581,NA,NA,18,7
+29005,"Missouri","Atchison",8286,NA,NA,18,3
+29007,"Missouri","Audrain",9025,NA,NA,22,9
+29009,"Missouri","Barry",9136,NA,NA,24,8
+29011,"Missouri","Barton",7091,NA,NA,23,8
+29013,"Missouri","Bates",8762,NA,NA,22,7
+29015,"Missouri","Benton",10494,NA,NA,22,7
+29017,"Missouri","Bollinger",8469,NA,NA,24,7
+29019,"Missouri","Boone",6784,13677,6328,17,8
+29021,"Missouri","Buchanan",9099,12100,9215,22,9
+29023,"Missouri","Butler",12342,23287,11867,25,11
+29025,"Missouri","Caldwell",10319,NA,NA,22,9
+29027,"Missouri","Callaway",7904,NA,NA,19,8
+29029,"Missouri","Camden",7751,NA,NA,19,7
+29031,"Missouri","Cape Girardeau",8972,17186,8239,18,9
+29033,"Missouri","Carroll",9281,NA,NA,21,8
+29035,"Missouri","Carter",12583,NA,NA,22,7
+29037,"Missouri","Cass",7263,8521,7351,18,7
+29039,"Missouri","Cedar",10116,NA,NA,23,6
+29041,"Missouri","Chariton",7387,NA,NA,20,8
+29043,"Missouri","Christian",6963,NA,NA,17,6
+29045,"Missouri","Clark",6390,NA,NA,22,8
+29047,"Missouri","Clay",6374,8860,6201,16,7
+29049,"Missouri","Clinton",6655,NA,NA,18,8
+29051,"Missouri","Cole",7843,12134,7168,17,8
+29053,"Missouri","Cooper",6639,NA,NA,19,7
+29055,"Missouri","Crawford",11110,NA,NA,24,8
+29057,"Missouri","Dade",14265,NA,NA,24,9
+29059,"Missouri","Dallas",11226,NA,NA,23,9
+29061,"Missouri","Daviess",6703,NA,NA,23,6
+29063,"Missouri","DeKalb",10334,NA,NA,22,7
+29065,"Missouri","Dent",12150,NA,NA,24,9
+29067,"Missouri","Douglas",10369,NA,NA,26,6
+29069,"Missouri","Dunklin",14031,21674,13660,28,13
+29071,"Missouri","Franklin",9270,NA,NA,18,8
+29073,"Missouri","Gasconade",10595,NA,NA,19,8
+29075,"Missouri","Gentry",11041,NA,NA,21,7
+29077,"Missouri","Greene",8904,16462,8861,19,8
+29079,"Missouri","Grundy",8698,NA,NA,21,8
+29081,"Missouri","Harrison",7778,NA,NA,23,7
+29083,"Missouri","Henry",8744,NA,NA,22,8
+29085,"Missouri","Hickory",10129,NA,NA,23,10
+29089,"Missouri","Howard",8054,NA,NA,20,8
+29091,"Missouri","Howell",10541,NA,NA,24,8
+29093,"Missouri","Iron",11878,NA,NA,24,10
+29095,"Missouri","Jackson",9377,14932,7703,20,9
+29097,"Missouri","Jasper",9403,16891,9510,22,7
+29099,"Missouri","Jefferson",9567,13393,9700,18,8
+29101,"Missouri","Johnson",6080,NA,NA,18,7
+29103,"Missouri","Knox",10195,NA,NA,22,6
+29105,"Missouri","Laclede",11199,NA,NA,22,8
+29107,"Missouri","Lafayette",9528,NA,NA,19,8
+29109,"Missouri","Lawrence",9207,NA,NA,23,8
+29111,"Missouri","Lewis",9454,NA,NA,22,10
+29113,"Missouri","Lincoln",8875,NA,NA,19,8
+29115,"Missouri","Linn",9492,NA,NA,21,7
+29117,"Missouri","Livingston",6619,NA,NA,21,7
+29119,"Missouri","McDonald",10386,NA,NA,28,8
+29121,"Missouri","Macon",8202,NA,NA,20,8
+29123,"Missouri","Madison",9503,NA,NA,22,8
+29125,"Missouri","Maries",9448,NA,NA,21,7
+29127,"Missouri","Marion",9295,NA,NA,21,9
+29129,"Missouri","Mercer",8192,NA,NA,20,6
+29131,"Missouri","Miller",8305,NA,NA,21,8
+29133,"Missouri","Mississippi",12132,10757,12688,30,12
+29135,"Missouri","Moniteau",8202,NA,NA,20,6
+29137,"Missouri","Monroe",9258,NA,NA,21,7
+29139,"Missouri","Montgomery",10057,NA,NA,23,7
+29141,"Missouri","Morgan",10558,NA,NA,26,7
+29143,"Missouri","New Madrid",13734,18038,13295,27,10
+29145,"Missouri","Newton",8563,NA,NA,21,7
+29147,"Missouri","Nodaway",5845,NA,NA,20,7
+29149,"Missouri","Oregon",10113,NA,NA,26,9
+29151,"Missouri","Osage",6562,NA,NA,18,7
+29153,"Missouri","Ozark",10709,NA,NA,27,9
+29155,"Missouri","Pemiscot",17249,24798,15005,29,11
+29157,"Missouri","Perry",7869,NA,NA,20,6
+29159,"Missouri","Pettis",8266,NA,NA,22,7
+29161,"Missouri","Phelps",9785,NA,NA,20,8
+29163,"Missouri","Pike",8083,NA,NA,23,8
+29165,"Missouri","Platte",5654,7104,5668,15,7
+29167,"Missouri","Polk",8674,NA,NA,21,7
+29169,"Missouri","Pulaski",8577,7245,9669,20,7
+29171,"Missouri","Putnam",9412,NA,NA,21,9
+29173,"Missouri","Ralls",7452,NA,NA,20,9
+29175,"Missouri","Randolph",8447,NA,NA,22,9
+29177,"Missouri","Ray",9104,NA,NA,19,7
+29179,"Missouri","Reynolds",11332,NA,NA,24,9
+29181,"Missouri","Ripley",12437,NA,NA,27,10
+29183,"Missouri","St. Charles",6100,9068,6064,14,7
+29185,"Missouri","St. Clair",8546,NA,NA,23,6
+29186,"Missouri","Ste. Genevieve",6825,NA,NA,19,9
+29187,"Missouri","St. Francois",10827,7330,11152,22,9
+29189,"Missouri","St. Louis",8753,16391,6293,15,10
+29195,"Missouri","Saline",8596,NA,NA,23,9
+29197,"Missouri","Schuyler",8896,NA,NA,22,8
+29199,"Missouri","Scotland",6756,NA,NA,24,6
+29201,"Missouri","Scott",10687,13393,10585,24,10
+29203,"Missouri","Shannon",12094,NA,NA,27,9
+29205,"Missouri","Shelby",7470,NA,NA,21,8
+29207,"Missouri","Stoddard",9474,NA,NA,24,9
+29209,"Missouri","Stone",11552,NA,NA,21,9
+29211,"Missouri","Sullivan",11099,NA,NA,25,9
+29213,"Missouri","Taney",9346,NA,NA,21,9
+29215,"Missouri","Texas",10518,NA,NA,25,8
+29217,"Missouri","Vernon",9256,NA,NA,22,7
+29219,"Missouri","Warren",8073,NA,NA,20,7
+29221,"Missouri","Washington",12274,NA,NA,25,10
+29223,"Missouri","Wayne",11224,NA,NA,27,9
+29225,"Missouri","Webster",8227,NA,NA,23,6
+29229,"Missouri","Wright",11242,NA,NA,27,7
+29510,"Missouri","St. Louis City",13936,21372,8658,23,13
+30001,"Montana","Beaverhead",4252,NA,NA,15,7
+30003,"Montana","Big Horn",22567,NA,NA,25,9
+30005,"Montana","Blaine",18406,NA,NA,24,8
+30009,"Montana","Carbon",5948,NA,NA,14,5
+30013,"Montana","Cascade",8018,NA,7213,17,8
+30015,"Montana","Chouteau",7232,NA,NA,18,8
+30017,"Montana","Custer",8073,NA,NA,15,7
+30021,"Montana","Dawson",6106,NA,NA,15,7
+30023,"Montana","Deer Lodge",11293,NA,NA,19,9
+30027,"Montana","Fergus",7480,NA,NA,15,6
+30029,"Montana","Flathead",6477,NA,NA,14,6
+30031,"Montana","Gallatin",3999,NA,NA,12,8
+30035,"Montana","Glacier",17308,NA,NA,27,9
+30041,"Montana","Hill",8552,NA,5756,19,7
+30043,"Montana","Jefferson",6872,NA,NA,13,7
+30047,"Montana","Lake",10413,NA,7672,19,8
+30049,"Montana","Lewis and Clark",6637,NA,NA,13,7
+30053,"Montana","Lincoln",7598,NA,NA,18,6
+30057,"Montana","Madison",5575,NA,NA,14,6
+30063,"Montana","Missoula",5908,NA,5575,13,7
+30067,"Montana","Park",7394,NA,NA,14,9
+30073,"Montana","Pondera",8747,NA,NA,17,9
+30077,"Montana","Powell",8772,NA,NA,17,7
+30081,"Montana","Ravalli",6105,NA,NA,16,7
+30083,"Montana","Richland",9319,NA,NA,14,5
+30085,"Montana","Roosevelt",25632,NA,NA,26,9
+30087,"Montana","Rosebud",17602,NA,NA,20,8
+30089,"Montana","Sanders",10139,NA,NA,20,9
+30093,"Montana","Silver Bow",8402,NA,NA,17,9
+30095,"Montana","Stillwater",4396,NA,NA,14,9
+30099,"Montana","Teton",8869,NA,NA,16,9
+30101,"Montana","Toole",6245,NA,NA,18,10
+30105,"Montana","Valley",8615,NA,NA,17,6
+30111,"Montana","Yellowstone",8219,21058,7355,15,8
+31001,"Nebraska","Adams",7799,NA,NA,16,7
+31013,"Nebraska","Box Butte",7720,NA,NA,17,7
+31019,"Nebraska","Buffalo",5122,NA,NA,15,8
+31021,"Nebraska","Burt",9794,NA,NA,16,7
+31023,"Nebraska","Butler",5764,NA,NA,14,6
+31025,"Nebraska","Cass",6445,NA,NA,14,7
+31027,"Nebraska","Cedar",5104,NA,NA,14,4
+31031,"Nebraska","Cherry",7275,NA,NA,15,6
+31033,"Nebraska","Cheyenne",9411,NA,NA,14,9
+31035,"Nebraska","Clay",6379,NA,NA,16,6
+31037,"Nebraska","Colfax",6214,NA,NA,23,6
+31039,"Nebraska","Cuming",6543,NA,NA,15,5
+31041,"Nebraska","Custer",6128,NA,NA,15,8
+31043,"Nebraska","Dakota",6399,NA,6900,22,7
+31045,"Nebraska","Dawes",7690,NA,NA,14,7
+31047,"Nebraska","Dawson",7339,NA,6676,21,6
+31051,"Nebraska","Dixon",4804,NA,NA,16,4
+31053,"Nebraska","Dodge",8229,NA,8462,17,7
+31055,"Nebraska","Douglas",6756,12536,6321,15,8
+31065,"Nebraska","Furnas",7548,NA,NA,18,7
+31067,"Nebraska","Gage",7586,NA,NA,16,7
+31079,"Nebraska","Hall",7237,NA,7269,18,7
+31081,"Nebraska","Hamilton",4410,NA,NA,13,6
+31089,"Nebraska","Holt",5474,NA,NA,15,5
+31093,"Nebraska","Howard",8249,NA,NA,14,7
+31095,"Nebraska","Jefferson",5506,NA,NA,17,6
+31097,"Nebraska","Johnson",7043,NA,NA,17,7
+31099,"Nebraska","Kearney",7207,NA,NA,14,8
+31101,"Nebraska","Keith",9007,NA,NA,16,10
+31105,"Nebraska","Kimball",13012,NA,NA,18,9
+31107,"Nebraska","Knox",6841,NA,NA,16,6
+31109,"Nebraska","Lancaster",5645,8717,5592,13,7
+31111,"Nebraska","Lincoln",7428,NA,NA,15,8
+31119,"Nebraska","Madison",6905,NA,NA,17,6
+31121,"Nebraska","Merrick",8354,NA,NA,16,6
+31123,"Nebraska","Morrill",8839,NA,NA,17,8
+31127,"Nebraska","Nemaha",7717,NA,NA,15,6
+31131,"Nebraska","Otoe",6004,NA,NA,15,6
+31137,"Nebraska","Phelps",5772,NA,NA,14,5
+31139,"Nebraska","Pierce",5000,NA,NA,13,6
+31141,"Nebraska","Platte",6327,NA,NA,16,6
+31143,"Nebraska","Polk",8331,NA,NA,15,3
+31145,"Nebraska","Red Willow",6997,NA,NA,15,6
+31147,"Nebraska","Richardson",7105,NA,NA,16,7
+31151,"Nebraska","Saline",6369,NA,NA,20,7
+31153,"Nebraska","Sarpy",4934,7137,5050,13,7
+31155,"Nebraska","Saunders",5917,NA,NA,13,7
+31157,"Nebraska","Scotts Bluff",9079,NA,9062,18,9
+31159,"Nebraska","Seward",6197,NA,NA,13,7
+31161,"Nebraska","Sheridan",9302,NA,NA,18,5
+31169,"Nebraska","Thayer",6277,NA,NA,15,8
+31173,"Nebraska","Thurston",21254,NA,NA,24,8
+31177,"Nebraska","Washington",4341,NA,NA,13,7
+31179,"Nebraska","Wayne",3638,NA,NA,14,5
+31185,"Nebraska","York",6251,NA,NA,14,6
+32001,"Nevada","Churchill",10782,NA,NA,19,7
+32003,"Nevada","Clark",7362,12252,8019,21,9
+32005,"Nevada","Douglas",5870,NA,NA,15,9
+32007,"Nevada","Elko",7895,NA,8242,19,8
+32013,"Nevada","Humboldt",9789,NA,NA,21,7
+32015,"Nevada","Lander",10167,NA,NA,21,13
+32019,"Nevada","Lyon",8365,NA,8847,20,9
+32021,"Nevada","Mineral",13845,NA,NA,23,8
+32023,"Nevada","Nye",10837,NA,12225,22,10
+32027,"Nevada","Pershing",7480,NA,NA,21,6
+32031,"Nevada","Washoe",7273,12021,7998,17,8
+32033,"Nevada","White Pine",7423,NA,NA,20,9
+32510,"Nevada","Carson City",9710,NA,11364,20,8
+33001,"New Hampshire","Belknap",8414,NA,NA,14,7
+33003,"New Hampshire","Carroll",7459,NA,NA,14,6
+33005,"New Hampshire","Cheshire",6547,NA,NA,14,6
+33007,"New Hampshire","Coos",7575,NA,NA,18,7
+33009,"New Hampshire","Grafton",5926,NA,NA,14,7
+33011,"New Hampshire","Hillsborough",6596,6045,7034,14,7
+33013,"New Hampshire","Merrimack",6475,NA,NA,13,7
+33015,"New Hampshire","Rockingham",5223,NA,NA,13,6
+33017,"New Hampshire","Strafford",6973,NA,NA,14,7
+33019,"New Hampshire","Sullivan",6631,NA,NA,16,7
+34001,"New Jersey","Atlantic",9135,14188,9191,19,8
+34003,"New Jersey","Bergen",4300,6764,4798,14,8
+34005,"New Jersey","Burlington",6623,8699,6786,15,8
+34007,"New Jersey","Camden",8683,13580,7930,18,9
+34009,"New Jersey","Cape May",9104,12240,9140,15,7
+34011,"New Jersey","Cumberland",10534,13055,10635,25,10
+34013,"New Jersey","Essex",7907,12017,4790,21,10
+34015,"New Jersey","Gloucester",7837,10732,7933,15,8
+34017,"New Jersey","Hudson",5775,11515,6164,20,8
+34019,"New Jersey","Hunterdon",4216,NA,4138,12,6
+34021,"New Jersey","Mercer",6850,12124,6098,17,8
+34023,"New Jersey","Middlesex",5425,7445,7032,15,8
+34025,"New Jersey","Monmouth",5793,11413,5664,14,7
+34027,"New Jersey","Morris",4321,6935,4606,12,6
+34029,"New Jersey","Ocean",7087,10551,7180,16,6
+34031,"New Jersey","Passaic",6841,13861,6468,22,9
+34033,"New Jersey","Salem",12039,21695,10333,19,9
+34035,"New Jersey","Somerset",4366,7684,5013,12,7
+34037,"New Jersey","Sussex",6432,8387,6810,13,6
+34039,"New Jersey","Union",6048,9187,5387,19,8
+34041,"New Jersey","Warren",6657,8178,6966,15,8
+35001,"New Mexico","Bernalillo",9293,13124,7550,20,9
+35005,"New Mexico","Chaves",11107,NA,11174,25,8
+35006,"New Mexico","Cibola",12306,NA,9092,28,10
+35007,"New Mexico","Colfax",11961,NA,NA,22,15
+35009,"New Mexico","Curry",9254,16109,8206,24,8
+35013,"New Mexico","Dona Ana",7704,9455,8190,25,8
+35015,"New Mexico","Eddy",11089,NA,12135,22,8
+35017,"New Mexico","Grant",9929,NA,7822,22,10
+35019,"New Mexico","Guadalupe",10512,NA,NA,25,7
+35023,"New Mexico","Hidalgo",8635,NA,NA,25,12
+35025,"New Mexico","Lea",10497,16462,12336,25,9
+35027,"New Mexico","Lincoln",9345,NA,10160,19,9
+35028,"New Mexico","Los Alamos",3837,NA,NA,10,8
+35029,"New Mexico","Luna",9917,NA,17611,30,8
+35031,"New Mexico","McKinley",21478,NA,8795,31,8
+35035,"New Mexico","Otero",9338,NA,9322,23,8
+35037,"New Mexico","Quay",13033,NA,NA,24,6
+35039,"New Mexico","Rio Arriba",17738,NA,10027,25,12
+35041,"New Mexico","Roosevelt",9863,NA,9758,24,7
+35043,"New Mexico","Sandoval",8008,NA,6513,18,10
+35045,"New Mexico","San Juan",13411,NA,8202,23,8
+35047,"New Mexico","San Miguel",10951,NA,NA,26,12
+35049,"New Mexico","Santa Fe",7722,NA,5819,17,11
+35051,"New Mexico","Sierra",14264,NA,NA,24,9
+35053,"New Mexico","Socorro",11785,NA,9479,26,9
+35055,"New Mexico","Taos",10606,NA,8545,21,11
+35057,"New Mexico","Torrance",11274,NA,9942,25,11
+35059,"New Mexico","Union",9212,NA,NA,23,8
+35061,"New Mexico","Valencia",10260,NA,9029,22,10
+36001,"New York","Albany",6525,11932,5859,15,8
+36003,"New York","Allegany",7085,NA,NA,18,7
+36005,"New York","Bronx",8106,10200,9296,30,10
+36007,"New York","Broome",7542,11358,7350,19,8
+36009,"New York","Cattaraugus",8181,NA,8088,20,8
+36011,"New York","Cayuga",6976,NA,NA,18,7
+36013,"New York","Chautauqua",7861,11226,7636,20,8
+36015,"New York","Chemung",8581,11093,8527,18,8
+36017,"New York","Chenango",8555,NA,NA,19,7
+36019,"New York","Clinton",6328,NA,NA,18,7
+36021,"New York","Columbia",6396,11415,6206,16,6
+36023,"New York","Cortland",7008,NA,NA,17,8
+36025,"New York","Delaware",8149,NA,NA,19,6
+36027,"New York","Dutchess",6246,7837,6524,16,8
+36029,"New York","Erie",7278,13090,6292,17,9
+36031,"New York","Essex",6184,NA,NA,16,7
+36033,"New York","Franklin",6636,NA,7115,20,7
+36035,"New York","Fulton",7878,NA,NA,19,8
+36037,"New York","Genesee",7576,NA,NA,17,6
+36039,"New York","Greene",7969,8857,8391,19,7
+36043,"New York","Herkimer",6649,NA,NA,18,7
+36045,"New York","Jefferson",7235,6258,7605,19,7
+36047,"New York","Kings",5839,8070,4296,20,8
+36049,"New York","Lewis",6258,NA,NA,18,7
+36051,"New York","Livingston",5837,NA,NA,17,7
+36053,"New York","Madison",5251,NA,NA,16,7
+36055,"New York","Monroe",6805,13048,5500,17,9
+36057,"New York","Montgomery",7909,NA,8173,22,8
+36059,"New York","Nassau",4556,7011,4394,14,8
+36061,"New York","New York",4413,9888,2730,17,8
+36063,"New York","Niagara",7925,16371,7159,17,8
+36065,"New York","Oneida",7851,15017,7431,18,8
+36067,"New York","Onondaga",6752,12466,5986,16,8
+36069,"New York","Ontario",6042,11798,5956,14,7
+36071,"New York","Orange",6269,8422,6510,17,7
+36073,"New York","Orleans",7766,NA,NA,20,7
+36075,"New York","Oswego",7524,NA,NA,19,7
+36077,"New York","Otsego",6549,NA,NA,17,6
+36079,"New York","Putnam",4495,NA,4765,14,7
+36081,"New York","Queens",5244,7483,5551,21,8
+36083,"New York","Rensselaer",6713,11890,6271,15,8
+36085,"New York","Richmond",5982,9082,5680,18,8
+36087,"New York","Rockland",5060,5890,4967,17,6
+36089,"New York","St. Lawrence",6649,NA,NA,19,7
+36091,"New York","Saratoga",4892,NA,NA,13,7
+36093,"New York","Schenectady",6997,10893,6430,17,9
+36095,"New York","Schoharie",7200,NA,NA,17,7
+36097,"New York","Schuyler",6165,NA,NA,18,5
+36099,"New York","Seneca",8207,NA,NA,19,6
+36101,"New York","Steuben",6937,NA,NA,18,7
+36103,"New York","Suffolk",5926,8815,5825,15,8
+36105,"New York","Sullivan",8682,7313,9714,20,8
+36107,"New York","Tioga",6536,NA,NA,17,7
+36109,"New York","Tompkins",4707,7495,5111,15,6
+36111,"New York","Ulster",6459,9402,6571,17,7
+36113,"New York","Warren",6844,NA,NA,15,7
+36115,"New York","Washington",6665,NA,NA,18,7
+36117,"New York","Wayne",7134,NA,NA,17,7
+36119,"New York","Westchester",4618,7290,4180,16,8
+36121,"New York","Wyoming",5892,NA,NA,18,7
+36123,"New York","Yates",7336,NA,NA,18,4
+37001,"North Carolina","Alamance",8327,11368,8393,21,9
+37003,"North Carolina","Alexander",8806,9912,8799,21,8
+37005,"North Carolina","Alleghany",9619,NA,NA,25,8
+37007,"North Carolina","Anson",12714,14226,11930,26,13
+37009,"North Carolina","Ashe",7506,NA,NA,20,9
+37011,"North Carolina","Avery",6897,NA,NA,21,10
+37013,"North Carolina","Beaufort",10375,12041,10556,22,11
+37015,"North Carolina","Bertie",10942,12124,8321,27,13
+37017,"North Carolina","Bladen",11630,14568,11110,26,11
+37019,"North Carolina","Brunswick",8385,8874,8728,17,9
+37021,"North Carolina","Buncombe",7806,12602,7807,17,9
+37023,"North Carolina","Burke",9573,13073,9817,22,9
+37025,"North Carolina","Cabarrus",6849,8960,6979,18,9
+37027,"North Carolina","Caldwell",9567,13661,9515,22,10
+37029,"North Carolina","Camden",5455,NA,NA,19,7
+37031,"North Carolina","Carteret",9535,15871,9561,17,7
+37033,"North Carolina","Caswell",10128,10417,10404,23,11
+37035,"North Carolina","Catawba",8230,12949,8226,20,8
+37037,"North Carolina","Chatham",7040,12749,6532,17,9
+37039,"North Carolina","Cherokee",10907,NA,NA,20,9
+37041,"North Carolina","Chowan",10159,14875,7209,22,10
+37043,"North Carolina","Clay",9219,NA,NA,19,8
+37045,"North Carolina","Cleveland",10929,13094,10737,23,11
+37047,"North Carolina","Columbus",12235,13850,12280,26,12
+37049,"North Carolina","Craven",10255,13788,10038,20,8
+37051,"North Carolina","Cumberland",9934,11615,9742,22,10
+37053,"North Carolina","Currituck",6698,NA,NA,17,8
+37055,"North Carolina","Dare",7034,NA,NA,15,6
+37057,"North Carolina","Davidson",9582,10552,9874,21,10
+37059,"North Carolina","Davie",7811,NA,NA,19,8
+37061,"North Carolina","Duplin",9671,13643,9757,28,9
+37063,"North Carolina","Durham",6380,9457,4559,18,9
+37065,"North Carolina","Edgecombe",14320,15809,12935,28,13
+37067,"North Carolina","Forsyth",8066,11009,7411,20,11
+37069,"North Carolina","Franklin",8483,10498,8120,21,9
+37071,"North Carolina","Gaston",9647,10735,9837,21,10
+37073,"North Carolina","Gates",10948,15020,9577,20,11
+37075,"North Carolina","Graham",10235,NA,NA,23,9
+37077,"North Carolina","Granville",7811,8835,7950,21,10
+37079,"North Carolina","Greene",8151,11371,7022,27,11
+37081,"North Carolina","Guilford",8166,10574,7373,19,10
+37083,"North Carolina","Halifax",13212,14316,12242,28,13
+37085,"North Carolina","Harnett",8591,11731,8335,21,9
+37087,"North Carolina","Haywood",9378,NA,NA,18,9
+37089,"North Carolina","Henderson",7432,11003,7558,17,8
+37091,"North Carolina","Hertford",10828,10844,11829,26,11
+37093,"North Carolina","Hoke",9647,12226,7912,24,9
+37095,"North Carolina","Hyde",10282,NA,NA,26,7
+37097,"North Carolina","Iredell",7090,11379,6996,18,8
+37099,"North Carolina","Jackson",9144,NA,6623,19,9
+37101,"North Carolina","Johnston",7194,9376,7020,20,8
+37103,"North Carolina","Jones",10135,NA,NA,26,7
+37105,"North Carolina","Lee",9768,16562,9110,23,10
+37107,"North Carolina","Lenoir",12034,14681,11079,26,11
+37109,"North Carolina","Lincoln",8173,10979,8548,18,8
+37111,"North Carolina","McDowell",8398,NA,NA,21,10
+37113,"North Carolina","Macon",7684,NA,NA,19,9
+37115,"North Carolina","Madison",9082,NA,NA,19,9
+37117,"North Carolina","Martin",11807,13317,10225,24,12
+37119,"North Carolina","Mecklenburg",6100,9012,4984,17,10
+37121,"North Carolina","Mitchell",10317,NA,NA,20,9
+37123,"North Carolina","Montgomery",10329,15814,9483,23,11
+37125,"North Carolina","Moore",7848,11990,7680,17,8
+37127,"North Carolina","Nash",10156,10973,10150,22,10
+37129,"North Carolina","New Hanover",7274,11631,6771,17,8
+37131,"North Carolina","Northampton",10923,12875,8309,27,12
+37133,"North Carolina","Onslow",8761,10450,9135,20,7
+37135,"North Carolina","Orange",5129,10658,4534,15,8
+37137,"North Carolina","Pamlico",11402,NA,NA,21,10
+37139,"North Carolina","Pasquotank",10256,11823,10006,21,9
+37141,"North Carolina","Pender",8477,13624,7670,19,8
+37143,"North Carolina","Perquimans",10691,NA,NA,20,8
+37145,"North Carolina","Person",9377,12344,8389,22,11
+37147,"North Carolina","Pitt",8673,12135,6938,21,11
+37149,"North Carolina","Polk",7696,NA,NA,17,7
+37151,"North Carolina","Randolph",10543,14981,11042,22,9
+37153,"North Carolina","Richmond",11957,14054,11853,27,12
+37155,"North Carolina","Robeson",14665,17228,12890,32,12
+37157,"North Carolina","Rockingham",11126,14517,10823,23,9
+37159,"North Carolina","Rowan",9840,12895,10047,21,10
+37161,"North Carolina","Rutherford",9963,14813,9611,22,9
+37163,"North Carolina","Sampson",9398,10882,10104,26,9
+37165,"North Carolina","Scotland",12627,16320,9564,28,14
+37167,"North Carolina","Stanly",10202,15129,9632,20,9
+37169,"North Carolina","Stokes",8955,NA,NA,20,9
+37171,"North Carolina","Surry",9170,NA,NA,22,9
+37173,"North Carolina","Swain",14943,NA,11171,25,8
+37175,"North Carolina","Transylvania",6574,NA,NA,18,9
+37177,"North Carolina","Tyrrell",6493,NA,NA,27,5
+37179,"North Carolina","Union",5515,9293,5259,17,8
+37181,"North Carolina","Vance",13263,15630,12079,27,12
+37183,"North Carolina","Wake",4809,7929,4182,14,8
+37185,"North Carolina","Warren",12537,13779,9000,27,11
+37187,"North Carolina","Washington",11264,NA,NA,26,12
+37189,"North Carolina","Watauga",5199,NA,NA,19,8
+37191,"North Carolina","Wayne",10671,13741,10059,24,9
+37193,"North Carolina","Wilkes",9995,15292,10262,22,10
+37195,"North Carolina","Wilson",9794,12528,8338,25,12
+37197,"North Carolina","Yadkin",10099,NA,NA,22,9
+37199,"North Carolina","Yancey",7102,NA,NA,21,9
+38003,"North Dakota","Barnes",8377,NA,NA,15,6
+38005,"North Dakota","Benson",23275,NA,NA,26,8
+38009,"North Dakota","Bottineau",9145,NA,NA,15,5
+38015,"North Dakota","Burleigh",6098,NA,5330,13,6
+38017,"North Dakota","Cass",6063,6633,5708,13,7
+38025,"North Dakota","Dunn",8304,NA,NA,16,5
+38035,"North Dakota","Grand Forks",6723,NA,6275,15,7
+38049,"North Dakota","McHenry",7714,NA,NA,14,4
+38053,"North Dakota","McKenzie",10128,NA,6763,16,7
+38055,"North Dakota","McLean",6747,NA,NA,15,6
+38057,"North Dakota","Mercer",5402,NA,NA,15,6
+38059,"North Dakota","Morton",7019,NA,NA,14,6
+38061,"North Dakota","Mountrail",16537,NA,8780,18,6
+38067,"North Dakota","Pembina",6907,NA,NA,15,7
+38071,"North Dakota","Ramsey",8498,NA,7143,16,8
+38077,"North Dakota","Richland",7468,NA,NA,15,6
+38079,"North Dakota","Rolette",15036,NA,NA,28,8
+38085,"North Dakota","Sioux",24641,NA,NA,33,8
+38089,"North Dakota","Stark",6621,NA,NA,16,7
+38093,"North Dakota","Stutsman",5715,NA,NA,15,7
+38097,"North Dakota","Traill",6319,NA,NA,14,6
+38099,"North Dakota","Walsh",6301,NA,NA,18,7
+38101,"North Dakota","Ward",6713,NA,NA,15,6
+38105,"North Dakota","Williams",7712,NA,NA,15,5
+39001,"Ohio","Adams",11037,NA,NA,26,9
+39003,"Ohio","Allen",8518,12607,8158,20,10
+39005,"Ohio","Ashland",7769,NA,NA,20,6
+39007,"Ohio","Ashtabula",9749,12675,9871,25,8
+39009,"Ohio","Athens",7619,NA,NA,22,8
+39011,"Ohio","Auglaize",6498,NA,NA,17,7
+39013,"Ohio","Belmont",8782,NA,NA,21,8
+39015,"Ohio","Brown",10510,NA,NA,21,8
+39017,"Ohio","Butler",9053,10517,9305,19,8
+39019,"Ohio","Carroll",8066,NA,NA,20,8
+39021,"Ohio","Champaign",8135,NA,NA,19,7
+39023,"Ohio","Clark",11537,17239,11283,22,9
+39025,"Ohio","Clermont",8233,13072,8283,18,7
+39027,"Ohio","Clinton",10814,NA,NA,21,8
+39029,"Ohio","Columbiana",9132,7071,9389,21,7
+39031,"Ohio","Coshocton",9800,NA,NA,22,7
+39033,"Ohio","Crawford",9442,NA,NA,21,8
+39035,"Ohio","Cuyahoga",9175,13920,7270,20,11
+39037,"Ohio","Darke",8545,NA,NA,20,5
+39039,"Ohio","Defiance",7579,NA,7548,19,7
+39041,"Ohio","Delaware",4212,7315,4290,13,6
+39043,"Ohio","Erie",9152,13207,8795,20,8
+39045,"Ohio","Fairfield",7047,6317,7261,18,8
+39047,"Ohio","Fayette",11052,NA,NA,23,7
+39049,"Ohio","Franklin",8681,12793,7868,18,9
+39051,"Ohio","Fulton",7543,NA,7508,19,7
+39053,"Ohio","Gallia",13207,NA,NA,23,10
+39055,"Ohio","Geauga",5244,NA,NA,16,6
+39057,"Ohio","Greene",6874,9557,6894,17,7
+39059,"Ohio","Guernsey",10201,NA,NA,22,8
+39061,"Ohio","Hamilton",9070,13427,7767,18,10
+39063,"Ohio","Hancock",7396,NA,7461,18,8
+39065,"Ohio","Hardin",8693,NA,NA,21,7
+39067,"Ohio","Harrison",8991,NA,NA,22,6
+39069,"Ohio","Henry",7651,NA,NA,19,7
+39071,"Ohio","Highland",9729,NA,NA,23,8
+39073,"Ohio","Hocking",9500,NA,NA,22,7
+39075,"Ohio","Holmes",5306,NA,NA,25,4
+39077,"Ohio","Huron",8998,NA,NA,21,7
+39079,"Ohio","Jackson",12236,NA,NA,24,8
+39081,"Ohio","Jefferson",11003,28104,9956,22,8
+39083,"Ohio","Knox",7044,NA,NA,18,7
+39085,"Ohio","Lake",7248,10333,7357,17,7
+39087,"Ohio","Lawrence",11853,NA,NA,24,9
+39089,"Ohio","Licking",7547,8270,7750,18,8
+39091,"Ohio","Logan",8595,NA,NA,19,7
+39093,"Ohio","Lorain",8020,12805,7645,20,8
+39095,"Ohio","Lucas",10804,15726,9786,22,10
+39097,"Ohio","Madison",7277,NA,NA,20,7
+39099,"Ohio","Mahoning",10143,17758,8799,22,11
+39101,"Ohio","Marion",10137,7986,10680,23,8
+39103,"Ohio","Medina",5594,NA,NA,15,7
+39105,"Ohio","Meigs",12082,NA,NA,23,9
+39107,"Ohio","Mercer",6512,NA,NA,18,5
+39109,"Ohio","Miami",7497,10625,7610,18,6
+39111,"Ohio","Monroe",7942,NA,NA,22,7
+39113,"Ohio","Montgomery",11059,15916,9959,21,9
+39115,"Ohio","Morgan",9463,NA,NA,25,6
+39117,"Ohio","Morrow",8387,NA,NA,20,7
+39119,"Ohio","Muskingum",10157,12935,10116,21,8
+39121,"Ohio","Noble",7545,NA,NA,22,6
+39123,"Ohio","Ottawa",8082,NA,NA,18,8
+39125,"Ohio","Paulding",6733,NA,NA,19,8
+39127,"Ohio","Perry",8965,NA,NA,22,7
+39129,"Ohio","Pickaway",9519,12567,9589,20,7
+39131,"Ohio","Pike",13599,NA,NA,26,9
+39133,"Ohio","Portage",7395,9939,7435,18,8
+39135,"Ohio","Preble",9066,NA,NA,19,9
+39137,"Ohio","Putnam",4940,NA,NA,17,6
+39139,"Ohio","Richland",9809,12431,9887,21,8
+39141,"Ohio","Ross",10442,6758,10901,23,9
+39143,"Ohio","Sandusky",8709,NA,8963,20,7
+39145,"Ohio","Scioto",15419,15730,15683,25,8
+39147,"Ohio","Seneca",8258,NA,NA,21,9
+39149,"Ohio","Shelby",8650,NA,NA,19,6
+39151,"Ohio","Stark",8500,13366,8185,20,9
+39153,"Ohio","Summit",8515,14261,7620,19,9
+39155,"Ohio","Trumbull",10497,17112,9888,22,9
+39157,"Ohio","Tuscarawas",7919,NA,NA,21,7
+39159,"Ohio","Union",5435,NA,NA,16,7
+39161,"Ohio","Van Wert",7536,NA,NA,19,8
+39163,"Ohio","Vinton",13139,NA,NA,25,8
+39165,"Ohio","Warren",5717,8257,5923,15,7
+39167,"Ohio","Washington",8598,NA,NA,20,7
+39169,"Ohio","Wayne",7668,NA,NA,20,6
+39171,"Ohio","Williams",8117,NA,NA,20,6
+39173,"Ohio","Wood",5989,NA,6014,17,7
+39175,"Ohio","Wyandot",8514,NA,NA,20,7
+40001,"Oklahoma","Adair",12152,NA,10872,32,7
+40003,"Oklahoma","Alfalfa",8337,NA,NA,20,6
+40005,"Oklahoma","Atoka",10403,NA,NA,26,9
+40007,"Oklahoma","Beaver",8463,NA,NA,23,6
+40009,"Oklahoma","Beckham",10714,NA,NA,23,9
+40011,"Oklahoma","Blaine",15024,NA,12442,24,7
+40013,"Oklahoma","Bryan",10910,NA,11031,23,8
+40015,"Oklahoma","Caddo",13159,NA,10886,26,8
+40017,"Oklahoma","Canadian",6810,6382,6766,17,7
+40019,"Oklahoma","Carter",10140,8384,10271,22,9
+40021,"Oklahoma","Cherokee",10192,NA,8095,26,7
+40023,"Oklahoma","Choctaw",13294,NA,12456,29,10
+40027,"Oklahoma","Cleveland",7020,6990,7294,18,8
+40029,"Oklahoma","Coal",14479,NA,NA,27,8
+40031,"Oklahoma","Comanche",9556,11361,9270,23,8
+40033,"Oklahoma","Cotton",12063,NA,NA,24,9
+40035,"Oklahoma","Craig",9809,NA,10333,25,7
+40037,"Oklahoma","Creek",10566,13607,10191,22,8
+40039,"Oklahoma","Custer",9393,NA,8567,23,7
+40041,"Oklahoma","Delaware",10131,NA,9543,26,7
+40043,"Oklahoma","Dewey",11625,NA,NA,21,6
+40045,"Oklahoma","Ellis",10556,NA,NA,21,6
+40047,"Oklahoma","Garfield",9623,NA,9478,21,8
+40049,"Oklahoma","Garvin",13002,NA,12989,23,9
+40051,"Oklahoma","Grady",9382,NA,9161,20,8
+40053,"Oklahoma","Grant",10334,NA,NA,18,6
+40055,"Oklahoma","Greer",7532,NA,NA,25,8
+40057,"Oklahoma","Harmon",16646,NA,NA,25,11
+40061,"Oklahoma","Haskell",11301,NA,NA,25,7
+40063,"Oklahoma","Hughes",12741,NA,12092,27,7
+40065,"Oklahoma","Jackson",10455,NA,10648,23,8
+40067,"Oklahoma","Jefferson",8855,NA,NA,26,9
+40069,"Oklahoma","Johnston",13407,NA,NA,25,10
+40071,"Oklahoma","Kay",11902,NA,11108,23,8
+40073,"Oklahoma","Kingfisher",7905,NA,NA,22,7
+40075,"Oklahoma","Kiowa",11971,NA,NA,25,8
+40077,"Oklahoma","Latimer",8595,NA,NA,25,7
+40079,"Oklahoma","Le Flore",11541,NA,11534,26,8
+40081,"Oklahoma","Lincoln",9612,NA,9556,22,8
+40083,"Oklahoma","Logan",7133,NA,NA,20,7
+40085,"Oklahoma","Love",11837,NA,NA,25,9
+40087,"Oklahoma","McClain",8164,NA,NA,18,7
+40089,"Oklahoma","McCurtain",13488,20244,12175,28,8
+40091,"Oklahoma","McIntosh",10384,NA,9986,26,8
+40093,"Oklahoma","Major",10336,NA,NA,20,7
+40095,"Oklahoma","Marshall",9717,NA,NA,26,8
+40097,"Oklahoma","Mayes",11337,NA,9797,25,9
+40099,"Oklahoma","Murray",9006,NA,NA,23,7
+40101,"Oklahoma","Muskogee",12227,13709,11337,25,8
+40103,"Oklahoma","Noble",10543,NA,NA,19,7
+40105,"Oklahoma","Nowata",8431,NA,NA,24,7
+40107,"Oklahoma","Okfuskee",15868,NA,14438,29,7
+40109,"Oklahoma","Oklahoma",9278,13401,8800,21,9
+40111,"Oklahoma","Okmulgee",12766,16979,11654,25,8
+40113,"Oklahoma","Osage",8958,NA,8965,23,7
+40115,"Oklahoma","Ottawa",12192,NA,11556,26,8
+40117,"Oklahoma","Pawnee",10890,NA,NA,22,8
+40119,"Oklahoma","Payne",7672,10224,7824,20,7
+40121,"Oklahoma","Pittsburg",12211,NA,12050,23,7
+40123,"Oklahoma","Pontotoc",11423,NA,9534,21,8
+40125,"Oklahoma","Pottawatomie",10238,12056,8915,23,8
+40127,"Oklahoma","Pushmataha",11533,NA,NA,26,9
+40131,"Oklahoma","Rogers",6717,NA,6550,19,7
+40133,"Oklahoma","Seminole",14100,NA,12584,26,7
+40135,"Oklahoma","Sequoyah",11250,NA,12290,27,8
+40137,"Oklahoma","Stephens",10604,NA,NA,22,9
+40139,"Oklahoma","Texas",8880,NA,11837,27,7
+40141,"Oklahoma","Tillman",9130,NA,NA,27,7
+40143,"Oklahoma","Tulsa",8710,14809,7889,20,8
+40145,"Oklahoma","Wagoner",7489,NA,7552,19,8
+40147,"Oklahoma","Washington",8997,NA,9503,20,7
+40149,"Oklahoma","Washita",10942,NA,NA,21,7
+40151,"Oklahoma","Woods",8795,NA,NA,19,7
+40153,"Oklahoma","Woodward",8627,NA,NA,20,9
+41001,"Oregon","Baker",9509,NA,NA,19,8
+41003,"Oregon","Benton",3954,NA,NA,16,5
+41005,"Oregon","Clackamas",5267,5768,5517,15,6
+41007,"Oregon","Clatsop",6874,NA,NA,18,7
+41009,"Oregon","Columbia",6675,NA,NA,19,6
+41011,"Oregon","Coos",7452,NA,NA,21,6
+41013,"Oregon","Crook",7348,NA,NA,20,7
+41015,"Oregon","Curry",8390,NA,NA,19,6
+41017,"Oregon","Deschutes",5005,NA,5007,16,7
+41019,"Oregon","Douglas",9195,NA,NA,21,7
+41023,"Oregon","Grant",7429,NA,NA,21,7
+41025,"Oregon","Harney",8438,NA,NA,19,6
+41027,"Oregon","Hood River",4441,NA,NA,20,5
+41029,"Oregon","Jackson",6894,NA,7395,19,7
+41031,"Oregon","Jefferson",10746,NA,7582,22,7
+41033,"Oregon","Josephine",9343,NA,9715,21,7
+41035,"Oregon","Klamath",9590,NA,9747,22,8
+41037,"Oregon","Lake",9465,NA,NA,23,10
+41039,"Oregon","Lane",6557,9306,6834,19,7
+41041,"Oregon","Lincoln",8689,NA,NA,20,7
+41043,"Oregon","Linn",7288,NA,7643,20,6
+41045,"Oregon","Malheur",7442,NA,7184,26,7
+41047,"Oregon","Marion",6120,5991,6707,22,6
+41049,"Oregon","Morrow",7258,NA,NA,26,7
+41051,"Oregon","Multnomah",6124,11652,5994,17,7
+41053,"Oregon","Polk",5676,NA,5910,18,6
+41057,"Oregon","Tillamook",7519,NA,NA,19,5
+41059,"Oregon","Umatilla",7693,NA,7759,24,6
+41061,"Oregon","Union",8024,NA,NA,19,7
+41065,"Oregon","Wasco",7082,NA,NA,21,7
+41067,"Oregon","Washington",4102,5033,4326,16,6
+41071,"Oregon","Yamhill",5695,NA,6109,18,7
+42001,"Pennsylvania","Adams",6115,NA,NA,18,7
+42003,"Pennsylvania","Allegheny",7699,14909,6672,17,8
+42005,"Pennsylvania","Armstrong",8934,NA,NA,19,7
+42007,"Pennsylvania","Beaver",8874,16364,8329,18,7
+42009,"Pennsylvania","Bedford",8556,NA,NA,20,6
+42011,"Pennsylvania","Berks",6733,10439,6336,20,8
+42013,"Pennsylvania","Blair",8182,15778,8073,20,7
+42015,"Pennsylvania","Bradford",7072,NA,NA,20,6
+42017,"Pennsylvania","Bucks",6306,8437,6497,14,8
+42019,"Pennsylvania","Butler",6295,NA,NA,15,6
+42021,"Pennsylvania","Cambria",9574,20869,9153,19,9
+42025,"Pennsylvania","Carbon",9446,NA,NA,19,8
+42027,"Pennsylvania","Centre",4084,NA,NA,17,6
+42029,"Pennsylvania","Chester",4866,9458,4831,14,7
+42031,"Pennsylvania","Clarion",7751,NA,NA,20,6
+42033,"Pennsylvania","Clearfield",8261,NA,NA,22,8
+42035,"Pennsylvania","Clinton",6843,NA,NA,20,7
+42037,"Pennsylvania","Columbia",7242,NA,NA,19,8
+42039,"Pennsylvania","Crawford",8025,NA,NA,20,8
+42041,"Pennsylvania","Cumberland",5553,6952,5678,16,7
+42043,"Pennsylvania","Dauphin",7777,11763,6855,19,9
+42045,"Pennsylvania","Delaware",7571,11188,6846,17,9
+42047,"Pennsylvania","Elk",7638,NA,NA,18,7
+42049,"Pennsylvania","Erie",7647,13787,7184,19,9
+42051,"Pennsylvania","Fayette",10656,12396,10672,22,9
+42055,"Pennsylvania","Franklin",6749,11059,6648,19,7
+42057,"Pennsylvania","Fulton",7232,NA,NA,20,8
+42059,"Pennsylvania","Greene",9431,NA,NA,20,10
+42061,"Pennsylvania","Huntingdon",7310,NA,NA,20,7
+42063,"Pennsylvania","Indiana",8214,NA,NA,20,8
+42065,"Pennsylvania","Jefferson",7652,NA,NA,21,8
+42067,"Pennsylvania","Juniata",6802,NA,NA,21,6
+42069,"Pennsylvania","Lackawanna",8723,15288,8670,19,9
+42071,"Pennsylvania","Lancaster",6039,7710,5894,19,7
+42073,"Pennsylvania","Lawrence",9927,21138,9266,19,9
+42075,"Pennsylvania","Lebanon",6996,9335,6658,20,8
+42077,"Pennsylvania","Lehigh",6605,9415,6689,20,8
+42079,"Pennsylvania","Luzerne",9446,14239,9873,21,8
+42081,"Pennsylvania","Lycoming",7719,14871,7364,19,8
+42083,"Pennsylvania","McKean",7512,NA,NA,20,8
+42085,"Pennsylvania","Mercer",9171,18386,8447,20,8
+42087,"Pennsylvania","Mifflin",8303,NA,NA,22,7
+42089,"Pennsylvania","Monroe",7625,7333,8674,20,9
+42091,"Pennsylvania","Montgomery",5373,8683,5252,14,7
+42093,"Pennsylvania","Montour",7994,NA,NA,18,7
+42095,"Pennsylvania","Northampton",6017,9354,6029,17,8
+42097,"Pennsylvania","Northumberland",9114,NA,NA,21,8
+42099,"Pennsylvania","Perry",7822,NA,NA,20,7
+42101,"Pennsylvania","Philadelphia",10671,14079,8916,24,11
+42103,"Pennsylvania","Pike",7640,NA,NA,18,8
+42105,"Pennsylvania","Potter",6637,NA,NA,21,7
+42107,"Pennsylvania","Schuylkill",10130,9203,10591,20,8
+42109,"Pennsylvania","Snyder",5045,NA,NA,19,6
+42111,"Pennsylvania","Somerset",7743,NA,NA,20,8
+42113,"Pennsylvania","Sullivan",8034,NA,NA,20,6
+42115,"Pennsylvania","Susquehanna",7082,NA,NA,19,7
+42117,"Pennsylvania","Tioga",7402,NA,NA,20,6
+42119,"Pennsylvania","Union",4463,NA,NA,19,5
+42121,"Pennsylvania","Venango",8564,NA,NA,20,8
+42123,"Pennsylvania","Warren",6549,NA,NA,19,8
+42125,"Pennsylvania","Washington",8267,17213,8066,17,7
+42127,"Pennsylvania","Wayne",7512,NA,NA,20,8
+42129,"Pennsylvania","Westmoreland",7934,13889,7780,17,7
+42131,"Pennsylvania","Wyoming",9210,NA,NA,18,7
+42133,"Pennsylvania","York",7105,11492,6808,18,8
+44001,"Rhode Island","Bristol",4511,NA,NA,14,6
+44003,"Rhode Island","Kent",6183,NA,NA,16,7
+44005,"Rhode Island","Newport",4939,NA,NA,15,7
+44007,"Rhode Island","Providence",6630,8066,7003,20,8
+44009,"Rhode Island","Washington",5117,NA,NA,14,7
+45001,"South Carolina","Abbeville",11005,14998,9389,23,9
+45003,"South Carolina","Aiken",10130,12916,9547,20,9
+45005,"South Carolina","Allendale",15351,NA,NA,30,14
+45007,"South Carolina","Anderson",9945,12622,9635,20,9
+45009,"South Carolina","Bamberg",14161,17035,9305,25,12
+45011,"South Carolina","Barnwell",14377,18061,12095,26,11
+45013,"South Carolina","Beaufort",6234,10496,5688,15,8
+45015,"South Carolina","Berkeley",7691,10383,7237,19,9
+45017,"South Carolina","Calhoun",12931,15284,12804,21,11
+45019,"South Carolina","Charleston",7540,12645,5796,16,9
+45021,"South Carolina","Cherokee",12740,13274,13175,23,12
+45023,"South Carolina","Chester",15356,17662,14293,24,11
+45025,"South Carolina","Chesterfield",12191,13929,11873,26,11
+45027,"South Carolina","Clarendon",12305,14761,10049,26,10
+45029,"South Carolina","Colleton",15395,18577,13437,24,12
+45031,"South Carolina","Darlington",13036,13497,13150,23,12
+45033,"South Carolina","Dillon",15722,17291,14716,30,12
+45035,"South Carolina","Dorchester",7720,9134,7366,18,8
+45037,"South Carolina","Edgefield",7439,10919,5956,23,9
+45039,"South Carolina","Fairfield",14563,14093,17456,25,11
+45041,"South Carolina","Florence",12837,15464,11098,21,13
+45043,"South Carolina","Georgetown",11439,12749,11107,21,11
+45045,"South Carolina","Greenville",7626,11306,7239,17,8
+45047,"South Carolina","Greenwood",10921,13608,10012,22,10
+45049,"South Carolina","Hampton",14696,15248,14696,28,13
+45051,"South Carolina","Horry",10108,13229,10055,20,9
+45053,"South Carolina","Jasper",10121,11202,10291,25,10
+45055,"South Carolina","Kershaw",9998,11234,9903,20,9
+45057,"South Carolina","Lancaster",9773,13876,9018,19,10
+45059,"South Carolina","Laurens",11768,13188,11802,24,11
+45061,"South Carolina","Lee",15187,16463,12789,27,14
+45063,"South Carolina","Lexington",7643,9418,7624,18,8
+45065,"South Carolina","McCormick",14928,NA,NA,23,10
+45067,"South Carolina","Marion",15313,17065,13327,27,14
+45069,"South Carolina","Marlboro",14181,13450,16325,30,12
+45071,"South Carolina","Newberry",9819,13440,9094,23,12
+45073,"South Carolina","Oconee",9480,8583,10153,19,9
+45075,"South Carolina","Orangeburg",13737,14675,13063,24,13
+45077,"South Carolina","Pickens",8433,8822,8828,19,8
+45079,"South Carolina","Richland",8338,10292,6575,18,11
+45081,"South Carolina","Saluda",8618,12187,8455,25,10
+45083,"South Carolina","Spartanburg",9521,12154,9410,20,9
+45085,"South Carolina","Sumter",11242,12652,10450,23,11
+45087,"South Carolina","Union",12990,13604,13240,24,12
+45089,"South Carolina","Williamsburg",15415,16885,14216,28,13
+45091,"South Carolina","York",7221,9373,7145,16,8
+46005,"South Dakota","Beadle",7739,NA,NA,18,7
+46007,"South Dakota","Bennett",17882,NA,NA,27,6
+46009,"South Dakota","Bon Homme",4411,NA,NA,17,5
+46011,"South Dakota","Brookings",5088,NA,NA,12,5
+46013,"South Dakota","Brown",5969,NA,NA,14,6
+46015,"South Dakota","Brule",8480,NA,NA,15,6
+46017,"South Dakota","Buffalo",30008,NA,NA,34,9
+46019,"South Dakota","Butte",6935,NA,NA,17,8
+46023,"South Dakota","Charles Mix",15709,NA,NA,20,6
+46027,"South Dakota","Clay",6485,NA,NA,14,5
+46029,"South Dakota","Codington",6263,NA,NA,15,7
+46031,"South Dakota","Corson",24702,NA,NA,30,9
+46033,"South Dakota","Custer",6892,NA,NA,14,7
+46035,"South Dakota","Davison",6868,NA,NA,15,7
+46037,"South Dakota","Day",9447,NA,NA,17,6
+46041,"South Dakota","Dewey",25952,NA,NA,29,8
+46047,"South Dakota","Fall River",10456,NA,NA,17,9
+46051,"South Dakota","Grant",6173,NA,NA,15,6
+46057,"South Dakota","Hamlin",7130,NA,NA,14,5
+46065,"South Dakota","Hughes",7438,NA,5172,14,6
+46067,"South Dakota","Hutchinson",6352,NA,NA,14,6
+46071,"South Dakota","Jackson",10572,NA,NA,28,7
+46079,"South Dakota","Lake",3571,NA,NA,14,6
+46081,"South Dakota","Lawrence",6514,NA,NA,14,8
+46083,"South Dakota","Lincoln",3888,NA,NA,12,6
+46085,"South Dakota","Lyman",12996,NA,NA,20,9
+46087,"South Dakota","McCook",7596,NA,NA,14,5
+46093,"South Dakota","Meade",6402,NA,NA,14,8
+46095,"South Dakota","Mellette",20409,NA,NA,30,7
+46099,"South Dakota","Minnehaha",7238,9523,6681,14,7
+46101,"South Dakota","Moody",6867,NA,NA,15,6
+46102,"South Dakota","Oglala Lakota",26819,NA,NA,35,8
+46103,"South Dakota","Pennington",8596,NA,6458,15,7
+46109,"South Dakota","Roberts",13909,NA,NA,21,4
+46115,"South Dakota","Spink",7451,NA,NA,14,5
+46121,"South Dakota","Todd",23112,NA,NA,37,8
+46123,"South Dakota","Tripp",9141,NA,NA,18,7
+46125,"South Dakota","Turner",7496,NA,NA,14,5
+46127,"South Dakota","Union",5661,NA,NA,13,7
+46129,"South Dakota","Walworth",6914,NA,NA,15,6
+46135,"South Dakota","Yankton",6321,NA,NA,15,7
+47001,"Tennessee","Anderson",10763,11276,11116,22,9
+47003,"Tennessee","Bedford",10666,12052,10930,25,9
+47005,"Tennessee","Benton",13905,NA,NA,27,8
+47007,"Tennessee","Bledsoe",8151,NA,NA,28,8
+47009,"Tennessee","Blount",8899,8171,9275,20,8
+47011,"Tennessee","Bradley",8707,9845,8809,24,9
+47013,"Tennessee","Campbell",14262,NA,NA,27,10
+47015,"Tennessee","Cannon",13458,NA,NA,23,8
+47017,"Tennessee","Carroll",11215,16402,10905,25,8
+47019,"Tennessee","Carter",11499,NA,NA,26,9
+47021,"Tennessee","Cheatham",10885,NA,NA,20,9
+47023,"Tennessee","Chester",9230,NA,NA,23,7
+47025,"Tennessee","Claiborne",12467,NA,NA,26,9
+47027,"Tennessee","Clay",11637,NA,NA,28,11
+47029,"Tennessee","Cocke",15088,NA,NA,28,9
+47031,"Tennessee","Coffee",10562,NA,NA,23,9
+47033,"Tennessee","Crockett",11908,NA,NA,27,8
+47035,"Tennessee","Cumberland",10261,NA,NA,23,9
+47037,"Tennessee","Davidson",9119,12813,7979,20,9
+47039,"Tennessee","Decatur",10966,NA,NA,25,8
+47041,"Tennessee","DeKalb",11864,NA,NA,26,9
+47043,"Tennessee","Dickson",10418,11925,10461,23,7
+47045,"Tennessee","Dyer",12114,18558,11150,25,11
+47047,"Tennessee","Fayette",9066,13772,7298,22,10
+47049,"Tennessee","Fentress",12108,NA,NA,27,8
+47051,"Tennessee","Franklin",10242,NA,NA,22,8
+47053,"Tennessee","Gibson",11480,16094,10705,24,9
+47055,"Tennessee","Giles",10473,13484,10354,23,10
+47057,"Tennessee","Grainger",12206,NA,NA,26,9
+47059,"Tennessee","Greene",10989,NA,NA,25,9
+47061,"Tennessee","Grundy",14485,NA,NA,28,10
+47063,"Tennessee","Hamblen",10766,NA,11167,27,8
+47065,"Tennessee","Hamilton",8762,12786,7921,21,10
+47067,"Tennessee","Hancock",14625,NA,NA,29,9
+47069,"Tennessee","Hardeman",11929,14050,10438,31,11
+47071,"Tennessee","Hardin",13214,NA,NA,26,9
+47073,"Tennessee","Hawkins",11669,NA,NA,25,9
+47075,"Tennessee","Haywood",14194,15874,13211,29,12
+47077,"Tennessee","Henderson",10054,NA,NA,26,10
+47079,"Tennessee","Henry",12103,16919,11811,25,9
+47081,"Tennessee","Hickman",12501,NA,NA,25,8
+47083,"Tennessee","Houston",13040,NA,NA,26,8
+47085,"Tennessee","Humphreys",10648,NA,NA,23,9
+47087,"Tennessee","Jackson",11153,NA,NA,26,9
+47089,"Tennessee","Jefferson",9994,NA,NA,23,9
+47091,"Tennessee","Johnson",11379,NA,NA,28,9
+47093,"Tennessee","Knox",9637,13814,9586,19,8
+47095,"Tennessee","Lake",11965,NA,NA,32,10
+47097,"Tennessee","Lauderdale",11248,10642,12203,31,12
+47099,"Tennessee","Lawrence",10576,NA,NA,25,9
+47101,"Tennessee","Lewis",12215,NA,NA,25,9
+47103,"Tennessee","Lincoln",11558,11667,12037,24,8
+47105,"Tennessee","Loudon",9271,NA,NA,21,8
+47107,"Tennessee","McMinn",11577,14142,11853,25,9
+47109,"Tennessee","McNairy",12169,NA,NA,27,8
+47111,"Tennessee","Macon",10802,NA,NA,26,9
+47113,"Tennessee","Madison",10659,14054,8349,24,10
+47115,"Tennessee","Marion",10937,NA,NA,24,9
+47117,"Tennessee","Marshall",9402,NA,NA,24,9
+47119,"Tennessee","Maury",8407,10616,8193,21,9
+47121,"Tennessee","Meigs",14269,NA,NA,24,9
+47123,"Tennessee","Monroe",11555,NA,NA,26,9
+47125,"Tennessee","Montgomery",9497,13124,9045,21,8
+47127,"Tennessee","Moore",6907,NA,NA,21,8
+47129,"Tennessee","Morgan",11325,NA,NA,28,10
+47131,"Tennessee","Obion",10137,13972,9993,27,9
+47133,"Tennessee","Overton",9798,NA,NA,26,7
+47135,"Tennessee","Perry",10547,NA,NA,28,9
+47137,"Tennessee","Pickett",10580,NA,NA,27,7
+47139,"Tennessee","Polk",10709,NA,NA,25,9
+47141,"Tennessee","Putnam",8749,NA,NA,23,7
+47143,"Tennessee","Rhea",10743,NA,NA,25,8
+47145,"Tennessee","Roane",11201,NA,NA,22,9
+47147,"Tennessee","Robertson",9684,15288,9497,22,8
+47149,"Tennessee","Rutherford",7676,9642,7576,19,9
+47151,"Tennessee","Scott",12529,NA,NA,27,9
+47153,"Tennessee","Sequatchie",9964,NA,NA,25,9
+47155,"Tennessee","Sevier",10239,NA,NA,23,8
+47157,"Tennessee","Shelby",11796,14832,8349,24,12
+47159,"Tennessee","Smith",9917,NA,NA,24,9
+47161,"Tennessee","Stewart",10314,NA,NA,22,8
+47163,"Tennessee","Sullivan",10637,15621,10728,23,8
+47165,"Tennessee","Sumner",7869,9866,7899,19,8
+47167,"Tennessee","Tipton",9571,12992,8999,23,10
+47169,"Tennessee","Trousdale",9827,NA,NA,22,8
+47171,"Tennessee","Unicoi",12490,NA,NA,25,10
+47173,"Tennessee","Union",12430,NA,NA,27,9
+47175,"Tennessee","Van Buren",13739,NA,NA,28,7
+47177,"Tennessee","Warren",10383,NA,NA,27,9
+47179,"Tennessee","Washington",9857,13353,9858,21,8
+47181,"Tennessee","Wayne",10020,NA,NA,27,9
+47183,"Tennessee","Weakley",9613,13542,9534,24,7
+47185,"Tennessee","White",10125,NA,NA,26,8
+47187,"Tennessee","Williamson",4526,6947,4605,14,6
+47189,"Tennessee","Wilson",7557,11349,7459,18,8
+48001,"Texas","Anderson",11158,13305,10871,26,7
+48003,"Texas","Andrews",8229,NA,8605,26,7
+48005,"Texas","Angelina",9839,14946,9611,27,9
+48007,"Texas","Aransas",12278,NA,13017,26,9
+48009,"Texas","Archer",5956,NA,NA,19,7
+48013,"Texas","Atascosa",8407,NA,8231,27,8
+48015,"Texas","Austin",8077,NA,7756,22,8
+48017,"Texas","Bailey",9044,NA,NA,25,8
+48019,"Texas","Bandera",8222,NA,NA,21,8
+48021,"Texas","Bastrop",7788,8680,8547,23,8
+48023,"Texas","Baylor",11371,NA,NA,20,10
+48025,"Texas","Bee",9972,NA,9668,29,10
+48027,"Texas","Bell",7976,10104,8348,22,9
+48029,"Texas","Bexar",7346,10640,7314,24,9
+48031,"Texas","Blanco",7170,NA,NA,19,6
+48035,"Texas","Bosque",10156,NA,NA,22,6
+48037,"Texas","Bowie",10224,15087,9110,22,11
+48039,"Texas","Brazoria",6238,6977,7276,19,8
+48041,"Texas","Brazos",5429,10324,4947,22,8
+48043,"Texas","Brewster",8625,NA,11117,22,6
+48047,"Texas","Brooks",13609,NA,NA,38,8
+48049,"Texas","Brown",9924,NA,11018,22,8
+48051,"Texas","Burleson",9202,14793,8793,23,9
+48053,"Texas","Burnet",7348,NA,8215,20,7
+48055,"Texas","Caldwell",8537,NA,8775,29,9
+48057,"Texas","Calhoun",8130,NA,10314,27,7
+48059,"Texas","Callahan",9505,NA,NA,20,11
+48061,"Texas","Cameron",7375,NA,11676,35,8
+48063,"Texas","Camp",10289,NA,NA,23,7
+48065,"Texas","Carson",10338,NA,NA,17,6
+48067,"Texas","Cass",10622,17043,9738,24,9
+48069,"Texas","Castro",9286,NA,NA,28,8
+48071,"Texas","Chambers",7463,10829,8233,20,8
+48073,"Texas","Cherokee",10062,14212,10335,26,8
+48075,"Texas","Childress",9126,NA,NA,26,9
+48077,"Texas","Clay",8582,NA,NA,19,5
+48083,"Texas","Coleman",12185,NA,NA,22,10
+48085,"Texas","Collin",4167,5305,4636,14,7
+48089,"Texas","Colorado",9063,18337,8337,23,9
+48091,"Texas","Comal",6409,NA,7145,17,8
+48093,"Texas","Comanche",9193,NA,8882,22,7
+48097,"Texas","Cooke",8637,NA,9157,21,6
+48099,"Texas","Coryell",7310,6999,8070,23,9
+48103,"Texas","Crane",7151,NA,NA,26,9
+48105,"Texas","Crockett",12931,NA,NA,26,9
+48107,"Texas","Crosby",11008,NA,NA,31,9
+48111,"Texas","Dallam",12404,NA,14314,26,6
+48113,"Texas","Dallas",7276,11518,7001,24,9
+48115,"Texas","Dawson",11525,NA,12035,33,11
+48117,"Texas","Deaf Smith",8332,NA,NA,30,7
+48119,"Texas","Delta",11004,NA,NA,21,6
+48121,"Texas","Denton",4389,5615,4784,16,7
+48123,"Texas","DeWitt",9163,16971,7685,26,8
+48127,"Texas","Dimmit",10650,NA,NA,39,8
+48131,"Texas","Duval",11456,NA,NA,34,9
+48133,"Texas","Eastland",10851,NA,NA,24,8
+48135,"Texas","Ector",10537,12686,14697,26,9
+48139,"Texas","Ellis",6559,7973,7311,20,7
+48141,"Texas","El Paso",7156,9248,8901,29,8
+48143,"Texas","Erath",6619,NA,7653,21,7
+48145,"Texas","Falls",8845,13034,8611,29,9
+48147,"Texas","Fannin",8192,NA,NA,22,8
+48149,"Texas","Fayette",7568,NA,NA,22,8
+48153,"Texas","Floyd",10683,NA,NA,28,9
+48157,"Texas","Fort Bend",4585,6856,4698,16,9
+48159,"Texas","Franklin",9786,NA,NA,18,6
+48161,"Texas","Freestone",11040,12888,10830,25,8
+48163,"Texas","Frio",9277,NA,8482,34,10
+48165,"Texas","Gaines",7321,NA,8558,29,6
+48167,"Texas","Galveston",7701,12886,7624,20,9
+48169,"Texas","Garza",5571,NA,NA,31,9
+48171,"Texas","Gillespie",6270,NA,6518,19,8
+48175,"Texas","Goliad",7484,NA,NA,23,8
+48177,"Texas","Gonzales",7951,NA,9439,28,9
+48179,"Texas","Gray",10212,NA,12298,26,7
+48181,"Texas","Grayson",8940,13579,9463,21,8
+48183,"Texas","Gregg",10063,15891,9499,24,9
+48185,"Texas","Grimes",8560,12158,8760,26,9
+48187,"Texas","Guadalupe",6310,6631,6719,20,8
+48189,"Texas","Hale",9229,NA,9531,28,9
+48193,"Texas","Hamilton",12033,NA,NA,23,8
+48195,"Texas","Hansford",5269,NA,NA,30,7
+48197,"Texas","Hardeman",10226,NA,NA,25,4
+48199,"Texas","Hardin",10059,14730,10136,21,9
+48201,"Texas","Harris",6786,11214,6756,23,9
+48203,"Texas","Harrison",10300,16733,9636,23,8
+48207,"Texas","Haskell",7751,NA,NA,31,9
+48209,"Texas","Hays",4931,8019,5121,20,7
+48211,"Texas","Hemphill",6165,NA,NA,21,5
+48213,"Texas","Henderson",10773,14768,11611,24,8
+48215,"Texas","Hidalgo",6756,NA,8205,34,9
+48217,"Texas","Hill",10187,NA,11539,23,8
+48219,"Texas","Hockley",10333,NA,10931,27,9
+48221,"Texas","Hood",8564,NA,9223,19,7
+48223,"Texas","Hopkins",9178,NA,9265,22,7
+48225,"Texas","Houston",10097,12597,9456,28,10
+48227,"Texas","Howard",10285,NA,11568,27,10
+48231,"Texas","Hunt",9062,16055,9356,23,9
+48233,"Texas","Hutchinson",11054,NA,13092,23,9
+48237,"Texas","Jack",9056,NA,NA,25,7
+48239,"Texas","Jackson",9305,NA,8253,23,7
+48241,"Texas","Jasper",11258,15897,11046,24,8
+48245,"Texas","Jefferson",9930,13953,10018,24,10
+48247,"Texas","Jim Hogg",10627,NA,NA,35,8
+48249,"Texas","Jim Wells",11290,NA,10132,31,10
+48251,"Texas","Johnson",7854,6618,8707,22,7
+48253,"Texas","Jones",7945,NA,8867,26,8
+48255,"Texas","Karnes",8496,NA,NA,28,8
+48257,"Texas","Kaufman",8004,10768,8610,21,8
+48259,"Texas","Kendall",4933,NA,4845,16,8
+48265,"Texas","Kerr",9057,NA,10584,21,8
+48267,"Texas","Kimble",10490,NA,NA,25,8
+48271,"Texas","Kinney",7669,NA,NA,32,7
+48273,"Texas","Kleberg",9909,NA,13246,29,8
+48275,"Texas","Knox",10670,NA,NA,27,7
+48277,"Texas","Lamar",11453,15344,11467,23,8
+48279,"Texas","Lamb",10637,NA,8812,31,9
+48281,"Texas","Lampasas",7429,NA,8133,20,6
+48283,"Texas","La Salle",8072,NA,NA,32,11
+48285,"Texas","Lavaca",6697,NA,NA,22,7
+48287,"Texas","Lee",8870,NA,7542,23,7
+48289,"Texas","Leon",8687,NA,NA,25,7
+48291,"Texas","Liberty",10210,12984,11445,27,9
+48293,"Texas","Limestone",10801,15008,11952,27,10
+48297,"Texas","Live Oak",7351,NA,8530,28,7
+48299,"Texas","Llano",9434,NA,NA,21,8
+48303,"Texas","Lubbock",9358,16504,8551,23,9
+48305,"Texas","Lynn",10899,NA,NA,29,10
+48307,"Texas","McCulloch",9441,NA,NA,26,8
+48309,"Texas","McLennan",8016,13571,7221,24,9
+48313,"Texas","Madison",10714,11017,12754,24,8
+48315,"Texas","Marion",11547,NA,NA,24,9
+48317,"Texas","Martin",12141,NA,NA,24,8
+48321,"Texas","Matagorda",9491,15340,10977,27,9
+48323,"Texas","Maverick",8337,NA,NA,37,8
+48325,"Texas","Medina",7624,NA,8188,24,8
+48329,"Texas","Midland",7679,13176,8318,21,8
+48331,"Texas","Milam",8725,17730,7918,25,7
+48333,"Texas","Mills",8829,NA,NA,23,8
+48335,"Texas","Mitchell",8381,NA,9220,26,10
+48337,"Texas","Montague",11508,NA,NA,22,8
+48339,"Texas","Montgomery",6147,8729,6731,19,7
+48341,"Texas","Moore",9214,NA,11141,28,7
+48343,"Texas","Morris",11038,14433,11320,24,10
+48347,"Texas","Nacogdoches",9068,14233,9119,25,8
+48349,"Texas","Navarro",9769,11228,10725,26,8
+48351,"Texas","Newton",11289,14669,10776,26,9
+48353,"Texas","Nolan",10500,NA,11932,26,8
+48355,"Texas","Nueces",8683,12543,9717,26,9
+48357,"Texas","Ochiltree",7567,NA,NA,29,7
+48361,"Texas","Orange",10467,16067,10628,21,9
+48363,"Texas","Palo Pinto",9741,NA,10774,24,8
+48365,"Texas","Panola",10507,12617,10459,23,9
+48367,"Texas","Parker",6458,NA,6849,18,7
+48369,"Texas","Parmer",9045,NA,NA,29,8
+48371,"Texas","Pecos",9239,NA,12353,29,9
+48373,"Texas","Polk",10901,12563,11889,25,8
+48375,"Texas","Potter",11581,16700,13643,29,10
+48377,"Texas","Presidio",5713,NA,NA,42,8
+48379,"Texas","Rains",8625,NA,NA,21,7
+48381,"Texas","Randall",6983,10778,7390,18,8
+48387,"Texas","Red River",14141,23849,13043,25,8
+48389,"Texas","Reeves",7582,NA,NA,29,8
+48391,"Texas","Refugio",8788,NA,NA,26,8
+48395,"Texas","Robertson",10029,13303,10284,24,9
+48397,"Texas","Rockwall",4833,6948,4948,15,8
+48399,"Texas","Runnels",8574,NA,8855,25,8
+48401,"Texas","Rusk",8957,11509,8772,23,8
+48403,"Texas","Sabine",12170,NA,NA,24,8
+48405,"Texas","San Augustine",10286,NA,NA,26,9
+48407,"Texas","San Jacinto",10279,17974,10505,25,9
+48409,"Texas","San Patricio",9035,NA,9076,28,9
+48411,"Texas","San Saba",8940,NA,NA,26,6
+48415,"Texas","Scurry",8692,NA,7748,26,9
+48419,"Texas","Shelby",10408,12033,11460,28,8
+48423,"Texas","Smith",7924,10603,8454,22,8
+48425,"Texas","Somervell",7504,NA,NA,22,7
+48427,"Texas","Starr",8272,NA,NA,42,9
+48429,"Texas","Stephens",9205,NA,NA,25,8
+48437,"Texas","Swisher",11837,NA,9996,31,9
+48439,"Texas","Tarrant",6684,9411,6975,20,8
+48441,"Texas","Taylor",9674,14261,9514,22,9
+48445,"Texas","Terry",11179,NA,8881,32,9
+48449,"Texas","Titus",8334,16039,10922,28,7
+48451,"Texas","Tom Green",8203,13758,8512,22,8
+48453,"Texas","Travis",4927,8655,4794,17,7
+48455,"Texas","Trinity",10734,NA,NA,25,8
+48457,"Texas","Tyler",11252,15915,11359,24,8
+48459,"Texas","Upshur",9317,11382,9889,22,8
+48461,"Texas","Upton",10407,NA,NA,27,8
+48463,"Texas","Uvalde",9372,NA,11055,30,7
+48465,"Texas","Val Verde",8094,NA,8412,32,7
+48467,"Texas","Van Zandt",8810,NA,NA,22,7
+48469,"Texas","Victoria",8506,14194,9071,25,8
+48471,"Texas","Walker",6902,8215,6986,24,9
+48473,"Texas","Waller",6571,11702,6904,24,8
+48475,"Texas","Ward",11445,NA,14803,27,9
+48477,"Texas","Washington",7712,13695,7032,21,8
+48479,"Texas","Webb",6792,NA,NA,34,8
+48481,"Texas","Wharton",8593,14370,8611,28,9
+48483,"Texas","Wheeler",10144,NA,NA,25,7
+48485,"Texas","Wichita",9385,12689,9530,22,8
+48487,"Texas","Wilbarger",10452,NA,9301,28,9
+48489,"Texas","Willacy",9726,NA,NA,38,8
+48491,"Texas","Williamson",4427,5971,4960,16,7
+48493,"Texas","Wilson",6721,NA,7611,21,7
+48495,"Texas","Winkler",12457,NA,18523,29,10
+48497,"Texas","Wise",7899,NA,8851,21,6
+48499,"Texas","Wood",9465,NA,NA,22,6
+48501,"Texas","Yoakum",9331,NA,NA,29,6
+48503,"Texas","Young",10431,NA,NA,23,5
+48505,"Texas","Zapata",7846,NA,NA,38,8
+48507,"Texas","Zavala",10910,NA,NA,40,8
+49001,"Utah","Beaver",5448,NA,NA,18,8
+49003,"Utah","Box Elder",6190,NA,6046,16,7
+49005,"Utah","Cache",4644,NA,4812,16,6
+49007,"Utah","Carbon",9516,NA,NA,19,10
+49011,"Utah","Davis",5170,8154,5133,15,7
+49013,"Utah","Duchesne",9855,NA,NA,19,7
+49015,"Utah","Emery",8343,NA,NA,17,6
+49017,"Utah","Garfield",9210,NA,NA,17,7
+49019,"Utah","Grand",8016,NA,NA,16,6
+49021,"Utah","Iron",6324,NA,NA,18,8
+49023,"Utah","Juab",6951,NA,NA,18,6
+49025,"Utah","Kane",6269,NA,NA,16,7
+49027,"Utah","Millard",7498,NA,NA,19,8
+49029,"Utah","Morgan",4121,NA,NA,12,7
+49035,"Utah","Salt Lake",6300,9472,6347,16,8
+49037,"Utah","San Juan",12401,NA,NA,25,7
+49039,"Utah","Sanpete",6368,NA,NA,19,8
+49041,"Utah","Sevier",7993,NA,NA,18,8
+49043,"Utah","Summit",3649,NA,NA,11,9
+49045,"Utah","Tooele",6614,NA,6231,17,8
+49047,"Utah","Uintah",9796,NA,8732,20,8
+49049,"Utah","Utah",5203,7851,5328,14,6
+49051,"Utah","Wasatch",4126,NA,NA,13,7
+49053,"Utah","Washington",5991,NA,5827,16,7
+49057,"Utah","Weber",6878,11854,6845,18,8
+50001,"Vermont","Addison",4970,NA,NA,12,6
+50003,"Vermont","Bennington",7927,NA,NA,14,8
+50005,"Vermont","Caledonia",7893,NA,NA,16,7
+50007,"Vermont","Chittenden",4863,8559,4754,12,6
+50009,"Vermont","Essex",6817,NA,NA,18,5
+50011,"Vermont","Franklin",6388,NA,NA,14,6
+50015,"Vermont","Lamoille",5471,NA,NA,14,6
+50017,"Vermont","Orange",5878,NA,NA,14,8
+50019,"Vermont","Orleans",8095,NA,NA,16,8
+50021,"Vermont","Rutland",8330,NA,NA,14,7
+50023,"Vermont","Washington",6379,NA,NA,13,7
+50025,"Vermont","Windham",8472,NA,NA,14,7
+50027,"Vermont","Windsor",7661,NA,NA,13,7
+51001,"Virginia","Accomack",10231,12972,9277,24,10
+51003,"Virginia","Albemarle",4802,8666,4446,14,6
+51005,"Virginia","Alleghany",9732,NA,NA,22,8
+51007,"Virginia","Amelia",10961,NA,NA,20,7
+51009,"Virginia","Amherst",8640,9675,8615,20,8
+51011,"Virginia","Appomattox",8444,9945,7915,20,9
+51013,"Virginia","Arlington",3090,6276,2563,11,7
+51015,"Virginia","Augusta",6668,NA,NA,18,6
+51019,"Virginia","Bedford",6481,6788,6749,16,7
+51021,"Virginia","Bland",9180,NA,NA,19,9
+51023,"Virginia","Botetourt",5749,NA,NA,16,7
+51025,"Virginia","Brunswick",9462,10422,8777,26,12
+51027,"Virginia","Buchanan",11825,NA,NA,28,9
+51029,"Virginia","Buckingham",7876,12030,5614,24,9
+51031,"Virginia","Campbell",7304,8348,7411,20,8
+51033,"Virginia","Caroline",8475,8549,8944,20,9
+51035,"Virginia","Carroll",7446,NA,NA,21,7
+51036,"Virginia","Charles City",9776,NA,NA,23,11
+51037,"Virginia","Charlotte",11264,13829,10555,25,11
+51041,"Virginia","Chesterfield",6858,8080,6789,17,8
+51043,"Virginia","Clarke",6411,NA,NA,16,6
+51047,"Virginia","Culpeper",7032,10853,6634,19,7
+51049,"Virginia","Cumberland",8754,NA,NA,22,9
+51051,"Virginia","Dickenson",13627,NA,NA,26,8
+51053,"Virginia","Dinwiddie",9185,9310,9500,21,10
+51057,"Virginia","Essex",10478,13320,8156,24,14
+51059,"Virginia","Fairfax",3516,5190,3464,13,7
+51061,"Virginia","Fauquier",6369,11717,6084,14,6
+51063,"Virginia","Floyd",8271,NA,NA,19,7
+51065,"Virginia","Fluvanna",6772,9133,6005,15,7
+51067,"Virginia","Franklin",8890,11102,8936,20,8
+51069,"Virginia","Frederick",6551,NA,6887,17,7
+51071,"Virginia","Giles",11116,NA,NA,19,9
+51073,"Virginia","Gloucester",7665,NA,NA,17,7
+51075,"Virginia","Goochland",6212,9385,5780,15,6
+51077,"Virginia","Grayson",8347,NA,NA,24,7
+51079,"Virginia","Greene",5514,NA,NA,18,6
+51081,"Virginia","Greensville",9450,9246,10018,26,12
+51083,"Virginia","Halifax",11056,14029,9551,22,11
+51085,"Virginia","Hanover",6247,9974,6050,14,7
+51087,"Virginia","Henrico",6688,8341,6346,16,8
+51089,"Virginia","Henry",11896,12138,12485,24,9
+51093,"Virginia","Isle of Wight",6803,10166,5925,18,8
+51095,"Virginia","James City",5422,7628,4956,14,8
+51097,"Virginia","King and Queen",11959,NA,NA,19,10
+51099,"Virginia","King George",7912,9343,7777,16,8
+51101,"Virginia","King William",8117,NA,NA,17,7
+51103,"Virginia","Lancaster",11611,14846,10781,19,12
+51105,"Virginia","Lee",11642,NA,NA,26,10
+51107,"Virginia","Loudoun",3195,5030,3436,12,7
+51109,"Virginia","Louisa",8765,12237,8394,20,7
+51111,"Virginia","Lunenburg",10790,17745,7689,25,14
+51113,"Virginia","Madison",9838,NA,NA,19,7
+51115,"Virginia","Mathews",7999,NA,NA,17,9
+51117,"Virginia","Mecklenburg",10986,15413,9018,23,10
+51119,"Virginia","Middlesex",10203,NA,NA,19,9
+51121,"Virginia","Montgomery",5544,NA,NA,17,7
+51125,"Virginia","Nelson",7496,NA,NA,19,7
+51127,"Virginia","New Kent",7245,NA,NA,16,8
+51131,"Virginia","Northampton",11568,14613,11477,23,9
+51133,"Virginia","Northumberland",6303,8590,5812,19,12
+51135,"Virginia","Nottoway",9183,11769,7892,25,11
+51137,"Virginia","Orange",8379,11589,7890,18,8
+51139,"Virginia","Page",8760,NA,NA,21,8
+51141,"Virginia","Patrick",10679,NA,NA,22,8
+51143,"Virginia","Pittsylvania",11039,14044,10454,22,8
+51145,"Virginia","Powhatan",6132,NA,NA,16,6
+51147,"Virginia","Prince Edward",9102,12687,7078,22,11
+51149,"Virginia","Prince George",6092,5284,7492,19,8
+51153,"Virginia","Prince William",5029,6759,5283,17,7
+51155,"Virginia","Pulaski",9535,NA,NA,19,8
+51157,"Virginia","Rappahannock",7186,NA,NA,16,7
+51159,"Virginia","Richmond",9316,13758,6968,24,10
+51161,"Virginia","Roanoke",6905,10220,6871,16,7
+51163,"Virginia","Rockbridge",7463,NA,NA,19,7
+51165,"Virginia","Rockingham",6331,NA,NA,18,6
+51167,"Virginia","Russell",9836,NA,NA,23,9
+51169,"Virginia","Scott",10016,NA,NA,22,7
+51171,"Virginia","Shenandoah",7259,NA,NA,19,8
+51173,"Virginia","Smyth",12274,NA,NA,22,9
+51175,"Virginia","Southampton",8239,9455,7502,21,11
+51177,"Virginia","Spotsylvania",7065,6921,7738,17,8
+51179,"Virginia","Stafford",5767,6414,6118,15,8
+51181,"Virginia","Surry",6597,NA,NA,22,10
+51183,"Virginia","Sussex",10787,9809,12091,24,13
+51185,"Virginia","Tazewell",13030,NA,NA,22,10
+51187,"Virginia","Warren",9231,NA,NA,18,7
+51191,"Virginia","Washington",9501,NA,NA,19,8
+51193,"Virginia","Westmoreland",8576,7852,9797,21,11
+51195,"Virginia","Wise",12082,NA,NA,25,10
+51197,"Virginia","Wythe",9758,NA,NA,20,8
+51199,"Virginia","York",5259,6292,5507,14,7
+51510,"Virginia","Alexandria City",3867,6551,2836,14,7
+51520,"Virginia","Bristol City",11162,NA,NA,22,8
+51530,"Virginia","Buena Vista City",9170,NA,NA,25,8
+51540,"Virginia","Charlottesville City",5438,11584,3945,18,7
+51550,"Virginia","Chesapeake City",6900,8430,6415,17,9
+51570,"Virginia","Colonial Heights City",11979,13071,12262,19,9
+51580,"Virginia","Covington City",16046,NA,NA,21,11
+51590,"Virginia","Danville City",13819,14324,14016,26,14
+51595,"Virginia","Emporia City",20540,NA,NA,31,11
+51600,"Virginia","Fairfax City",7683,NA,8930,14,6
+51610,"Virginia","Falls Church City",4413,NA,NA,10,5
+51620,"Virginia","Franklin City",15199,NA,NA,24,13
+51630,"Virginia","Fredericksburg City",8312,11646,7930,19,9
+51640,"Virginia","Galax City",17029,NA,NA,28,11
+51650,"Virginia","Hampton City",9416,9969,9457,20,10
+51660,"Virginia","Harrisonburg City",5295,NA,5647,24,7
+51670,"Virginia","Hopewell City",15742,15544,17129,27,14
+51678,"Virginia","Lexington City",9329,NA,NA,19,6
+51680,"Virginia","Lynchburg City",9531,13339,7952,21,8
+51683,"Virginia","Manassas City",6827,9191,7329,20,7
+51690,"Virginia","Martinsville City",17250,18266,18601,25,12
+51700,"Virginia","Newport News City",9416,12517,7782,21,10
+51710,"Virginia","Norfolk City",9609,13461,7294,22,11
+51720,"Virginia","Norton City",13955,NA,NA,23,10
+51730,"Virginia","Petersburg City",21408,20150,30534,27,11
+51735,"Virginia","Poquoson City",6405,NA,NA,14,5
+51740,"Virginia","Portsmouth City",11778,13746,9453,23,12
+51750,"Virginia","Radford City",6359,NA,NA,22,11
+51760,"Virginia","Richmond City",9526,14232,4929,22,11
+51770,"Virginia","Roanoke City",12578,15169,12434,23,10
+51775,"Virginia","Salem City",8734,NA,NA,17,7
+51790,"Virginia","Staunton City",8366,9394,8580,17,8
+51800,"Virginia","Suffolk City",7887,9290,6987,19,9
+51810,"Virginia","Virginia Beach City",6178,8442,5973,16,8
+51820,"Virginia","Waynesboro City",9452,NA,NA,21,9
+51830,"Virginia","Williamsburg City",5946,NA,NA,17,6
+51840,"Virginia","Winchester City",8242,10377,9185,20,8
+53001,"Washington","Adams",5954,NA,8703,30,7
+53003,"Washington","Asotin",8006,NA,NA,17,6
+53005,"Washington","Benton",5950,9028,6144,17,6
+53007,"Washington","Chelan",5511,NA,6220,19,6
+53009,"Washington","Clallam",7590,NA,7395,17,6
+53011,"Washington","Clark",5883,9392,5974,16,6
+53015,"Washington","Cowlitz",7794,NA,7855,19,6
+53017,"Washington","Douglas",4377,NA,4589,21,6
+53019,"Washington","Ferry",10805,NA,NA,21,7
+53021,"Washington","Franklin",5264,NA,5521,24,6
+53025,"Washington","Grant",7185,NA,7723,24,6
+53027,"Washington","Grays Harbor",9129,NA,8528,19,8
+53029,"Washington","Island",5659,NA,5865,14,5
+53031,"Washington","Jefferson",7154,NA,NA,14,5
+53033,"Washington","King",4709,8930,4541,13,7
+53035,"Washington","Kitsap",5878,8435,5978,15,6
+53037,"Washington","Kittitas",5235,NA,NA,18,7
+53039,"Washington","Klickitat",6636,NA,NA,18,8
+53041,"Washington","Lewis",8131,NA,8143,19,6
+53043,"Washington","Lincoln",6990,NA,NA,17,6
+53045,"Washington","Mason",7030,NA,6924,19,6
+53047,"Washington","Okanogan",7984,NA,6881,23,7
+53049,"Washington","Pacific",7645,NA,NA,20,7
+53051,"Washington","Pend Oreille",10654,NA,NA,18,7
+53053,"Washington","Pierce",6683,9902,6418,17,7
+53055,"Washington","San Juan",3710,NA,NA,13,3
+53057,"Washington","Skagit",5809,NA,6236,18,6
+53059,"Washington","Skamania",6874,NA,NA,17,7
+53061,"Washington","Snohomish",5560,6060,5953,15,6
+53063,"Washington","Spokane",6849,10590,6780,17,7
+53065,"Washington","Stevens",6885,NA,NA,18,6
+53067,"Washington","Thurston",5800,6257,5854,15,6
+53071,"Washington","Walla Walla",6028,NA,5980,18,6
+53073,"Washington","Whatcom",5397,NA,5124,16,6
+53075,"Washington","Whitman",4845,NA,NA,17,5
+53077,"Washington","Yakima",8433,11080,8723,26,7
+54001,"West Virginia","Barbour",10322,NA,NA,26,8
+54003,"West Virginia","Berkeley",10210,13175,10205,22,8
+54005,"West Virginia","Boone",14934,NA,NA,29,12
+54007,"West Virginia","Braxton",9903,NA,NA,28,9
+54009,"West Virginia","Brooke",8602,NA,NA,22,9
+54011,"West Virginia","Cabell",15316,20318,15229,24,11
+54013,"West Virginia","Calhoun",8322,NA,NA,29,10
+54015,"West Virginia","Clay",14674,NA,NA,30,9
+54017,"West Virginia","Doddridge",8987,NA,NA,25,9
+54019,"West Virginia","Fayette",13034,NA,NA,28,10
+54021,"West Virginia","Gilmer",8095,NA,NA,26,7
+54023,"West Virginia","Grant",9502,NA,NA,26,9
+54025,"West Virginia","Greenbrier",10904,NA,NA,25,9
+54027,"West Virginia","Hampshire",12205,NA,NA,25,9
+54029,"West Virginia","Hancock",10681,NA,NA,24,9
+54031,"West Virginia","Hardy",10495,NA,NA,26,9
+54033,"West Virginia","Harrison",10164,NA,NA,23,10
+54035,"West Virginia","Jackson",9177,NA,NA,23,8
+54037,"West Virginia","Jefferson",8096,11363,8118,20,8
+54039,"West Virginia","Kanawha",13389,17082,13398,23,10
+54041,"West Virginia","Lewis",11419,NA,NA,26,10
+54043,"West Virginia","Lincoln",15465,NA,NA,29,11
+54045,"West Virginia","Logan",18496,NA,NA,31,11
+54047,"West Virginia","McDowell",19792,NA,NA,38,11
+54049,"West Virginia","Marion",9196,NA,NA,24,10
+54051,"West Virginia","Marshall",9529,NA,NA,23,9
+54053,"West Virginia","Mason",12334,NA,NA,26,10
+54055,"West Virginia","Mercer",14322,19859,14197,27,11
+54057,"West Virginia","Mineral",9425,NA,NA,23,9
+54059,"West Virginia","Mingo",16131,NA,NA,32,12
+54061,"West Virginia","Monongalia",6420,9790,6429,21,8
+54063,"West Virginia","Monroe",8559,NA,NA,26,8
+54065,"West Virginia","Morgan",10843,NA,NA,23,9
+54067,"West Virginia","Nicholas",11104,NA,NA,25,10
+54069,"West Virginia","Ohio",10875,NA,NA,21,8
+54071,"West Virginia","Pendleton",9505,NA,NA,26,8
+54073,"West Virginia","Pleasants",6759,NA,NA,23,7
+54075,"West Virginia","Pocahontas",12862,NA,NA,27,6
+54077,"West Virginia","Preston",9348,NA,NA,24,10
+54079,"West Virginia","Putnam",8713,NA,NA,20,7
+54081,"West Virginia","Raleigh",14848,14053,15133,26,10
+54083,"West Virginia","Randolph",9066,NA,NA,26,8
+54085,"West Virginia","Ritchie",9768,NA,NA,27,8
+54087,"West Virginia","Roane",13105,NA,NA,28,11
+54089,"West Virginia","Summers",13135,NA,NA,27,9
+54091,"West Virginia","Taylor",9276,NA,NA,24,11
+54093,"West Virginia","Tucker",9635,NA,NA,23,9
+54095,"West Virginia","Tyler",9435,NA,NA,24,9
+54097,"West Virginia","Upshur",7942,NA,NA,27,7
+54099,"West Virginia","Wayne",13283,NA,NA,28,10
+54101,"West Virginia","Webster",11726,NA,NA,30,10
+54103,"West Virginia","Wetzel",9852,NA,NA,26,9
+54105,"West Virginia","Wirt",10750,NA,NA,28,10
+54107,"West Virginia","Wood",10513,NA,NA,23,9
+54109,"West Virginia","Wyoming",14249,NA,NA,29,12
+55001,"Wisconsin","Adams",10459,NA,NA,18,8
+55003,"Wisconsin","Ashland",9014,NA,NA,18,6
+55005,"Wisconsin","Barron",6657,NA,NA,16,6
+55007,"Wisconsin","Bayfield",7121,NA,NA,15,5
+55009,"Wisconsin","Brown",5936,15855,5293,15,7
+55011,"Wisconsin","Buffalo",4682,NA,NA,15,6
+55013,"Wisconsin","Burnett",8797,NA,NA,16,5
+55015,"Wisconsin","Calumet",4691,NA,NA,13,6
+55017,"Wisconsin","Chippewa",5898,NA,NA,15,6
+55019,"Wisconsin","Clark",7050,NA,NA,18,5
+55021,"Wisconsin","Columbia",5982,NA,NA,14,6
+55023,"Wisconsin","Crawford",6540,NA,NA,16,6
+55025,"Wisconsin","Dane",4935,12213,4625,12,7
+55027,"Wisconsin","Dodge",6659,NA,NA,15,7
+55029,"Wisconsin","Door",4999,NA,NA,13,7
+55031,"Wisconsin","Douglas",7490,NA,NA,15,6
+55033,"Wisconsin","Dunn",5666,NA,NA,15,6
+55035,"Wisconsin","Eau Claire",5677,NA,NA,14,7
+55039,"Wisconsin","Fond du Lac",6284,NA,NA,15,7
+55041,"Wisconsin","Forest",11709,NA,NA,19,8
+55043,"Wisconsin","Grant",6178,NA,NA,16,6
+55045,"Wisconsin","Green",5911,NA,NA,14,6
+55047,"Wisconsin","Green Lake",6940,NA,NA,17,7
+55049,"Wisconsin","Iowa",4846,NA,NA,13,7
+55053,"Wisconsin","Jackson",9051,NA,8527,17,5
+55055,"Wisconsin","Jefferson",5920,NA,5973,14,6
+55057,"Wisconsin","Juneau",7899,NA,NA,18,8
+55059,"Wisconsin","Kenosha",6754,12723,6639,16,8
+55061,"Wisconsin","Kewaunee",6022,NA,NA,14,6
+55063,"Wisconsin","La Crosse",5988,17589,5946,13,7
+55065,"Wisconsin","Lafayette",6519,NA,NA,16,6
+55067,"Wisconsin","Langlade",6646,NA,NA,17,8
+55069,"Wisconsin","Lincoln",6893,NA,NA,15,8
+55071,"Wisconsin","Manitowoc",6990,NA,NA,15,8
+55073,"Wisconsin","Marathon",5460,NA,5369,14,7
+55075,"Wisconsin","Marinette",7740,NA,NA,16,7
+55077,"Wisconsin","Marquette",7503,NA,NA,16,6
+55078,"Wisconsin","Menominee",17568,NA,NA,27,6
+55079,"Wisconsin","Milwaukee",9638,16286,7463,19,11
+55081,"Wisconsin","Monroe",6967,NA,NA,16,7
+55083,"Wisconsin","Oconto",6221,NA,NA,15,8
+55085,"Wisconsin","Oneida",6389,NA,NA,14,6
+55087,"Wisconsin","Outagamie",5691,11320,5337,13,7
+55089,"Wisconsin","Ozaukee",4218,NA,NA,11,6
+55091,"Wisconsin","Pepin",6232,NA,NA,15,6
+55093,"Wisconsin","Pierce",4061,NA,NA,13,5
+55095,"Wisconsin","Polk",6890,NA,NA,14,6
+55097,"Wisconsin","Portage",5065,NA,NA,14,7
+55099,"Wisconsin","Price",6169,NA,NA,16,7
+55101,"Wisconsin","Racine",7737,14308,6812,16,8
+55103,"Wisconsin","Richland",6147,NA,NA,16,6
+55105,"Wisconsin","Rock",7598,14512,7413,16,8
+55107,"Wisconsin","Rusk",7908,NA,NA,17,4
+55109,"Wisconsin","St. Croix",4653,NA,NA,12,6
+55111,"Wisconsin","Sauk",6147,NA,NA,15,6
+55113,"Wisconsin","Sawyer",9934,NA,6731,18,6
+55115,"Wisconsin","Shawano",7167,NA,6657,16,7
+55117,"Wisconsin","Sheboygan",6191,11227,5927,14,6
+55119,"Wisconsin","Taylor",4957,NA,NA,17,5
+55121,"Wisconsin","Trempealeau",6264,NA,NA,15,7
+55123,"Wisconsin","Vernon",6249,NA,NA,17,5
+55125,"Wisconsin","Vilas",9496,NA,7866,15,8
+55127,"Wisconsin","Walworth",6473,NA,6677,14,6
+55129,"Wisconsin","Washburn",6210,NA,NA,15,6
+55131,"Wisconsin","Washington",5099,NA,NA,12,6
+55133,"Wisconsin","Waukesha",4888,8450,4888,11,6
+55135,"Wisconsin","Waupaca",6934,NA,NA,15,6
+55137,"Wisconsin","Waushara",6204,NA,NA,17,7
+55139,"Wisconsin","Winnebago",6262,10853,6150,14,7
+55141,"Wisconsin","Wood",7311,NA,NA,15,7
+56001,"Wyoming","Albany",5134,NA,NA,16,9
+56003,"Wyoming","Big Horn",9097,NA,NA,18,7
+56005,"Wyoming","Campbell",7700,NA,NA,16,10
+56007,"Wyoming","Carbon",7527,NA,NA,19,10
+56009,"Wyoming","Converse",6438,NA,NA,16,9
+56011,"Wyoming","Crook",7132,NA,NA,15,8
+56013,"Wyoming","Fremont",14218,NA,8709,17,9
+56015,"Wyoming","Goshen",8275,NA,NA,16,8
+56017,"Wyoming","Hot Springs",13847,NA,NA,17,7
+56019,"Wyoming","Johnson",5794,NA,NA,15,8
+56021,"Wyoming","Laramie",7760,NA,7590,16,10
+56023,"Wyoming","Lincoln",7532,NA,NA,15,8
+56025,"Wyoming","Natrona",8582,NA,8568,16,10
+56029,"Wyoming","Park",6199,NA,NA,13,8
+56031,"Wyoming","Platte",10456,NA,NA,17,8
+56033,"Wyoming","Sheridan",6431,NA,NA,14,7
+56035,"Wyoming","Sublette",7961,NA,NA,15,8
+56037,"Wyoming","Sweetwater",8419,NA,8621,16,10
+56039,"Wyoming","Teton",3283,NA,NA,12,8
+56041,"Wyoming","Uinta",9358,NA,NA,17,10
+56043,"Wyoming","Washakie",7074,NA,NA,17,7
+56045,"Wyoming","Weston",5149,NA,NA,16,7
