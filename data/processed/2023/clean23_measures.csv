@@ -1,0 +1,3143 @@
+"FIPS","State","County","Median.Household.Income","X..Uninsured","X..Rural","Year"
+1001,"Alabama","Autauga",66444,4434,42,2023
+1003,"Alabama","Baldwin",65658,17707,42.3,2023
+1005,"Alabama","Barbour",38649,2169,67.8,2023
+1007,"Alabama","Bibb",48454,1937,68.4,2023
+1009,"Alabama","Blount",56894,5607,90,2023
+1011,"Alabama","Bullock",32027,730,51.4,2023
+1013,"Alabama","Butler",39442,1841,71.2,2023
+1015,"Alabama","Calhoun",48166,10729,33.7,2023
+1017,"Alabama","Chambers",45447,3076,49.1,2023
+1019,"Alabama","Cherokee",46365,2338,85.7,2023
+1021,"Alabama","Chilton",55142,5003,86.7,2023
+1023,"Alabama","Choctaw",40601,1056,100,2023
+1025,"Alabama","Clarke",45447,2234,76,2023
+1027,"Alabama","Clay",47036,1310,100,2023
+1029,"Alabama","Cleburne",49769,1424,100,2023
+1031,"Alabama","Coffee",55052,5305,47.2,2023
+1033,"Alabama","Colbert",53341,4159,43.9,2023
+1035,"Alabama","Conecuh",35621,912,80.9,2023
+1037,"Alabama","Coosa",45954,822,100,2023
+1039,"Alabama","Covington",44188,3159,69.7,2023
+1041,"Alabama","Crenshaw",38037,1245,100,2023
+1043,"Alabama","Cullman",55036,8613,73.2,2023
+1045,"Alabama","Dale",50086,4996,50.9,2023
+1047,"Alabama","Dallas",33159,2932,45.6,2023
+1049,"Alabama","DeKalb",45062,10043,90.1,2023
+1051,"Alabama","Elmore",63147,6396,54.2,2023
+1053,"Alabama","Escambia",40506,3552,63.5,2023
+1055,"Alabama","Etowah",46308,10279,37.5,2023
+1057,"Alabama","Fayette",46122,1573,80.2,2023
+1059,"Alabama","Franklin",45440,3677,70.4,2023
+1061,"Alabama","Geneva",43206,2865,89.6,2023
+1063,"Alabama","Greene",30225,597,100,2023
+1065,"Alabama","Hale",41995,1143,89.2,2023
+1067,"Alabama","Henry",56389,1403,87.8,2023
+1069,"Alabama","Houston",48701,10521,33.8,2023
+1071,"Alabama","Jackson",46998,4704,77,2023
+1073,"Alabama","Jefferson",55210,48016,9.8,2023
+1075,"Alabama","Lamar",44265,1131,100,2023
+1077,"Alabama","Lauderdale",52222,7824,49.3,2023
+1079,"Alabama","Lawrence",55555,3603,91.3,2023
+1081,"Alabama","Lee",54188,13733,27.4,2023
+1083,"Alabama","Limestone",69207,9237,57.6,2023
+1085,"Alabama","Lowndes",36993,776,100,2023
+1087,"Alabama","Macon",35354,1490,55.5,2023
+1089,"Alabama","Madison",78386,28605,16.4,2023
+1091,"Alabama","Marengo",42048,1445,69.3,2023
+1093,"Alabama","Marion",44636,2584,88.9,2023
+1095,"Alabama","Marshall",50858,11016,53.3,2023
+1097,"Alabama","Mobile",49848,37270,20,2023
+1099,"Alabama","Monroe",40997,1919,79,2023
+1101,"Alabama","Montgomery",50645,19760,10.5,2023
+1103,"Alabama","Morgan",56340,12712,38.6,2023
+1105,"Alabama","Perry",31522,670,100,2023
+1107,"Alabama","Pickens",43926,1568,100,2023
+1109,"Alabama","Pike",38945,2954,51.7,2023
+1111,"Alabama","Randolph",45889,2087,81.3,2023
+1113,"Alabama","Russell",44849,5330,35.4,2023
+1115,"Alabama","St. Clair",63015,7799,72.8,2023
+1117,"Alabama","Shelby",85457,15429,22.9,2023
+1119,"Alabama","Sumter",29490,980,100,2023
+1121,"Alabama","Talladega",47331,6525,55.8,2023
+1123,"Alabama","Tallapoosa",47444,3762,74.2,2023
+1125,"Alabama","Tuscaloosa",56274,16181,25.5,2023
+1127,"Alabama","Walker",46343,5244,74.1,2023
+1129,"Alabama","Washington",49795,1604,100,2023
+1131,"Alabama","Wilcox",30071,846,100,2023
+1133,"Alabama","Winston",47176,2241,84.9,2023
+2013,"Alaska","Aleutians East",71492,609,100,2023
+2016,"Alaska","Aleutians West",86050,931,100,2023
+2020,"Alaska","Anchorage",86152,22973,4.1,2023
+2050,"Alaska","Bethel",54849,2690,73.9,2023
+2060,"Alaska","Bristol Bay",88516,90,100,2023
+2068,"Alaska","Denali",85251,178,100,2023
+2070,"Alaska","Dillingham",58389,598,100,2023
+2090,"Alaska","Fairbanks North Star",76754,8190,30.9,2023
+2100,"Alaska","Haines",63155,205,100,2023
+2105,"Alaska","Hoonah-Angoon",56555,266,NA,2023
+2110,"Alaska","Juneau",89922,2341,21.5,2023
+2122,"Alaska","Kenai Peninsula",71111,5485,79.3,2023
+2130,"Alaska","Ketchikan Gateway",73260,1339,23.2,2023
+2150,"Alaska","Kodiak Island",80863,1753,31.3,2023
+2158,"Alaska","Kusilvak",38203,1186,NA,2023
+2164,"Alaska","Lake and Peninsula",51205,220,100,2023
+2170,"Alaska","Matanuska-Susitna",80164,9819,50.3,2023
+2180,"Alaska","Nome",65578,1201,66.1,2023
+2185,"Alaska","North Slope",95041,989,59.3,2023
+2188,"Alaska","Northwest Arctic",67586,1008,57.5,2023
+2195,"Alaska","Petersburg",71878,331,NA,2023
+2198,"Alaska","Prince of Wales-Hyder",56226,844,NA,2023
+2220,"Alaska","Sitka",78248,802,20.9,2023
+2230,"Alaska","Skagway",65712,125,NA,2023
+2240,"Alaska","Southeast Fairbanks",68347,801,100,2023
+2261,"Alaska","Valdez-Cordova",NA,942,100,2023
+2275,"Alaska","Wrangell",64732,278,NA,2023
+2282,"Alaska","Yakutat",73014,93,100,2023
+2290,"Alaska","Yukon-Koyukuk",44934,754,100,2023
+4001,"Arizona","Apache",41002,9177,74.1,2023
+4003,"Arizona","Cochise",55748,9232,36.3,2023
+4005,"Arizona","Coconino",63829,14735,31.5,2023
+4007,"Arizona","Gila",52665,4185,41.1,2023
+4009,"Arizona","Graham",52644,3484,46.4,2023
+4011,"Arizona","Greenlee",71669,591,46.6,2023
+4012,"Arizona","La Paz",44330,2029,56.3,2023
+4013,"Arizona","Maricopa",76230,416271,2.4,2023
+4015,"Arizona","Mohave",48169,17646,23,2023
+4017,"Arizona","Navajo",49057,11941,54.1,2023
+4019,"Arizona","Pima",60604,83234,7.5,2023
+4021,"Arizona","Pinal",70835,36487,21.9,2023
+4023,"Arizona","Santa Cruz",49216,5692,26.9,2023
+4025,"Arizona","Yavapai",57676,17959,33.2,2023
+4027,"Arizona","Yuma",55991,22290,10.4,2023
+5001,"Arkansas","Arkansas",50928,963,34.7,2023
+5003,"Arkansas","Ashley",44030,1347,51.7,2023
+5005,"Arkansas","Baxter",45116,2440,65.8,2023
+5007,"Arkansas","Benton",78974,21937,25.2,2023
+5009,"Arkansas","Boone",48700,2705,62.2,2023
+5011,"Arkansas","Bradley",40454,926,49.6,2023
+5013,"Arkansas","Calhoun",49977,328,100,2023
+5015,"Arkansas","Carroll",49225,2677,72.8,2023
+5017,"Arkansas","Chicot",34857,500,54.3,2023
+5019,"Arkansas","Clark",47158,1355,54.4,2023
+5021,"Arkansas","Clay",41419,960,58.9,2023
+5023,"Arkansas","Cleburne",50200,1374,75.5,2023
+5025,"Arkansas","Cleveland",53705,453,100,2023
+5027,"Arkansas","Columbia",44651,1456,57.5,2023
+5029,"Arkansas","Conway",47741,1197,70.5,2023
+5031,"Arkansas","Craighead",52490,7453,32.2,2023
+5033,"Arkansas","Crawford",54065,5534,52,2023
+5035,"Arkansas","Crittenden",43821,3083,20.9,2023
+5037,"Arkansas","Cross",45262,1033,56.8,2023
+5039,"Arkansas","Dallas",42442,417,52.6,2023
+5041,"Arkansas","Desha",39042,784,31.4,2023
+5043,"Arkansas","Drew",46572,1124,48.6,2023
+5045,"Arkansas","Faulkner",57573,8175,38.8,2023
+5047,"Arkansas","Franklin",47834,1261,82.6,2023
+5049,"Arkansas","Fulton",41557,720,92.9,2023
+5051,"Arkansas","Garland",48053,6921,36.9,2023
+5053,"Arkansas","Grant",67088,1001,75,2023
+5055,"Arkansas","Greene",53920,2685,41.5,2023
+5057,"Arkansas","Hempstead",41281,1660,55.8,2023
+5059,"Arkansas","Hot Spring",51662,1945,66,2023
+5061,"Arkansas","Howard",42733,979,67.5,2023
+5063,"Arkansas","Independence",48957,2580,68.6,2023
+5065,"Arkansas","Izard",40788,680,100,2023
+5067,"Arkansas","Jackson",37815,888,65.1,2023
+5069,"Arkansas","Jefferson",46100,3309,30.9,2023
+5071,"Arkansas","Johnson",43003,2337,71.4,2023
+5073,"Arkansas","Lafayette",38777,497,100,2023
+5075,"Arkansas","Lawrence",44661,994,63.6,2023
+5077,"Arkansas","Lee",29714,345,63.5,2023
+5079,"Arkansas","Lincoln",45435,543,100,2023
+5081,"Arkansas","Little River",46619,696,68.5,2023
+5083,"Arkansas","Logan",45558,1339,71,2023
+5085,"Arkansas","Lonoke",64633,4281,44.8,2023
+5087,"Arkansas","Madison",49691,1350,100,2023
+5089,"Arkansas","Marion",42892,1003,100,2023
+5091,"Arkansas","Miller",45450,2793,40,2023
+5093,"Arkansas","Mississippi",41007,2827,36.3,2023
+5095,"Arkansas","Monroe",37113,375,69,2023
+5097,"Arkansas","Montgomery",41359,755,100,2023
+5099,"Arkansas","Nevada",40283,441,69.2,2023
+5101,"Arkansas","Newton",41823,361,100,2023
+5103,"Arkansas","Ouachita",47169,1299,56.4,2023
+5105,"Arkansas","Perry",51204,657,100,2023
+5107,"Arkansas","Phillips",32419,932,48,2023
+5109,"Arkansas","Pike",43710,847,100,2023
+5111,"Arkansas","Poinsett",42639,1421,71.1,2023
+5113,"Arkansas","Polk",43166,1700,73.4,2023
+5115,"Arkansas","Pope",47049,4795,54.5,2023
+5117,"Arkansas","Prairie",59367,502,100,2023
+5119,"Arkansas","Pulaski",53597,29137,12.3,2023
+5121,"Arkansas","Randolph",43484,1308,67.4,2023
+5123,"Arkansas","St. Francis",36781,1381,51.6,2023
+5125,"Arkansas","Saline",68107,6574,36.2,2023
+5127,"Arkansas","Scott",39974,764,70.4,2023
+5129,"Arkansas","Searcy",35422,492,100,2023
+5131,"Arkansas","Sebastian",49170,11889,20.8,2023
+5133,"Arkansas","Sevier",46651,2031,63.6,2023
+5135,"Arkansas","Sharp",39183,1168,80.1,2023
+5137,"Arkansas","Stone",37782,887,100,2023
+5139,"Arkansas","Union",47315,2492,54.5,2023
+5141,"Arkansas","Van Buren",39629,1019,100,2023
+5143,"Arkansas","Washington",64218,23914,25.5,2023
+5145,"Arkansas","White",51660,6314,54.3,2023
+5147,"Arkansas","Woodruff",37331,367,100,2023
+5149,"Arkansas","Yell",48526,2029,79.1,2023
+6001,"California","Alameda",108971,63054,0.4,2023
+6003,"California","Alpine",87570,76,100,2023
+6005,"California","Amador",68159,1408,60.4,2023
+6007,"California","Butte",62982,11101,18.9,2023
+6009,"California","Calaveras",68298,2087,75.4,2023
+6011,"California","Colusa",60725,1939,31.7,2023
+6013,"California","Contra Costa",110595,45924,0.8,2023
+6015,"California","Del Norte",48108,1221,33.7,2023
+6017,"California","El Dorado",87689,6947,34.7,2023
+6019,"California","Fresno",63140,67098,10.8,2023
+6021,"California","Glenn",56741,2395,40.9,2023
+6023,"California","Humboldt",53924,7460,29.8,2023
+6025,"California","Imperial",50970,11332,17.4,2023
+6027,"California","Inyo",62381,1138,46.4,2023
+6029,"California","Kern",57926,63177,10.2,2023
+6031,"California","Kings",60810,9205,10.9,2023
+6033,"California","Lake",55801,3244,33.1,2023
+6035,"California","Lassen",56923,708,70.5,2023
+6037,"California","Los Angeles",77356,790900,0.6,2023
+6039,"California","Madera",60241,11142,32.9,2023
+6041,"California","Marin",118472,6978,6.5,2023
+6043,"California","Mariposa",60377,845,100,2023
+6045,"California","Mendocino",57516,6328,45.2,2023
+6047,"California","Merced",54703,21784,14.3,2023
+6049,"California","Modoc",49273,455,70,2023
+6051,"California","Mono",70945,1136,45.8,2023
+6053,"California","Monterey",81404,34358,9.8,2023
+6055,"California","Napa",94127,7924,13.4,2023
+6057,"California","Nevada",77220,3819,42.1,2023
+6059,"California","Orange",100210,183042,0.1,2023
+6061,"California","Placer",103588,12470,13.8,2023
+6063,"California","Plumas",58154,703,74,2023
+6065,"California","Riverside",78690,174793,4.6,2023
+6067,"California","Sacramento",79611,76008,2.1,2023
+6069,"California","San Benito",95187,3831,24,2023
+6071,"California","San Bernardino",74218,146106,4.7,2023
+6073,"California","San Diego",90756,201226,3.3,2023
+6075,"California","San Francisco",119776,32888,0,2023
+6077,"California","San Joaquin",79598,45198,8.5,2023
+6079,"California","San Luis Obispo",79688,12767,16.6,2023
+6081,"California","San Mateo",131151,24843,1.9,2023
+6083,"California","Santa Barbara",83185,37111,5,2023
+6085,"California","Santa Clara",141161,75242,1.1,2023
+6087,"California","Santa Cruz",90370,14875,12,2023
+6089,"California","Shasta",60187,8414,29.3,2023
+6091,"California","Sierra",60659,128,99.7,2023
+6093,"California","Siskiyou",50069,2097,65.8,2023
+6095,"California","Solano",87348,19682,3.7,2023
+6097,"California","Sonoma",92999,24138,12.4,2023
+6099,"California","Stanislaus",73151,30382,8,2023
+6101,"California","Sutter",63246,6334,14.8,2023
+6103,"California","Tehama",53654,3502,51.5,2023
+6105,"California","Trinity",45508,560,100,2023
+6107,"California","Tulare",57398,33013,15.5,2023
+6109,"California","Tuolumne",61396,2067,49,2023
+6111,"California","Ventura",95819,50932,3.1,2023
+6113,"California","Yolo",76247,9544,6.9,2023
+6115,"California","Yuba",60764,4645,26.2,2023
+8001,"Colorado","Adams",80831,49068,3.6,2023
+8003,"Colorado","Alamosa",51009,1600,36.9,2023
+8005,"Colorado","Arapahoe",84308,49562,1.6,2023
+8007,"Colorado","Archuleta",68025,1342,59.4,2023
+8009,"Colorado","Baca",44257,249,100,2023
+8011,"Colorado","Bent",37185,216,38,2023
+8013,"Colorado","Boulder",90327,16788,8.9,2023
+8014,"Colorado","Broomfield",106413,3153,0.6,2023
+8015,"Colorado","Chaffee",65987,1486,37.4,2023
+8017,"Colorado","Cheyenne",58544,132,100,2023
+8019,"Colorado","Clear Creek",78312,536,100,2023
+8021,"Colorado","Conejos",45931,611,100,2023
+8023,"Colorado","Costilla",35416,358,100,2023
+8025,"Colorado","Crowley",38049,157,100,2023
+8027,"Colorado","Custer",63505,315,100,2023
+8029,"Colorado","Delta",52403,2497,63.2,2023
+8031,"Colorado","Denver",81262,68241,0,2023
+8033,"Colorado","Dolores",55157,132,100,2023
+8035,"Colorado","Douglas",129839,12305,10.3,2023
+8037,"Colorado","Eagle",94928,6545,20,2023
+8039,"Colorado","Elbert",114853,1519,100,2023
+8041,"Colorado","El Paso",79094,45576,8.9,2023
+8043,"Colorado","Fremont",51732,2426,26.4,2023
+8045,"Colorado","Garfield",78940,7753,24.1,2023
+8047,"Colorado","Gilpin",82370,206,100,2023
+8049,"Colorado","Grand",78779,1539,82.6,2023
+8051,"Colorado","Gunnison",63872,1483,58.6,2023
+8053,"Colorado","Hinsdale",66213,77,100,2023
+8055,"Colorado","Huerfano",46798,312,56.1,2023
+8057,"Colorado","Jackson",55535,163,100,2023
+8059,"Colorado","Jefferson",94401,29046,6.9,2023
+8061,"Colorado","Kiowa",61430,67,100,2023
+8063,"Colorado","Kit Carson",56272,702,48.7,2023
+8065,"Colorado","Lake",64416,1193,31.1,2023
+8067,"Colorado","La Plata",74774,4612,59.9,2023
+8069,"Colorado","Larimer",78681,20449,11.7,2023
+8071,"Colorado","Las Animas",42708,1146,40.8,2023
+8073,"Colorado","Lincoln",51975,293,100,2023
+8075,"Colorado","Logan",53234,1526,29.2,2023
+8077,"Colorado","Mesa",63531,12636,12.7,2023
+8079,"Colorado","Mineral",62213,56,100,2023
+8081,"Colorado","Moffat",64133,1206,27.4,2023
+8083,"Colorado","Montezuma",53337,2556,67.2,2023
+8085,"Colorado","Montrose",56686,3888,45,2023
+8087,"Colorado","Morgan",61849,3185,32.5,2023
+8089,"Colorado","Otero",45658,1473,34.4,2023
+8091,"Colorado","Ouray",80686,323,100,2023
+8093,"Colorado","Park",84361,1165,100,2023
+8095,"Colorado","Phillips",56577,410,100,2023
+8097,"Colorado","Pitkin",96316,1146,44.2,2023
+8099,"Colorado","Prowers",48337,1224,37.9,2023
+8101,"Colorado","Pueblo",56311,10887,14.2,2023
+8103,"Colorado","Rio Blanco",65334,425,100,2023
+8105,"Colorado","Rio Grande",52353,1096,62.5,2023
+8107,"Colorado","Routt",93776,2003,45.2,2023
+8109,"Colorado","Saguache",43366,677,100,2023
+8111,"Colorado","San Juan",54146,82,100,2023
+8113,"Colorado","San Miguel",79742,773,100,2023
+8115,"Colorado","Sedgwick",45645,173,100,2023
+8117,"Colorado","Summit",90297,3513,19.5,2023
+8119,"Colorado","Teller",76715,1393,62.6,2023
+8121,"Colorado","Washington",57522,287,100,2023
+8123,"Colorado","Weld",84826,28612,20.5,2023
+8125,"Colorado","Yuma",56161,1076,64.9,2023
+9001,"Connecticut","Fairfield",100703,44153,4.6,2023
+9003,"Connecticut","Hartford",79958,30085,5.4,2023
+9005,"Connecticut","Litchfield",84689,5826,41.4,2023
+9007,"Connecticut","Middlesex",94735,4257,24.5,2023
+9009,"Connecticut","New Haven",75094,33069,3.6,2023
+9011,"Connecticut","New London",78552,9786,25.8,2023
+9013,"Connecticut","Tolland",86430,3651,38.2,2023
+9015,"Connecticut","Windham",71581,4221,49.8,2023
+10001,"Delaware","Kent",64670,10692,27,2023
+10003,"Delaware","New Castle",74088,28230,4.6,2023
+10005,"Delaware","Sussex",70500,12425,41.3,2023
+11001,"District of Columbia","District of Columbia",91072,19751,0,2023
+12001,"Florida","Alachua",56006,22284,21.2,2023
+12003,"Florida","Baker",60994,2443,59.5,2023
+12005,"Florida","Bay",60106,20110,12,2023
+12007,"Florida","Bradford",54911,2287,75.5,2023
+12009,"Florida","Brevard",65280,56654,5.1,2023
+12011,"Florida","Broward",65536,236547,0,2023
+12013,"Florida","Calhoun",43210,1362,67.5,2023
+12015,"Florida","Charlotte",59547,17432,8.9,2023
+12017,"Florida","Citrus",48237,12971,34.5,2023
+12019,"Florida","Clay",76711,20942,15,2023
+12021,"Florida","Collier",75799,39939,8.5,2023
+12023,"Florida","Columbia",52035,6553,62.1,2023
+12027,"Florida","DeSoto",43256,6016,46.2,2023
+12029,"Florida","Dixie",39029,1427,77,2023
+12031,"Florida","Duval",60121,95073,2.9,2023
+12033,"Florida","Escambia",54492,30878,8.3,2023
+12035,"Florida","Flagler",65783,10291,10.3,2023
+12037,"Florida","Franklin",44684,1180,68,2023
+12039,"Florida","Gadsden",45678,4959,65.4,2023
+12041,"Florida","Gilchrist",52168,1887,83.9,2023
+12043,"Florida","Glades",46389,1946,70.6,2023
+12045,"Florida","Gulf",51684,1265,77.1,2023
+12047,"Florida","Hamilton",39522,1214,63.5,2023
+12049,"Florida","Hardee",45964,3432,47.8,2023
+12051,"Florida","Hendry",48841,8331,37.9,2023
+12053,"Florida","Hernando",56443,20234,19.4,2023
+12055,"Florida","Highlands",47820,10935,21.1,2023
+12057,"Florida","Hillsborough",65818,143180,3.5,2023
+12059,"Florida","Holmes",44139,1952,78.8,2023
+12061,"Florida","Indian River",61351,16240,5,2023
+12063,"Florida","Jackson",42721,3721,75.4,2023
+12065,"Florida","Jefferson",56130,1263,100,2023
+12067,"Florida","Lafayette",45732,878,100,2023
+12069,"Florida","Lake",64662,37358,19.3,2023
+12071,"Florida","Lee",66426,92504,5.8,2023
+12073,"Florida","Leon",57246,23317,12.3,2023
+12075,"Florida","Levy",45494,4999,92,2023
+12077,"Florida","Liberty",48271,696,100,2023
+12079,"Florida","Madison",43444,1809,80,2023
+12081,"Florida","Manatee",67929,39975,5.8,2023
+12083,"Florida","Marion",54555,35680,31,2023
+12085,"Florida","Martin",67059,13639,8.5,2023
+12086,"Florida","Miami-Dade",58905,353519,0.4,2023
+12087,"Florida","Monroe",68975,8569,8.7,2023
+12089,"Florida","Nassau",78069,7439,48.1,2023
+12091,"Florida","Okaloosa",69053,21602,12.1,2023
+12093,"Florida","Okeechobee",47642,5719,36.5,2023
+12095,"Florida","Orange",64579,158877,2,2023
+12097,"Florida","Osceola",60495,42135,7.8,2023
+12099,"Florida","Palm Beach",70024,176914,1,2023
+12101,"Florida","Pasco",59555,50328,9.5,2023
+12103,"Florida","Pinellas",61851,91462,0.3,2023
+12105,"Florida","Polk",56344,81377,13.5,2023
+12107,"Florida","Putnam",38759,8622,56.2,2023
+12109,"Florida","St. Johns",94662,18699,23.8,2023
+12111,"Florida","St. Lucie",62378,40238,3.4,2023
+12113,"Florida","Santa Rosa",80837,19579,21,2023
+12115,"Florida","Sarasota",71630,38427,4.3,2023
+12117,"Florida","Seminole",70470,43759,3.2,2023
+12119,"Florida","Sumter",69707,5151,35,2023
+12121,"Florida","Suwannee",46284,4774,83.2,2023
+12123,"Florida","Taylor",47083,1832,69.3,2023
+12125,"Florida","Union",48667,691,67.4,2023
+12127,"Florida","Volusia",58246,55152,9.9,2023
+12129,"Florida","Wakulla",71962,2977,61.7,2023
+12131,"Florida","Walton",64779,8393,63.1,2023
+12133,"Florida","Washington",47930,3134,84.6,2023
+13001,"Georgia","Appling",46530,2443,71.4,2023
+13003,"Georgia","Atkinson",40303,1520,100,2023
+13005,"Georgia","Bacon",43154,1389,69.3,2023
+13007,"Georgia","Baker",44106,358,100,2023
+13009,"Georgia","Baldwin",44685,4599,35.1,2023
+13011,"Georgia","Banks",60485,2937,93.8,2023
+13013,"Georgia","Barrow",67646,12410,30.1,2023
+13015,"Georgia","Bartow",67604,14256,35.2,2023
+13017,"Georgia","Ben Hill",39863,2032,34,2023
+13019,"Georgia","Berrien",46404,2494,76.1,2023
+13021,"Georgia","Bibb",47859,14201,14.4,2023
+13023,"Georgia","Bleckley",51770,1065,51.6,2023
+13025,"Georgia","Brantley",48076,2875,99.4,2023
+13027,"Georgia","Brooks",40936,1679,71,2023
+13029,"Georgia","Bryan",87334,4385,52.3,2023
+13031,"Georgia","Bulloch",53105,10445,48.3,2023
+13033,"Georgia","Burke",46977,2283,75,2023
+13035,"Georgia","Butts",61471,2627,77.9,2023
+13037,"Georgia","Calhoun",38232,500,100,2023
+13039,"Georgia","Camden",63482,5599,31.4,2023
+13043,"Georgia","Candler",41593,1579,67,2023
+13045,"Georgia","Carroll",59894,14527,41.8,2023
+13047,"Georgia","Catoosa",64245,6695,28.1,2023
+13049,"Georgia","Charlton",47229,1622,51,2023
+13051,"Georgia","Chatham",61527,30914,4.5,2023
+13053,"Georgia","Chattahoochee",53786,773,29.5,2023
+13055,"Georgia","Chattooga",42974,2818,57.6,2023
+13057,"Georgia","Cherokee",96997,25919,17.1,2023
+13059,"Georgia","Clarke",49145,14192,5.9,2023
+13061,"Georgia","Clay",35957,292,100,2023
+13063,"Georgia","Clayton",51422,39772,0.9,2023
+13065,"Georgia","Clinch",44799,960,60.4,2023
+13067,"Georgia","Cobb",87532,77519,0.2,2023
+13069,"Georgia","Coffee",36708,5955,66.6,2023
+13071,"Georgia","Colquitt",44485,7268,58.9,2023
+13073,"Georgia","Columbia",87281,14088,16.2,2023
+13075,"Georgia","Cook",44995,2124,59.4,2023
+13077,"Georgia","Coweta",85182,15158,32.9,2023
+13079,"Georgia","Crawford",54442,1507,100,2023
+13081,"Georgia","Crisp",41505,2680,47,2023
+13083,"Georgia","Dade",64054,1743,72.1,2023
+13085,"Georgia","Dawson",76903,3270,80.3,2023
+13087,"Georgia","Decatur",42960,2928,56.5,2023
+13089,"Georgia","DeKalb",70756,80721,0.3,2023
+13091,"Georgia","Dodge",40856,2058,72.2,2023
+13093,"Georgia","Dooly",43270,1177,53.7,2023
+13095,"Georgia","Dougherty",41985,9329,14,2023
+13097,"Georgia","Douglas",66162,18717,15.8,2023
+13099,"Georgia","Early",38817,975,66,2023
+13101,"Georgia","Echols",42241,682,100,2023
+13103,"Georgia","Effingham",76626,7116,67.1,2023
+13105,"Georgia","Elbert",42866,2347,70.6,2023
+13107,"Georgia","Emanuel",45252,2839,66.9,2023
+13109,"Georgia","Evans",41847,1285,61.3,2023
+13111,"Georgia","Fannin",54446,2981,100,2023
+13113,"Georgia","Fayette",92319,9217,18.2,2023
+13115,"Georgia","Floyd",59685,12849,36.8,2023
+13117,"Georgia","Forsyth",120919,18510,9.9,2023
+13119,"Georgia","Franklin",48045,2783,88.9,2023
+13121,"Georgia","Fulton",82820,91629,1.1,2023
+13123,"Georgia","Gilmer",57970,4373,87.6,2023
+13125,"Georgia","Glascock",49175,340,100,2023
+13127,"Georgia","Glynn",60685,10700,20.6,2023
+13129,"Georgia","Gordon",56053,8873,51.6,2023
+13131,"Georgia","Grady",42171,3274,62.4,2023
+13133,"Georgia","Greene",65261,1809,82.7,2023
+13135,"Georgia","Gwinnett",75021,108731,0.5,2023
+13137,"Georgia","Habersham",55987,6308,58.8,2023
+13139,"Georgia","Hall",68057,30119,20.6,2023
+13141,"Georgia","Hancock",35830,573,61.6,2023
+13143,"Georgia","Haralson",62472,3433,77.4,2023
+13145,"Georgia","Harris",80911,2789,96.7,2023
+13147,"Georgia","Hart",59149,2988,74.5,2023
+13149,"Georgia","Heard",50379,1281,100,2023
+13151,"Georgia","Henry",76577,23378,13.9,2023
+13153,"Georgia","Houston",71609,14920,10,2023
+13155,"Georgia","Irwin",44540,905,64.7,2023
+13157,"Georgia","Jackson",72486,8201,60,2023
+13159,"Georgia","Jasper",61354,1927,81.8,2023
+13161,"Georgia","Jeff Davis",42192,2172,69.5,2023
+13163,"Georgia","Jefferson",42461,1854,80.7,2023
+13165,"Georgia","Jenkins",38497,919,66.1,2023
+13167,"Georgia","Johnson",37703,944,65.4,2023
+13169,"Georgia","Jones",61509,2843,67.7,2023
+13171,"Georgia","Lamar",55933,1786,60.9,2023
+13173,"Georgia","Lanier",47789,1250,71.1,2023
+13175,"Georgia","Laurens",47905,5064,56.6,2023
+13177,"Georgia","Lee",76546,2862,36.2,2023
+13179,"Georgia","Liberty",50696,6545,23.2,2023
+13181,"Georgia","Lincoln",50080,1067,100,2023
+13183,"Georgia","Long",55601,2690,81.3,2023
+13185,"Georgia","Lowndes",46565,13943,27.2,2023
+13187,"Georgia","Lumpkin",64077,4468,83.9,2023
+13189,"Georgia","McDuffie",44597,2292,61,2023
+13191,"Georgia","McIntosh",47651,1460,74.3,2023
+13193,"Georgia","Macon",35660,1467,53.2,2023
+13195,"Georgia","Madison",56526,3984,91.9,2023
+13197,"Georgia","Marion",39717,1007,100,2023
+13199,"Georgia","Meriwether",46799,2645,83.3,2023
+13201,"Georgia","Miller",44814,588,100,2023
+13205,"Georgia","Mitchell",42539,2410,54.5,2023
+13207,"Georgia","Monroe",65697,2851,80.2,2023
+13209,"Georgia","Montgomery",47618,970,98.7,2023
+13211,"Georgia","Morgan",67187,1905,75.4,2023
+13213,"Georgia","Murray",53297,6362,70.1,2023
+13215,"Georgia","Muscogee",52090,22566,3,2023
+13217,"Georgia","Newton",71366,13418,31.2,2023
+13219,"Georgia","Oconee",112581,3033,50.3,2023
+13221,"Georgia","Oglethorpe",57215,2214,99.3,2023
+13223,"Georgia","Paulding",89632,18342,20.1,2023
+13225,"Georgia","Peach",54921,3685,38.2,2023
+13227,"Georgia","Pickens",72539,4051,73.1,2023
+13229,"Georgia","Pierce",51688,2437,79.4,2023
+13231,"Georgia","Pike",75668,2032,99,2023
+13233,"Georgia","Polk",49061,5743,51.4,2023
+13235,"Georgia","Pulaski",45594,979,66.7,2023
+13237,"Georgia","Putnam",55826,2455,80.9,2023
+13239,"Georgia","Quitman",38357,293,73.1,2023
+13241,"Georgia","Rabun",58463,2395,79.3,2023
+13243,"Georgia","Randolph",34883,749,50.6,2023
+13245,"Georgia","Richmond",47816,23178,9.2,2023
+13247,"Georgia","Rockdale",65746,10461,14.9,2023
+13249,"Georgia","Schley",53369,538,100,2023
+13251,"Georgia","Screven",45061,1568,78.9,2023
+13253,"Georgia","Seminole",41917,894,68.6,2023
+13255,"Georgia","Spalding",52902,7757,41.6,2023
+13257,"Georgia","Stephens",47909,2942,58.6,2023
+13259,"Georgia","Stewart",37318,729,100,2023
+13261,"Georgia","Sumter",39008,3160,41.8,2023
+13263,"Georgia","Talbot",42646,666,93.9,2023
+13265,"Georgia","Taliaferro",40045,202,100,2023
+13267,"Georgia","Tattnall",44225,2805,68.2,2023
+13269,"Georgia","Taylor",41030,889,100,2023
+13271,"Georgia","Telfair",38091,1457,47,2023
+13273,"Georgia","Terrell",40549,969,52.1,2023
+13275,"Georgia","Thomas",50154,4572,46,2023
+13277,"Georgia","Tift",48717,5560,40.8,2023
+13279,"Georgia","Toombs",45253,3744,51.1,2023
+13281,"Georgia","Towns",51810,1077,100,2023
+13283,"Georgia","Treutlen",40947,898,58.9,2023
+13285,"Georgia","Troup",49557,8037,44.3,2023
+13287,"Georgia","Turner",37477,918,49.7,2023
+13289,"Georgia","Twiggs",47382,865,100,2023
+13291,"Georgia","Union",59494,2435,100,2023
+13293,"Georgia","Upson",47140,2722,46.9,2023
+13295,"Georgia","Walker",47810,8340,43.9,2023
+13297,"Georgia","Walton",73839,10420,42.7,2023
+13299,"Georgia","Ware",43065,4204,29.4,2023
+13301,"Georgia","Warren",40361,560,100,2023
+13303,"Georgia","Washington",46051,1946,65.6,2023
+13305,"Georgia","Wayne",46314,3408,57.9,2023
+13307,"Georgia","Webster",44084,261,100,2023
+13309,"Georgia","Wheeler",35664,555,100,2023
+13311,"Georgia","White",61473,3871,83.8,2023
+13313,"Georgia","Whitfield",56973,18004,29.1,2023
+13315,"Georgia","Wilcox",38449,618,100,2023
+13317,"Georgia","Wilkes",42567,1119,67.4,2023
+13319,"Georgia","Wilkinson",46475,957,100,2023
+13321,"Georgia","Worth",48943,2190,69.2,2023
+15001,"Hawaii","Hawaii",67896,7673,38,2023
+15003,"Hawaii","Honolulu",90176,28367,0.9,2023
+15005,"Hawaii","Kalawao",NA,NA,100,2023
+15007,"Hawaii","Kauai",76719,2733,12.9,2023
+15009,"Hawaii","Maui",75421,6793,14.6,2023
+16001,"Idaho","Ada",79345,26299,5.5,2023
+16003,"Idaho","Adams",51829,353,100,2023
+16005,"Idaho","Bannock",60058,6400,15.7,2023
+16007,"Idaho","Bear Lake",60265,403,100,2023
+16009,"Idaho","Benewah",53667,876,71.9,2023
+16011,"Idaho","Bingham",63576,4081,56,2023
+16013,"Idaho","Blaine",86735,2476,32.8,2023
+16015,"Idaho","Boise",71545,591,100,2023
+16017,"Idaho","Bonner",61940,3651,72.4,2023
+16019,"Idaho","Bonneville",69880,9057,13,2023
+16021,"Idaho","Boundary",55285,1201,76.2,2023
+16023,"Idaho","Butte",52221,159,100,2023
+16025,"Idaho","Camas",57230,85,100,2023
+16027,"Idaho","Canyon",64301,22143,19.9,2023
+16029,"Idaho","Caribou",66697,469,59.9,2023
+16031,"Idaho","Cassia",63356,2332,51.5,2023
+16033,"Idaho","Clark",52838,150,100,2023
+16035,"Idaho","Clearwater",53344,554,58.6,2023
+16037,"Idaho","Custer",53846,318,100,2023
+16039,"Idaho","Elmore",51436,2447,26.9,2023
+16041,"Idaho","Franklin",59974,1199,66.2,2023
+16043,"Idaho","Fremont",58878,1470,72,2023
+16045,"Idaho","Gem",58562,1640,45,2023
+16047,"Idaho","Gooding",59174,1968,58.1,2023
+16049,"Idaho","Idaho",51056,1343,80.6,2023
+16051,"Idaho","Jefferson",75957,2501,66.6,2023
+16053,"Idaho","Jerome",59040,3247,51.3,2023
+16055,"Idaho","Kootenai",68043,13169,24.2,2023
+16057,"Idaho","Latah",59436,3046,35,2023
+16059,"Idaho","Lemhi",57499,556,61.1,2023
+16061,"Idaho","Lewis",50128,317,100,2023
+16063,"Idaho","Lincoln",57111,642,100,2023
+16065,"Idaho","Madison",55721,2828,28.5,2023
+16067,"Idaho","Minidoka",61010,2508,44.2,2023
+16069,"Idaho","Nez Perce",61951,2970,19.2,2023
+16071,"Idaho","Oneida",60769,281,100,2023
+16073,"Idaho","Owyhee",52374,1499,77.3,2023
+16075,"Idaho","Payette",58885,2300,42.7,2023
+16077,"Idaho","Power",57322,852,42.6,2023
+16079,"Idaho","Shoshone",47699,1068,56,2023
+16081,"Idaho","Teton",84015,1460,100,2023
+16083,"Idaho","Twin Falls",57487,7984,28,2023
+16085,"Idaho","Valley",69425,863,100,2023
+16087,"Idaho","Washington",51067,882,45.6,2023
+17001,"Illinois","Adams",59777,2788,32.6,2023
+17003,"Illinois","Alexander",41816,256,61.9,2023
+17005,"Illinois","Bond",57287,668,60.7,2023
+17007,"Illinois","Boone",71557,3193,19.4,2023
+17009,"Illinois","Brown",51294,93,41.1,2023
+17011,"Illinois","Bureau",61431,1568,57.4,2023
+17013,"Illinois","Calhoun",63586,224,100,2023
+17015,"Illinois","Carroll",54450,574,81.9,2023
+17017,"Illinois","Cass",60961,899,52.1,2023
+17019,"Illinois","Champaign",58787,11601,12.7,2023
+17021,"Illinois","Christian",52500,1357,43.5,2023
+17023,"Illinois","Clark",58741,674,59.5,2023
+17025,"Illinois","Clay",51042,672,64.7,2023
+17027,"Illinois","Clinton",77272,1503,48.8,2023
+17029,"Illinois","Coles",47693,2872,24.3,2023
+17031,"Illinois","Cook",72063,404325,0,2023
+17033,"Illinois","Crawford",59128,755,60.2,2023
+17035,"Illinois","Cumberland",69740,501,100,2023
+17037,"Illinois","DeKalb",67081,5679,20.3,2023
+17039,"Illinois","De Witt",64325,679,48.8,2023
+17041,"Illinois","Douglas",65447,1544,61.6,2023
+17043,"Illinois","DuPage",99536,41053,0,2023
+17045,"Illinois","Edgar",56772,719,51.8,2023
+17047,"Illinois","Edwards",53779,268,100,2023
+17049,"Illinois","Effingham",69988,1615,59.7,2023
+17051,"Illinois","Fayette",52610,1096,67,2023
+17053,"Illinois","Ford",57483,652,41.8,2023
+17055,"Illinois","Franklin",49510,1945,48.6,2023
+17057,"Illinois","Fulton",50978,1576,60,2023
+17059,"Illinois","Gallatin",48424,250,100,2023
+17061,"Illinois","Greene",53394,600,70.8,2023
+17063,"Illinois","Grundy",83254,2292,24.4,2023
+17065,"Illinois","Hamilton",55409,356,68.1,2023
+17067,"Illinois","Hancock",56700,722,71,2023
+17069,"Illinois","Hardin",47144,186,100,2023
+17071,"Illinois","Henderson",59415,307,99.7,2023
+17073,"Illinois","Henry",62683,2135,50.3,2023
+17075,"Illinois","Iroquois",60736,1588,71.7,2023
+17077,"Illinois","Jackson",43334,3620,37.2,2023
+17079,"Illinois","Jasper",59069,456,69.9,2023
+17081,"Illinois","Jefferson",53294,1576,58.8,2023
+17083,"Illinois","Jersey",68675,850,60.6,2023
+17085,"Illinois","Jo Daviess",67839,940,72.6,2023
+17087,"Illinois","Johnson",57073,426,100,2023
+17089,"Illinois","Kane",90941,42687,3.6,2023
+17091,"Illinois","Kankakee",63880,6121,24.5,2023
+17093,"Illinois","Kendall",100483,5459,10.4,2023
+17095,"Illinois","Knox",47559,2165,24.3,2023
+17097,"Illinois","Lake",95895,36939,1.3,2023
+17099,"Illinois","LaSalle",64447,5262,30.2,2023
+17101,"Illinois","Lawrence",46525,580,58,2023
+17103,"Illinois","Lee",60542,1240,53.2,2023
+17105,"Illinois","Livingston",61569,1532,40.8,2023
+17107,"Illinois","Logan",58939,958,39.9,2023
+17109,"Illinois","McDonough",53024,1605,29.5,2023
+17111,"Illinois","McHenry",92522,14366,9.9,2023
+17113,"Illinois","McLean",71309,6663,16.5,2023
+17115,"Illinois","Macon",48245,4428,15.3,2023
+17117,"Illinois","Macoupin",57755,1946,58.5,2023
+17119,"Illinois","Madison",65886,11921,13.3,2023
+17121,"Illinois","Marion",55292,1842,45.1,2023
+17123,"Illinois","Marshall",64132,510,100,2023
+17125,"Illinois","Mason",58828,666,77.5,2023
+17127,"Illinois","Massac",52680,703,50.5,2023
+17129,"Illinois","Menard",75687,463,75.7,2023
+17131,"Illinois","Mercer",64731,627,77.8,2023
+17133,"Illinois","Monroe",93054,1027,41.4,2023
+17135,"Illinois","Montgomery",59116,1229,41.6,2023
+17137,"Illinois","Morgan",54644,1357,36.2,2023
+17139,"Illinois","Moultrie",69652,873,69.2,2023
+17141,"Illinois","Ogle",74472,2444,47.1,2023
+17143,"Illinois","Peoria",56460,8922,14.6,2023
+17145,"Illinois","Perry",53071,779,43.6,2023
+17147,"Illinois","Piatt",81583,676,67.7,2023
+17149,"Illinois","Pike",54474,734,72.3,2023
+17151,"Illinois","Pope",50404,215,100,2023
+17153,"Illinois","Pulaski",42738,292,100,2023
+17155,"Illinois","Putnam",74798,261,100,2023
+17157,"Illinois","Randolph",58694,1084,42.6,2023
+17159,"Illinois","Richland",56852,769,43.5,2023
+17161,"Illinois","Rock Island",58171,7496,10.9,2023
+17163,"Illinois","St. Clair",66422,12833,9.8,2023
+17165,"Illinois","Saline",50914,1199,43.7,2023
+17167,"Illinois","Sangamon",68476,7640,14.1,2023
+17169,"Illinois","Schuyler",57839,383,57.6,2023
+17171,"Illinois","Scott",63510,232,100,2023
+17173,"Illinois","Shelby",55725,880,77.7,2023
+17175,"Illinois","Stark",58265,278,100,2023
+17177,"Illinois","Stephenson",56263,1850,40.1,2023
+17179,"Illinois","Tazewell",65427,5103,20.4,2023
+17181,"Illinois","Union",52384,890,65.9,2023
+17183,"Illinois","Vermilion",49825,3418,31.3,2023
+17185,"Illinois","Wabash",56183,506,38.9,2023
+17187,"Illinois","Warren",61734,948,45.5,2023
+17189,"Illinois","Washington",66746,497,73.6,2023
+17191,"Illinois","Wayne",51669,957,69.9,2023
+17193,"Illinois","White",50653,688,62,2023
+17195,"Illinois","Whiteside",56805,2771,37.3,2023
+17197,"Illinois","Will",93994,35882,3.9,2023
+17199,"Illinois","Williamson",55447,2972,34.8,2023
+17201,"Illinois","Winnebago",57113,17279,7.9,2023
+17203,"Illinois","Woodford",85085,1374,54.9,2023
+18001,"Indiana","Adams",62282,2572,53.7,2023
+18003,"Indiana","Allen",62680,23749,11.9,2023
+18005,"Indiana","Bartholomew",72458,4970,33.7,2023
+18007,"Indiana","Benton",60738,571,100,2023
+18009,"Indiana","Blackford",47553,649,50.6,2023
+18011,"Indiana","Boone",98047,3098,34.4,2023
+18013,"Indiana","Brown",66839,878,100,2023
+18015,"Indiana","Carroll",57019,1263,81.4,2023
+18017,"Indiana","Cass",53813,2974,44.7,2023
+18019,"Indiana","Clark",62822,7562,20.5,2023
+18021,"Indiana","Clay",64245,1497,60.9,2023
+18023,"Indiana","Clinton",60609,2533,49.8,2023
+18025,"Indiana","Crawford",52031,781,100,2023
+18027,"Indiana","Daviess",59888,3815,60.3,2023
+18029,"Indiana","Dearborn",73150,2458,53.1,2023
+18031,"Indiana","Decatur",64871,1534,53.8,2023
+18033,"Indiana","DeKalb",65059,2266,42.3,2023
+18035,"Indiana","Delaware",50533,6428,22.8,2023
+18037,"Indiana","Dubois",67615,2477,49.2,2023
+18039,"Indiana","Elkhart",62233,20864,20.6,2023
+18041,"Indiana","Fayette",50642,1281,36.8,2023
+18043,"Indiana","Floyd",67330,3936,20.3,2023
+18045,"Indiana","Fountain",55195,1039,66,2023
+18047,"Indiana","Franklin",61261,1282,88.9,2023
+18049,"Indiana","Fulton",57400,1325,64.9,2023
+18051,"Indiana","Gibson",60592,1419,53.6,2023
+18053,"Indiana","Grant",50248,3319,28.9,2023
+18055,"Indiana","Greene",55504,1773,74.8,2023
+18057,"Indiana","Hamilton",108203,11296,5.6,2023
+18059,"Indiana","Hancock",80326,3565,30.4,2023
+18061,"Indiana","Harrison",66989,2299,85.8,2023
+18063,"Indiana","Hendricks",90298,7129,17.8,2023
+18065,"Indiana","Henry",52994,2447,42.9,2023
+18067,"Indiana","Howard",56268,4344,21.5,2023
+18069,"Indiana","Huntington",55546,2017,51,2023
+18071,"Indiana","Jackson",61943,2909,43.7,2023
+18073,"Indiana","Jasper",74336,2117,68,2023
+18075,"Indiana","Jay",52315,1285,55.7,2023
+18077,"Indiana","Jefferson",59333,1756,45.1,2023
+18079,"Indiana","Jennings",61964,1547,60.2,2023
+18081,"Indiana","Johnson",79914,7852,13.9,2023
+18083,"Indiana","Knox",56564,2247,36.2,2023
+18085,"Indiana","Kosciusko",66525,6050,46.6,2023
+18087,"Indiana","LaGrange",80335,5600,91.6,2023
+18089,"Indiana","Lake",61468,27151,4,2023
+18091,"Indiana","LaPorte",62620,5646,35.6,2023
+18093,"Indiana","Lawrence",52557,2608,58.4,2023
+18095,"Indiana","Madison",54026,7882,23.1,2023
+18097,"Indiana","Marion",58737,64918,0.6,2023
+18099,"Indiana","Marshall",68799,3820,63.3,2023
+18101,"Indiana","Martin",61520,569,72.3,2023
+18103,"Indiana","Miami",56867,1978,46.5,2023
+18105,"Indiana","Monroe",53166,9595,21.2,2023
+18107,"Indiana","Montgomery",57997,2574,52.8,2023
+18109,"Indiana","Morgan",69203,3967,49.1,2023
+18111,"Indiana","Newton",61336,1052,100,2023
+18113,"Indiana","Noble",65979,3434,68,2023
+18115,"Indiana","Ohio",64947,326,100,2023
+18117,"Indiana","Orange",52910,1354,83.5,2023
+18119,"Indiana","Owen",57716,1484,100,2023
+18121,"Indiana","Parke",55683,1053,75,2023
+18123,"Indiana","Perry",58097,763,55,2023
+18125,"Indiana","Pike",52093,771,100,2023
+18127,"Indiana","Porter",80878,7137,20.8,2023
+18129,"Indiana","Posey",74102,1021,66.8,2023
+18131,"Indiana","Pulaski",58239,747,80.9,2023
+18133,"Indiana","Putnam",61223,1702,64.8,2023
+18135,"Indiana","Randolph",50809,1538,61.9,2023
+18137,"Indiana","Ripley",65893,1669,83.2,2023
+18139,"Indiana","Rush",60486,1040,61.2,2023
+18141,"Indiana","St. Joseph",59325,15147,9,2023
+18143,"Indiana","Scott",54747,1375,52.7,2023
+18145,"Indiana","Shelby",64528,2605,52,2023
+18147,"Indiana","Spencer",62311,1085,100,2023
+18149,"Indiana","Starke",57994,1447,82.4,2023
+18151,"Indiana","Steuben",65407,1904,67.2,2023
+18153,"Indiana","Sullivan",47606,1019,79,2023
+18155,"Indiana","Switzerland",57362,723,100,2023
+18157,"Indiana","Tippecanoe",55192,10770,14.5,2023
+18159,"Indiana","Tipton",67866,810,61.6,2023
+18161,"Indiana","Union",65572,453,100,2023
+18163,"Indiana","Vanderburgh",53795,10672,9.2,2023
+18165,"Indiana","Vermillion",53540,839,60.4,2023
+18167,"Indiana","Vigo",48421,6645,23.8,2023
+18169,"Indiana","Wabash",62193,1735,50,2023
+18171,"Indiana","Warren",63154,358,77.1,2023
+18173,"Indiana","Warrick",83005,2777,29.3,2023
+18175,"Indiana","Washington",57348,1756,76.8,2023
+18177,"Indiana","Wayne",50569,4147,33,2023
+18179,"Indiana","Wells",66102,1361,50.6,2023
+18181,"Indiana","White",62151,1554,68,2023
+18183,"Indiana","Whitley",64146,1785,71.2,2023
+19001,"Iowa","Adair",60847,256,100,2023
+19003,"Iowa","Adams",54403,137,100,2023
+19005,"Iowa","Allamakee",60717,688,74,2023
+19007,"Iowa","Appanoose",51222,485,58.3,2023
+19009,"Iowa","Audubon",69484,239,100,2023
+19011,"Iowa","Benton",78155,879,80.7,2023
+19013,"Iowa","Black Hawk",60716,5388,13.5,2023
+19015,"Iowa","Boone",69888,910,50.6,2023
+19017,"Iowa","Bremer",75395,576,64.5,2023
+19019,"Iowa","Buchanan",64503,757,68.5,2023
+19021,"Iowa","Buena Vista",60576,1479,43.9,2023
+19023,"Iowa","Butler",65284,507,100,2023
+19025,"Iowa","Calhoun",59643,314,100,2023
+19027,"Iowa","Carroll",65598,659,52,2023
+19029,"Iowa","Cass",55909,624,53.6,2023
+19031,"Iowa","Cedar",75894,585,83.4,2023
+19033,"Iowa","Cerro Gordo",55465,1492,20.6,2023
+19035,"Iowa","Cherokee",64286,384,61.4,2023
+19037,"Iowa","Chickasaw",67667,467,73.5,2023
+19039,"Iowa","Clarke",58483,454,48.1,2023
+19041,"Iowa","Clay",60162,741,34.3,2023
+19043,"Iowa","Clayton",56076,749,96.6,2023
+19045,"Iowa","Clinton",60528,1778,32.2,2023
+19047,"Iowa","Crawford",58874,1241,51.8,2023
+19049,"Iowa","Dallas",94467,3042,30.6,2023
+19051,"Iowa","Davis",75730,592,100,2023
+19053,"Iowa","Decatur",48666,320,100,2023
+19055,"Iowa","Delaware",69767,551,71.5,2023
+19057,"Iowa","Des Moines",53917,1237,26.7,2023
+19059,"Iowa","Dickinson",67949,587,35,2023
+19061,"Iowa","Dubuque",73968,3157,27,2023
+19063,"Iowa","Emmet",52000,452,39.9,2023
+19065,"Iowa","Fayette",56366,701,70.6,2023
+19067,"Iowa","Floyd",59638,621,52.7,2023
+19069,"Iowa","Franklin",60269,530,60.2,2023
+19071,"Iowa","Fremont",68622,259,100,2023
+19073,"Iowa","Greene",57737,319,58.2,2023
+19075,"Iowa","Grundy",71652,412,100,2023
+19077,"Iowa","Guthrie",66112,425,100,2023
+19079,"Iowa","Hamilton",64292,572,50.5,2023
+19081,"Iowa","Hancock",61544,377,70,2023
+19083,"Iowa","Hardin",58126,704,71.1,2023
+19085,"Iowa","Harrison",67433,562,81.1,2023
+19087,"Iowa","Henry",61112,691,57.1,2023
+19089,"Iowa","Howard",58857,361,63,2023
+19091,"Iowa","Humboldt",69252,416,46.6,2023
+19093,"Iowa","Ida",58792,266,100,2023
+19095,"Iowa","Iowa",66613,475,82.2,2023
+19097,"Iowa","Jackson",61307,724,53.3,2023
+19099,"Iowa","Jasper",65714,1085,57.5,2023
+19101,"Iowa","Jefferson",52763,885,38.7,2023
+19103,"Iowa","Johnson",68664,6726,18.5,2023
+19105,"Iowa","Jones",62810,774,58,2023
+19107,"Iowa","Keokuk",56843,376,100,2023
+19109,"Iowa","Kossuth",62571,511,65.6,2023
+19111,"Iowa","Lee",56001,1105,40.6,2023
+19113,"Iowa","Linn",70464,8323,12.7,2023
+19115,"Iowa","Louisa",64151,624,100,2023
+19117,"Iowa","Lucas",64796,311,56.2,2023
+19119,"Iowa","Lyon",70654,473,100,2023
+19121,"Iowa","Madison",82730,668,67.8,2023
+19123,"Iowa","Mahaska",62776,834,43.9,2023
+19125,"Iowa","Marion",69307,890,48.7,2023
+19127,"Iowa","Marshall",63541,2364,33.9,2023
+19129,"Iowa","Mills",76917,469,59.6,2023
+19131,"Iowa","Mitchell",61719,482,67.2,2023
+19133,"Iowa","Monona",56394,316,71.2,2023
+19135,"Iowa","Monroe",62014,322,55.2,2023
+19137,"Iowa","Montgomery",53399,417,47.9,2023
+19139,"Iowa","Muscatine",63519,1793,25.6,2023
+19141,"Iowa","O'Brien",62959,527,66.3,2023
+19143,"Iowa","Osceola",62624,280,58.4,2023
+19145,"Iowa","Page",55317,537,33.4,2023
+19147,"Iowa","Palo Alto",57866,335,61.5,2023
+19149,"Iowa","Plymouth",74002,1003,62.9,2023
+19151,"Iowa","Pocahontas",59634,294,100,2023
+19153,"Iowa","Polk",73276,21224,4.9,2023
+19155,"Iowa","Pottawattamie",66144,3530,26.4,2023
+19157,"Iowa","Poweshiek",60542,586,52,2023
+19159,"Iowa","Ringgold",52849,203,100,2023
+19161,"Iowa","Sac",66007,355,100,2023
+19163,"Iowa","Scott",66443,7097,13.5,2023
+19165,"Iowa","Shelby",64534,421,59.4,2023
+19167,"Iowa","Sioux",84283,1484,50.8,2023
+19169,"Iowa","Story",65137,3979,16.9,2023
+19171,"Iowa","Tama",61660,922,72.4,2023
+19173,"Iowa","Taylor",54458,298,100,2023
+19175,"Iowa","Union",55698,497,39.2,2023
+19177,"Iowa","Van Buren",53210,336,100,2023
+19179,"Iowa","Wapello",55297,1820,30.5,2023
+19181,"Iowa","Warren",85704,1537,42,2023
+19183,"Iowa","Washington",65761,1141,69.5,2023
+19185,"Iowa","Wayne",53282,289,100,2023
+19187,"Iowa","Webster",55183,1393,33.9,2023
+19189,"Iowa","Winnebago",59949,336,66.1,2023
+19191,"Iowa","Winneshiek",70482,515,59,2023
+19193,"Iowa","Woodbury",60110,5849,17.5,2023
+19195,"Iowa","Worth",64965,302,100,2023
+19197,"Iowa","Wright",61072,527,56.8,2023
+20001,"Kansas","Allen",50794,869,57.2,2023
+20003,"Kansas","Anderson",57068,546,58.8,2023
+20005,"Kansas","Atchison",57445,910,34.2,2023
+20007,"Kansas","Barber",56344,336,100,2023
+20009,"Kansas","Barton",54236,2217,31.8,2023
+20011,"Kansas","Bourbon",51355,935,48,2023
+20013,"Kansas","Brown",52446,741,68.4,2023
+20015,"Kansas","Butler",71826,3775,40.5,2023
+20017,"Kansas","Chase",57415,143,100,2023
+20019,"Kansas","Chautauqua",46986,300,100,2023
+20021,"Kansas","Cherokee",51353,1405,49.1,2023
+20023,"Kansas","Cheyenne",49281,189,100,2023
+20025,"Kansas","Clark",58699,119,100,2023
+20027,"Kansas","Clay",59343,545,49.5,2023
+20029,"Kansas","Cloud",50176,506,44,2023
+20031,"Kansas","Coffey",64991,443,70.9,2023
+20033,"Kansas","Comanche",51548,100,100,2023
+20035,"Kansas","Cowley",51699,2579,31,2023
+20037,"Kansas","Crawford",47718,3566,34.9,2023
+20039,"Kansas","Decatur",49062,174,100,2023
+20041,"Kansas","Dickinson",60693,1339,64.3,2023
+20043,"Kansas","Doniphan",59400,494,70.2,2023
+20045,"Kansas","Douglas",59763,8186,11,2023
+20047,"Kansas","Edwards",40896,267,100,2023
+20049,"Kansas","Elk",45405,189,100,2023
+20051,"Kansas","Ellis",58846,1938,25.6,2023
+20053,"Kansas","Ellsworth",59368,352,54.1,2023
+20055,"Kansas","Finney",62157,4367,18.6,2023
+20057,"Kansas","Ford",67105,4540,19.3,2023
+20059,"Kansas","Franklin",64136,1718,52.1,2023
+20061,"Kansas","Geary",54104,2109,11.7,2023
+20063,"Kansas","Gove",58442,160,100,2023
+20065,"Kansas","Graham",49884,154,100,2023
+20067,"Kansas","Grant",64425,834,19.8,2023
+20069,"Kansas","Gray",69219,736,100,2023
+20071,"Kansas","Greeley",65448,106,100,2023
+20073,"Kansas","Greenwood",50157,404,61.3,2023
+20075,"Kansas","Hamilton",61066,350,100,2023
+20077,"Kansas","Harper",49103,442,100,2023
+20079,"Kansas","Harvey",65989,2411,30.9,2023
+20081,"Kansas","Haskell",66245,519,100,2023
+20083,"Kansas","Hodgeman",65042,152,100,2023
+20085,"Kansas","Jackson",54623,1075,75.9,2023
+20087,"Kansas","Jefferson",73702,1187,98.8,2023
+20089,"Kansas","Jewell",52362,184,100,2023
+20091,"Kansas","Johnson",93220,26682,3.8,2023
+20093,"Kansas","Kearny",76518,451,100,2023
+20095,"Kansas","Kingman",58917,419,62.1,2023
+20097,"Kansas","Kiowa",55600,215,100,2023
+20099,"Kansas","Labette",49185,1328,52.3,2023
+20101,"Kansas","Lane",61506,130,100,2023
+20103,"Kansas","Leavenworth",81325,4398,29.1,2023
+20105,"Kansas","Lincoln",53199,196,100,2023
+20107,"Kansas","Linn",57104,732,100,2023
+20109,"Kansas","Logan",61365,208,100,2023
+20111,"Kansas","Lyon",51420,3025,26.3,2023
+20113,"Kansas","McPherson",64853,1752,43.5,2023
+20115,"Kansas","Marion",56983,791,77.8,2023
+20117,"Kansas","Marshall",55737,558,71,2023
+20119,"Kansas","Meade",68909,474,100,2023
+20121,"Kansas","Miami",77550,1657,51,2023
+20123,"Kansas","Mitchell",59001,326,48.3,2023
+20125,"Kansas","Montgomery",49251,2479,43.4,2023
+20127,"Kansas","Morris",53808,392,100,2023
+20129,"Kansas","Morton",57476,259,100,2023
+20131,"Kansas","Nemaha",68755,490,75.2,2023
+20133,"Kansas","Neosho",51056,1091,45.1,2023
+20135,"Kansas","Ness",57269,239,100,2023
+20137,"Kansas","Norton",52131,296,49,2023
+20139,"Kansas","Osage",63166,1058,83.5,2023
+20141,"Kansas","Osborne",52866,239,100,2023
+20143,"Kansas","Ottawa",58366,336,100,2023
+20145,"Kansas","Pawnee",54004,331,31.7,2023
+20147,"Kansas","Phillips",54720,342,53.8,2023
+20149,"Kansas","Pottawatomie",78296,1456,58.9,2023
+20151,"Kansas","Pratt",58506,754,32.2,2023
+20153,"Kansas","Rawlins",49823,148,100,2023
+20155,"Kansas","Reno",52121,4569,31.3,2023
+20157,"Kansas","Republic",50131,246,100,2023
+20159,"Kansas","Rice",58384,658,63.8,2023
+20161,"Kansas","Riley",57144,5312,13.8,2023
+20163,"Kansas","Rooks",51957,418,100,2023
+20165,"Kansas","Rush",53110,189,100,2023
+20167,"Kansas","Russell",48071,535,41.1,2023
+20169,"Kansas","Saline",57643,4022,14.6,2023
+20171,"Kansas","Scott",66233,412,26.1,2023
+20173,"Kansas","Sedgwick",60540,46160,7.7,2023
+20175,"Kansas","Seward",61897,3070,11.4,2023
+20177,"Kansas","Shawnee",56625,11287,15.8,2023
+20179,"Kansas","Sheridan",58786,113,100,2023
+20181,"Kansas","Sherman",54207,440,24.2,2023
+20183,"Kansas","Smith",49756,200,100,2023
+20185,"Kansas","Stafford",52542,373,100,2023
+20187,"Kansas","Stanton",65457,217,100,2023
+20189,"Kansas","Stevens",64368,688,31.2,2023
+20191,"Kansas","Sumner",58342,1579,62.9,2023
+20193,"Kansas","Thomas",61169,585,30.8,2023
+20195,"Kansas","Trego",56619,179,100,2023
+20197,"Kansas","Wabaunsee",72031,417,100,2023
+20199,"Kansas","Wallace",59241,93,100,2023
+20201,"Kansas","Washington",55590,393,100,2023
+20203,"Kansas","Wichita",58549,199,100,2023
+20205,"Kansas","Wilson",46829,541,72.7,2023
+20207,"Kansas","Woodson",41706,221,100,2023
+20209,"Kansas","Wyandotte",54943,19251,6.1,2023
+21001,"Kentucky","Adair",42112,930,75.5,2023
+21003,"Kentucky","Allen",51485,1059,78.7,2023
+21005,"Kentucky","Anderson",67773,1101,41.7,2023
+21007,"Kentucky","Ballard",53491,394,100,2023
+21009,"Kentucky","Barren",49245,2464,63.3,2023
+21011,"Kentucky","Bath",43410,573,100,2023
+21013,"Kentucky","Bell",31033,1187,62.5,2023
+21015,"Kentucky","Boone",85284,5292,13.3,2023
+21017,"Kentucky","Bourbon",58304,1044,44.7,2023
+21019,"Kentucky","Boyd",48979,1854,25.3,2023
+21021,"Kentucky","Boyle",52940,1180,34.8,2023
+21023,"Kentucky","Bracken",55347,367,100,2023
+21025,"Kentucky","Breathitt",33005,493,81.5,2023
+21027,"Kentucky","Breckinridge",50012,964,100,2023
+21029,"Kentucky","Bullitt",68630,3106,30.4,2023
+21031,"Kentucky","Butler",49288,792,100,2023
+21033,"Kentucky","Caldwell",46240,589,54.6,2023
+21035,"Kentucky","Calloway",49263,2472,48.7,2023
+21037,"Kentucky","Campbell",71245,3601,15.3,2023
+21039,"Kentucky","Carlisle",56804,273,100,2023
+21041,"Kentucky","Carroll",49814,576,52.2,2023
+21043,"Kentucky","Carter",43538,1414,79.4,2023
+21045,"Kentucky","Casey",38320,917,100,2023
+21047,"Kentucky","Christian",48416,3324,28.6,2023
+21049,"Kentucky","Clark",60774,1650,27.5,2023
+21051,"Kentucky","Clay",30700,931,78.6,2023
+21053,"Kentucky","Clinton",36865,641,100,2023
+21055,"Kentucky","Crittenden",46263,464,70.8,2023
+21057,"Kentucky","Cumberland",39511,295,100,2023
+21059,"Kentucky","Daviess",59304,4703,27,2023
+21061,"Kentucky","Edmonson",47734,783,100,2023
+21063,"Kentucky","Elliott",34491,221,100,2023
+21065,"Kentucky","Estill",41843,709,76.1,2023
+21067,"Kentucky","Fayette",61269,18280,3.1,2023
+21069,"Kentucky","Fleming",50025,709,80.5,2023
+21071,"Kentucky","Floyd",36253,1538,83.9,2023
+21073,"Kentucky","Franklin",60517,2731,27.6,2023
+21075,"Kentucky","Fulton",35630,270,64.4,2023
+21077,"Kentucky","Gallatin",57345,561,100,2023
+21079,"Kentucky","Garrard",54882,1015,77.9,2023
+21081,"Kentucky","Grant",61078,1333,65,2023
+21083,"Kentucky","Graves",49668,1993,69.4,2023
+21085,"Kentucky","Grayson",45695,1320,73.6,2023
+21087,"Kentucky","Green",42569,723,100,2023
+21089,"Kentucky","Greenup",54292,1355,39.3,2023
+21091,"Kentucky","Hancock",60897,370,89.3,2023
+21093,"Kentucky","Hardin",61224,5373,34.2,2023
+21095,"Kentucky","Harlan",31116,998,54.2,2023
+21097,"Kentucky","Harrison",58535,894,65.9,2023
+21099,"Kentucky","Hart",50074,1133,87.2,2023
+21101,"Kentucky","Henderson",56142,1911,38.2,2023
+21103,"Kentucky","Henry",56593,894,100,2023
+21105,"Kentucky","Hickman",49328,243,100,2023
+21107,"Kentucky","Hopkins",49883,1982,47.1,2023
+21109,"Kentucky","Jackson",36997,677,100,2023
+21111,"Kentucky","Jefferson",60636,30468,1.4,2023
+21113,"Kentucky","Jessamine",61652,2735,25.9,2023
+21115,"Kentucky","Johnson",41013,945,73,2023
+21117,"Kentucky","Kenton",70693,7282,7,2023
+21119,"Kentucky","Knott",34051,630,100,2023
+21121,"Kentucky","Knox",32646,1466,62.9,2023
+21123,"Kentucky","Larue",54470,713,76,2023
+21125,"Kentucky","Laurel",48950,3254,56.8,2023
+21127,"Kentucky","Lawrence",42750,802,77.1,2023
+21129,"Kentucky","Lee",29143,277,100,2023
+21131,"Kentucky","Leslie",32682,399,100,2023
+21133,"Kentucky","Letcher",34897,1006,100,2023
+21135,"Kentucky","Lewis",40508,657,100,2023
+21137,"Kentucky","Lincoln",44399,1227,81.7,2023
+21139,"Kentucky","Livingston",48371,412,95.4,2023
+21141,"Kentucky","Logan",53519,1428,75,2023
+21143,"Kentucky","Lyon",56445,286,100,2023
+21145,"Kentucky","McCracken",60504,2721,27.8,2023
+21147,"Kentucky","McCreary",32938,743,100,2023
+21149,"Kentucky","McLean",53102,458,100,2023
+21151,"Kentucky","Madison",54498,4323,38.5,2023
+21153,"Kentucky","Magoffin",34423,677,100,2023
+21155,"Kentucky","Marion",51523,894,71.5,2023
+21157,"Kentucky","Marshall",57802,1518,85.9,2023
+21159,"Kentucky","Martin",29387,392,100,2023
+21161,"Kentucky","Mason",49924,826,55.4,2023
+21163,"Kentucky","Meade",58839,1378,85.9,2023
+21165,"Kentucky","Menifee",38928,323,100,2023
+21167,"Kentucky","Mercer",53336,1055,59.1,2023
+21169,"Kentucky","Metcalfe",42755,482,100,2023
+21171,"Kentucky","Monroe",41638,625,100,2023
+21173,"Kentucky","Montgomery",51831,1452,59.1,2023
+21175,"Kentucky","Morgan",47131,565,100,2023
+21177,"Kentucky","Muhlenberg",45883,1412,68.4,2023
+21179,"Kentucky","Nelson",62036,2052,56.9,2023
+21181,"Kentucky","Nicholas",46547,386,100,2023
+21183,"Kentucky","Ohio",55432,1199,73.5,2023
+21185,"Kentucky","Oldham",109181,1798,20.3,2023
+21187,"Kentucky","Owen",55321,649,100,2023
+21189,"Kentucky","Owsley",29365,168,100,2023
+21191,"Kentucky","Pendleton",56036,764,100,2023
+21193,"Kentucky","Perry",36528,976,74.1,2023
+21195,"Kentucky","Pike",38066,2759,87.8,2023
+21197,"Kentucky","Powell",40116,560,67.1,2023
+21199,"Kentucky","Pulaski",45532,2997,53.9,2023
+21201,"Kentucky","Robertson",51177,94,100,2023
+21203,"Kentucky","Rockcastle",43378,656,83.7,2023
+21205,"Kentucky","Rowan",52451,1119,68.8,2023
+21207,"Kentucky","Russell",40454,979,100,2023
+21209,"Kentucky","Scott",71961,2352,32.5,2023
+21211,"Kentucky","Shelby",72524,2581,47,2023
+21213,"Kentucky","Simpson",58531,1008,45.2,2023
+21215,"Kentucky","Spencer",91160,869,100,2023
+21217,"Kentucky","Taylor",50258,1062,52.2,2023
+21219,"Kentucky","Todd",51189,947,100,2023
+21221,"Kentucky","Trigg",52511,640,79.4,2023
+21223,"Kentucky","Trimble",62902,394,94.7,2023
+21225,"Kentucky","Union",50862,805,65.3,2023
+21227,"Kentucky","Warren",59223,7716,31.2,2023
+21229,"Kentucky","Washington",64733,718,100,2023
+21231,"Kentucky","Wayne",38651,997,67.7,2023
+21233,"Kentucky","Webster",52575,791,100,2023
+21235,"Kentucky","Whitley",37530,1607,65.2,2023
+21237,"Kentucky","Wolfe",34749,320,100,2023
+21239,"Kentucky","Woodford",76942,1257,36.2,2023
+22001,"Louisiana","Acadia",44648,4415,51.7,2023
+22003,"Louisiana","Allen",43192,1347,69.4,2023
+22005,"Louisiana","Ascension",75498,6394,13.2,2023
+22007,"Louisiana","Assumption",42404,1449,45,2023
+22009,"Louisiana","Avoyelles",38567,2679,63.8,2023
+22011,"Louisiana","Beauregard",59550,2595,66.5,2023
+22013,"Louisiana","Bienville",38093,794,79.8,2023
+22015,"Louisiana","Bossier",61225,8201,24.3,2023
+22017,"Louisiana","Caddo",44968,15652,14.4,2023
+22019,"Louisiana","Calcasieu",57667,11778,20.5,2023
+22021,"Louisiana","Caldwell",39079,768,100,2023
+22023,"Louisiana","Cameron",62457,468,100,2023
+22025,"Louisiana","Catahoula",38006,574,100,2023
+22027,"Louisiana","Claiborne",36115,832,82.4,2023
+22029,"Louisiana","Concordia",36821,1132,33.5,2023
+22031,"Louisiana","De Soto",48007,1937,77.3,2023
+22033,"Louisiana","East Baton Rouge",51746,30156,6.9,2023
+22035,"Louisiana","East Carroll",30288,317,34.6,2023
+22037,"Louisiana","East Feliciana",51296,899,100,2023
+22039,"Louisiana","Evangeline",37707,2437,61.1,2023
+22041,"Louisiana","Franklin",38439,1459,74.2,2023
+22043,"Louisiana","Grant",50979,1264,85.6,2023
+22045,"Louisiana","Iberia",47391,4970,28.1,2023
+22047,"Louisiana","Iberville",47942,1639,59.2,2023
+22049,"Louisiana","Jackson",45481,1053,65.5,2023
+22051,"Louisiana","Jefferson",56080,35183,1.1,2023
+22053,"Louisiana","Jefferson Davis",48709,2270,50.7,2023
+22055,"Louisiana","Lafayette",59062,17566,8.3,2023
+22057,"Louisiana","Lafourche",58740,7592,24.2,2023
+22059,"Louisiana","La Salle",47205,1114,73.2,2023
+22061,"Louisiana","Lincoln",40384,3298,40.7,2023
+22063,"Louisiana","Livingston",71605,9305,41.1,2023
+22065,"Louisiana","Madison",33619,563,22.4,2023
+22067,"Louisiana","Morehouse",36998,1429,50,2023
+22069,"Louisiana","Natchitoches",43381,2476,50.1,2023
+22071,"Louisiana","Orleans",46188,27456,0.6,2023
+22073,"Louisiana","Ouachita",47737,9731,24.2,2023
+22075,"Louisiana","Plaquemines",68765,2018,19.5,2023
+22077,"Louisiana","Pointe Coupee",51988,1369,57.8,2023
+22079,"Louisiana","Rapides",47316,9016,39.5,2023
+22081,"Louisiana","Red River",40724,577,100,2023
+22083,"Louisiana","Richland",39804,1495,66,2023
+22085,"Louisiana","Sabine",44952,1884,88.2,2023
+22087,"Louisiana","St. Bernard",46938,3500,4.3,2023
+22089,"Louisiana","St. Charles",70224,2572,11.5,2023
+22091,"Louisiana","St. Helena",41937,685,100,2023
+22093,"Louisiana","St. James",60466,1000,27.7,2023
+22095,"Louisiana","St. John the Baptist",58548,2595,13.4,2023
+22097,"Louisiana","St. Landry",39806,5882,48.2,2023
+22099,"Louisiana","St. Martin",49271,3602,49.6,2023
+22101,"Louisiana","St. Mary",42757,3485,13,2023
+22103,"Louisiana","St. Tammany",68616,15389,23.2,2023
+22105,"Louisiana","Tangipahoa",51596,8941,40.9,2023
+22107,"Louisiana","Tensas",31438,286,100,2023
+22109,"Louisiana","Terrebonne",59482,10273,20.6,2023
+22111,"Louisiana","Union",43746,1506,82.9,2023
+22113,"Louisiana","Vermilion",52070,4797,54.6,2023
+22115,"Louisiana","Vernon",51401,3578,49.9,2023
+22117,"Louisiana","Washington",39363,2777,66.7,2023
+22119,"Louisiana","Webster",41436,2382,53,2023
+22121,"Louisiana","West Baton Rouge",67436,1447,30.5,2023
+22123,"Louisiana","West Carroll",40812,750,100,2023
+22125,"Louisiana","West Feliciana",69086,330,100,2023
+22127,"Louisiana","Winn",44942,793,64.9,2023
+23001,"Maine","Androscoggin",61411,6506,43.4,2023
+23003,"Maine","Aroostook",51770,4772,80.3,2023
+23005,"Maine","Cumberland",80484,15382,36.1,2023
+23007,"Maine","Franklin",52295,1918,83,2023
+23009,"Maine","Hancock",57001,3850,90.1,2023
+23011,"Maine","Kennebec",60449,7214,62.8,2023
+23013,"Maine","Knox",68786,2399,67.9,2023
+23015,"Maine","Lincoln",65638,2452,100,2023
+23017,"Maine","Oxford",51872,3772,83.1,2023
+23019,"Maine","Penobscot",56261,9868,57.7,2023
+23021,"Maine","Piscataquis",49999,1150,100,2023
+23023,"Maine","Sagadahoc",75624,2007,61.7,2023
+23025,"Maine","Somerset",51040,3683,80.5,2023
+23027,"Maine","Waldo",58262,2997,91.3,2023
+23029,"Maine","Washington",42755,2588,92.4,2023
+23031,"Maine","York",73794,11631,56.8,2023
+24001,"Maryland","Allegany",49236,2339,27.3,2023
+24003,"Maryland","Anne Arundel",107281,20045,5.3,2023
+24005,"Maryland","Baltimore",80159,35877,6.5,2023
+24009,"Maryland","Calvert",117459,2498,38.7,2023
+24011,"Maryland","Caroline",61945,2101,76,2023
+24013,"Maryland","Carroll",102006,4867,39.5,2023
+24015,"Maryland","Cecil",76727,4107,42.1,2023
+24017,"Maryland","Charles",103918,5752,29.5,2023
+24019,"Maryland","Dorchester",54731,1449,56.2,2023
+24021,"Maryland","Frederick",104253,9279,25.2,2023
+24023,"Maryland","Garrett",55107,1325,83.9,2023
+24025,"Maryland","Harford",95951,7159,17.8,2023
+24027,"Maryland","Howard",131412,9202,9.3,2023
+24029,"Maryland","Kent",66183,916,72.6,2023
+24031,"Maryland","Montgomery",112352,55716,2.4,2023
+24033,"Maryland","Prince George's",89689,73503,2,2023
+24035,"Maryland","Queen Anne's",94583,1797,54.5,2023
+24037,"Maryland","St. Mary's",106539,3988,50.4,2023
+24039,"Maryland","Somerset",47131,821,45.8,2023
+24041,"Maryland","Talbot",78931,1586,54.7,2023
+24043,"Maryland","Washington",65433,6498,29.5,2023
+24045,"Maryland","Wicomico",61848,5930,25.8,2023
+24047,"Maryland","Worcester",70952,2439,35.5,2023
+24510,"Maryland","Baltimore City",54068,27226,0,2023
+25001,"Massachusetts","Barnstable",82980,4187,7.5,2023
+25003,"Massachusetts","Berkshire",60945,2542,31.6,2023
+25005,"Massachusetts","Bristol",72857,15142,9.8,2023
+25007,"Massachusetts","Dukes",79338,548,39,2023
+25009,"Massachusetts","Essex",87145,19964,4.2,2023
+25011,"Massachusetts","Franklin",68948,1461,54.4,2023
+25013,"Massachusetts","Hampden",61818,11939,8.6,2023
+25015,"Massachusetts","Hampshire",77117,2704,27.4,2023
+25017,"Massachusetts","Middlesex",112345,33844,3,2023
+25019,"Massachusetts","Nantucket",110966,379,18.9,2023
+25021,"Massachusetts","Norfolk",114658,11462,1.2,2023
+25023,"Massachusetts","Plymouth",99445,9875,10.3,2023
+25025,"Massachusetts","Suffolk",77163,21840,0.1,2023
+25027,"Massachusetts","Worcester",84583,16462,18.4,2023
+26001,"Michigan","Alcona",46749,520,98.9,2023
+26003,"Michigan","Alger",54516,417,69,2023
+26005,"Michigan","Allegan",73873,5940,64.5,2023
+26007,"Michigan","Alpena",50848,1197,51.8,2023
+26009,"Michigan","Antrim",59430,1202,100,2023
+26011,"Michigan","Arenac",50452,789,100,2023
+26013,"Michigan","Baraga",46656,444,100,2023
+26015,"Michigan","Barry",68380,2867,77.1,2023
+26017,"Michigan","Bay",56681,5012,30.3,2023
+26019,"Michigan","Benzie",67924,915,100,2023
+26021,"Michigan","Berrien",57554,7996,32.9,2023
+26023,"Michigan","Branch",60481,2478,62.7,2023
+26025,"Michigan","Calhoun",55639,5944,31,2023
+26027,"Michigan","Cass",62065,2562,71.2,2023
+26029,"Michigan","Charlevoix",64604,1273,70.4,2023
+26031,"Michigan","Cheboygan",53747,1374,82.7,2023
+26033,"Michigan","Chippewa",48972,2404,48.9,2023
+26035,"Michigan","Clare",46085,1797,70.6,2023
+26037,"Michigan","Clinton",77617,3067,52.9,2023
+26039,"Michigan","Crawford",50367,615,72.6,2023
+26041,"Michigan","Delta",53234,1861,43.8,2023
+26043,"Michigan","Dickinson",56033,962,32.8,2023
+26045,"Michigan","Eaton",70638,4494,38,2023
+26047,"Michigan","Emmet",71401,1880,74.9,2023
+26049,"Michigan","Genesee",52157,18493,16.8,2023
+26051,"Michigan","Gladwin",49146,1329,88.6,2023
+26053,"Michigan","Gogebic",44675,693,68.2,2023
+26055,"Michigan","Grand Traverse",66271,4627,48,2023
+26057,"Michigan","Gratiot",55249,1644,60.2,2023
+26059,"Michigan","Hillsdale",54863,2217,69.1,2023
+26061,"Michigan","Houghton",52585,2128,37.8,2023
+26063,"Michigan","Huron",51767,1313,89.5,2023
+26065,"Michigan","Ingham",57733,13257,13.2,2023
+26067,"Michigan","Ionia",64641,2903,60.5,2023
+26069,"Michigan","Iosco",47401,1210,58.9,2023
+26071,"Michigan","Iron",48920,556,72.9,2023
+26073,"Michigan","Isabella",47999,4932,46.6,2023
+26075,"Michigan","Jackson",58637,6678,41.8,2023
+26077,"Michigan","Kalamazoo",62476,13336,17.5,2023
+26079,"Michigan","Kalkaska",57920,1085,84.4,2023
+26081,"Michigan","Kent",71933,34914,15.7,2023
+26083,"Michigan","Keweenaw",50729,66,100,2023
+26085,"Michigan","Lake",40382,596,100,2023
+26087,"Michigan","Lapeer",71306,4408,77.3,2023
+26089,"Michigan","Leelanau",86406,1125,91.3,2023
+26091,"Michigan","Lenawee",62050,4477,51.8,2023
+26093,"Michigan","Livingston",92357,5613,36.9,2023
+26095,"Michigan","Luce",47959,307,51.4,2023
+26097,"Michigan","Mackinac",53028,851,77.2,2023
+26099,"Michigan","Macomb",67646,42644,2.8,2023
+26101,"Michigan","Manistee",54422,1291,61.2,2023
+26103,"Michigan","Marquette",56179,2970,41.5,2023
+26105,"Michigan","Mason",55536,1466,62.7,2023
+26107,"Michigan","Mecosta",52481,2375,66.7,2023
+26109,"Michigan","Menominee",57421,1107,64.3,2023
+26111,"Michigan","Midland",68054,3153,42.8,2023
+26113,"Michigan","Missaukee",51151,906,100,2023
+26115,"Michigan","Monroe",66179,5568,37.6,2023
+26117,"Michigan","Montcalm",55735,3133,84.6,2023
+26119,"Michigan","Montmorency",44500,432,100,2023
+26121,"Michigan","Muskegon",55410,7242,23.3,2023
+26123,"Michigan","Newaygo",57840,2630,83.8,2023
+26125,"Michigan","Oakland",86597,45360,4.8,2023
+26127,"Michigan","Oceana",56533,1882,89.9,2023
+26129,"Michigan","Ogemaw",45186,1184,100,2023
+26131,"Michigan","Ontonagon",46824,289,100,2023
+26133,"Michigan","Osceola",52272,1377,100,2023
+26135,"Michigan","Oscoda",42620,531,100,2023
+26137,"Michigan","Otsego",59538,1325,65.7,2023
+26139,"Michigan","Ottawa",79402,10906,20.3,2023
+26141,"Michigan","Presque Isle",56119,609,80.9,2023
+26143,"Michigan","Roscommon",50822,991,66.1,2023
+26145,"Michigan","Saginaw",50992,8101,31.1,2023
+26147,"Michigan","St. Clair",61466,7584,38.6,2023
+26149,"Michigan","St. Joseph",58400,4477,54.4,2023
+26151,"Michigan","Sanilac",49541,2133,90.2,2023
+26153,"Michigan","Schoolcraft",49735,536,59,2023
+26155,"Michigan","Shiawassee",53197,2573,55,2023
+26157,"Michigan","Tuscola",52365,2459,84.2,2023
+26159,"Michigan","Van Buren",59240,4602,70.9,2023
+26161,"Michigan","Washtenaw",77359,13374,16.4,2023
+26163,"Michigan","Wayne",52644,84017,0.7,2023
+26165,"Michigan","Wexford",53711,1696,64.3,2023
+27001,"Minnesota","Aitkin",56471,652,100,2023
+27003,"Minnesota","Anoka",88416,14075,13.5,2023
+27005,"Minnesota","Becker",67261,1824,75.5,2023
+27007,"Minnesota","Beltrami",60386,3019,67.1,2023
+27009,"Minnesota","Benton",67048,1788,40,2023
+27011,"Minnesota","Big Stone",55635,173,100,2023
+27013,"Minnesota","Blue Earth",68620,2870,26.9,2023
+27015,"Minnesota","Brown",63708,881,34.9,2023
+27017,"Minnesota","Carlton",68442,1416,55.2,2023
+27019,"Minnesota","Carver",106582,2629,18.8,2023
+27021,"Minnesota","Cass",57928,1709,100,2023
+27023,"Minnesota","Chippewa",58611,600,50.3,2023
+27025,"Minnesota","Chisago",85080,1699,55.6,2023
+27027,"Minnesota","Clay",67970,2728,27.9,2023
+27029,"Minnesota","Clearwater",60235,638,100,2023
+27031,"Minnesota","Cook",62528,361,100,2023
+27033,"Minnesota","Cottonwood",58801,535,62.3,2023
+27035,"Minnesota","Crow Wing",64008,2977,62.7,2023
+27037,"Minnesota","Dakota",93850,13912,4.9,2023
+27039,"Minnesota","Dodge",84385,729,51.8,2023
+27041,"Minnesota","Douglas",67370,1270,52.8,2023
+27043,"Minnesota","Faribault",55696,593,77.6,2023
+27045,"Minnesota","Fillmore",67804,1185,93.3,2023
+27047,"Minnesota","Freeborn",62770,1524,42.8,2023
+27049,"Minnesota","Goodhue",74974,1785,47,2023
+27051,"Minnesota","Grant",61901,243,100,2023
+27053,"Minnesota","Hennepin",84220,51105,2.2,2023
+27055,"Minnesota","Houston",70325,650,57.4,2023
+27057,"Minnesota","Hubbard",65557,1085,83.4,2023
+27059,"Minnesota","Isanti",74481,1628,62.3,2023
+27061,"Minnesota","Itasca",59138,1974,79.4,2023
+27063,"Minnesota","Jackson",64052,401,69.1,2023
+27065,"Minnesota","Kanabec",57937,748,77.4,2023
+27067,"Minnesota","Kandiyohi",66030,2274,44.5,2023
+27069,"Minnesota","Kittson",60785,139,100,2023
+27071,"Minnesota","Koochiching",59299,595,47,2023
+27073,"Minnesota","Lac qui Parle",62182,236,100,2023
+27075,"Minnesota","Lake",68725,421,67,2023
+27077,"Minnesota","Lake of the Woods",62357,199,100,2023
+27079,"Minnesota","Le Sueur",82936,1163,62.2,2023
+27081,"Minnesota","Lincoln",60199,245,100,2023
+27083,"Minnesota","Lyon",66692,1299,47.9,2023
+27085,"Minnesota","McLeod",67835,1366,46.6,2023
+27087,"Minnesota","Mahnomen",52486,383,100,2023
+27089,"Minnesota","Marshall",66165,438,100,2023
+27091,"Minnesota","Martin",57521,760,54,2023
+27093,"Minnesota","Meeker",66785,1005,65.5,2023
+27095,"Minnesota","Mille Lacs",66546,1373,70.8,2023
+27097,"Minnesota","Morrison",63671,1450,72.8,2023
+27099,"Minnesota","Mower",60831,2114,35.9,2023
+27101,"Minnesota","Murray",72302,372,100,2023
+27103,"Minnesota","Nicollet",73386,1137,25.6,2023
+27105,"Minnesota","Nobles",58596,1708,41,2023
+27107,"Minnesota","Norman",60560,338,100,2023
+27109,"Minnesota","Olmsted",83656,5131,16.6,2023
+27111,"Minnesota","Otter Tail",63741,2632,73.6,2023
+27113,"Minnesota","Pennington",64778,482,36.2,2023
+27115,"Minnesota","Pine",62206,1540,89.3,2023
+27117,"Minnesota","Pipestone",58379,524,57.3,2023
+27119,"Minnesota","Polk",61629,1514,48.5,2023
+27121,"Minnesota","Pope",70662,399,100,2023
+27123,"Minnesota","Ramsey",70485,27342,0.2,2023
+27125,"Minnesota","Red Lake",57208,202,100,2023
+27127,"Minnesota","Redwood",61480,831,69.1,2023
+27129,"Minnesota","Renville",63768,678,100,2023
+27131,"Minnesota","Rice",71490,2679,25.9,2023
+27133,"Minnesota","Rock",67389,390,52.3,2023
+27135,"Minnesota","Roseau",69341,611,82.3,2023
+27137,"Minnesota","St. Louis",64321,8005,37.1,2023
+27139,"Minnesota","Scott",108730,5290,17.2,2023
+27141,"Minnesota","Sherburne",92205,3261,44.2,2023
+27143,"Minnesota","Sibley",73913,747,100,2023
+27145,"Minnesota","Stearns",67213,7490,36.9,2023
+27147,"Minnesota","Steele",70093,1396,30.6,2023
+27149,"Minnesota","Stevens",64585,393,47.3,2023
+27151,"Minnesota","Swift",59516,440,67.4,2023
+27153,"Minnesota","Todd",58012,1400,78.4,2023
+27155,"Minnesota","Traverse",60270,132,100,2023
+27157,"Minnesota","Wabasha",68843,760,64.5,2023
+27159,"Minnesota","Wadena",55215,630,67,2023
+27161,"Minnesota","Waseca",69110,798,50.2,2023
+27163,"Minnesota","Washington",105251,7633,14.5,2023
+27165,"Minnesota","Watonwan",65099,786,59.1,2023
+27167,"Minnesota","Wilkin",65514,199,50.1,2023
+27169,"Minnesota","Winona",63878,2108,34.5,2023
+27171,"Minnesota","Wright",99744,5671,32.5,2023
+27173,"Minnesota","Yellow Medicine",64247,474,80.8,2023
+28001,"Mississippi","Adams",40007,3006,37.2,2023
+28003,"Mississippi","Alcorn",46712,3580,66.4,2023
+28005,"Mississippi","Amite",41927,1280,100,2023
+28007,"Mississippi","Attala",40592,1927,64.3,2023
+28009,"Mississippi","Benton",41019,971,100,2023
+28011,"Mississippi","Bolivar",35599,3257,54,2023
+28013,"Mississippi","Calhoun",38073,1752,100,2023
+28015,"Mississippi","Carroll",46012,916,100,2023
+28017,"Mississippi","Chickasaw",40762,1840,85.3,2023
+28019,"Mississippi","Choctaw",43567,772,100,2023
+28021,"Mississippi","Claiborne",33163,775,100,2023
+28023,"Mississippi","Clarke",43774,1527,100,2023
+28025,"Mississippi","Clay",40257,2001,55.5,2023
+28027,"Mississippi","Coahoma",31234,2231,32,2023
+28029,"Mississippi","Copiah",43471,2761,65.6,2023
+28031,"Mississippi","Covington",43796,2039,100,2023
+28033,"Mississippi","DeSoto",72890,15701,20.4,2023
+28035,"Mississippi","Forrest",45326,8087,29.6,2023
+28037,"Mississippi","Franklin",43579,737,100,2023
+28039,"Mississippi","George",54560,2484,88.3,2023
+28041,"Mississippi","Greene",45013,1035,100,2023
+28043,"Mississippi","Grenada",39562,2044,52.2,2023
+28045,"Mississippi","Hancock",54207,4566,42.6,2023
+28047,"Mississippi","Harrison",54090,21938,22.8,2023
+28049,"Mississippi","Hinds",42092,19735,15.3,2023
+28051,"Mississippi","Holmes",28236,1527,86.8,2023
+28053,"Mississippi","Humphreys",30555,910,49.8,2023
+28055,"Mississippi","Issaquena",29050,114,100,2023
+28057,"Mississippi","Itawamba",51454,2710,86.3,2023
+28059,"Mississippi","Jackson",57664,13951,27.3,2023
+28061,"Mississippi","Jasper",43527,1547,100,2023
+28063,"Mississippi","Jefferson",32234,711,100,2023
+28065,"Mississippi","Jefferson Davis",34876,1105,100,2023
+28067,"Mississippi","Jones",44670,6670,61.4,2023
+28069,"Mississippi","Kemper",37262,1137,100,2023
+28071,"Mississippi","Lafayette",52428,5676,45.6,2023
+28073,"Mississippi","Lamar",65261,7057,50.4,2023
+28075,"Mississippi","Lauderdale",44492,6884,48.3,2023
+28077,"Mississippi","Lawrence",45844,1319,100,2023
+28079,"Mississippi","Leake",42938,3037,81.2,2023
+28081,"Mississippi","Lee",57597,8627,45.4,2023
+28083,"Mississippi","Leflore",31091,2732,17.7,2023
+28085,"Mississippi","Lincoln",45609,3489,69.5,2023
+28087,"Mississippi","Lowndes",49086,5455,42.6,2023
+28089,"Mississippi","Madison",77665,7656,28,2023
+28091,"Mississippi","Marion",40017,2783,73.1,2023
+28093,"Mississippi","Marshall",40650,3411,83.4,2023
+28095,"Mississippi","Monroe",47768,3601,69.6,2023
+28097,"Mississippi","Montgomery",40442,1025,59.8,2023
+28099,"Mississippi","Neshoba",44008,4009,73.9,2023
+28101,"Mississippi","Newton",45278,2403,87.1,2023
+28103,"Mississippi","Noxubee",34467,1139,74,2023
+28105,"Mississippi","Oktibbeha",43226,5118,36.4,2023
+28107,"Mississippi","Panola",42287,3914,78.9,2023
+28109,"Mississippi","Pearl River",51023,5535,69.9,2023
+28111,"Mississippi","Perry",45758,1306,100,2023
+28113,"Mississippi","Pike",39063,4074,59.4,2023
+28115,"Mississippi","Pontotoc",50133,3984,84,2023
+28117,"Mississippi","Prentiss",49750,2802,76.1,2023
+28119,"Mississippi","Quitman",31877,759,57,2023
+28121,"Mississippi","Rankin",71478,12671,33.9,2023
+28123,"Mississippi","Scott",41496,3553,72.2,2023
+28125,"Mississippi","Sharkey",32650,488,100,2023
+28127,"Mississippi","Simpson",43757,2696,84.8,2023
+28129,"Mississippi","Smith",48335,1779,100,2023
+28131,"Mississippi","Stone",51353,1947,78.8,2023
+28133,"Mississippi","Sunflower",34017,2093,45.8,2023
+28135,"Mississippi","Tallahatchie",35671,1152,80.9,2023
+28137,"Mississippi","Tate",54882,2743,77.4,2023
+28139,"Mississippi","Tippah",49254,2509,83.8,2023
+28141,"Mississippi","Tishomingo",47839,2054,100,2023
+28143,"Mississippi","Tunica",37886,951,66,2023
+28145,"Mississippi","Union",51678,3484,75.6,2023
+28147,"Mississippi","Walthall",37080,1544,100,2023
+28149,"Mississippi","Warren",50060,4561,40.9,2023
+28151,"Mississippi","Washington",38040,4748,17.5,2023
+28153,"Mississippi","Wayne",38380,2365,79.6,2023
+28155,"Mississippi","Webster",49335,965,100,2023
+28157,"Mississippi","Wilkinson",33777,776,100,2023
+28159,"Mississippi","Winston",48427,2008,75.9,2023
+28161,"Mississippi","Yalobusha",42995,1112,79.3,2023
+28163,"Mississippi","Yazoo",37119,2222,44.6,2023
+29001,"Missouri","Adair",47619,2710,37.9,2023
+29003,"Missouri","Andrew",63665,1449,61.3,2023
+29005,"Missouri","Atchison",54708,444,100,2023
+29007,"Missouri","Audrain",55262,2378,41.2,2023
+29009,"Missouri","Barry",47532,3964,73.3,2023
+29011,"Missouri","Barton",46554,1220,64,2023
+29013,"Missouri","Bates",54634,1676,77.3,2023
+29015,"Missouri","Benton",51574,1774,86.5,2023
+29017,"Missouri","Bollinger",54291,1336,100,2023
+29019,"Missouri","Boone",62805,13989,18.8,2023
+29021,"Missouri","Buchanan",51811,8071,13.4,2023
+29023,"Missouri","Butler",43640,4347,52.2,2023
+29025,"Missouri","Caldwell",52861,906,100,2023
+29027,"Missouri","Callaway",64333,3681,62,2023
+29029,"Missouri","Camden",54637,4308,74.2,2023
+29031,"Missouri","Cape Girardeau",60997,6414,30.5,2023
+29033,"Missouri","Carroll",59257,797,64.5,2023
+29035,"Missouri","Carter",39423,697,100,2023
+29037,"Missouri","Cass",79949,8778,32.4,2023
+29039,"Missouri","Cedar",43563,1455,75.3,2023
+29041,"Missouri","Chariton",56898,598,100,2023
+29043,"Missouri","Christian",70623,8365,44.8,2023
+29045,"Missouri","Clark",50390,704,100,2023
+29047,"Missouri","Clay",75129,18387,9.8,2023
+29049,"Missouri","Clinton",64823,1754,76.2,2023
+29051,"Missouri","Cole",63972,5052,29.1,2023
+29053,"Missouri","Cooper",56824,1288,53.2,2023
+29055,"Missouri","Crawford",49511,2490,73.3,2023
+29057,"Missouri","Dade",43303,734,100,2023
+29059,"Missouri","Dallas",46189,1943,81.9,2023
+29061,"Missouri","Daviess",56786,926,100,2023
+29063,"Missouri","DeKalb",54112,684,62.4,2023
+29065,"Missouri","Dent",45530,1672,68.6,2023
+29067,"Missouri","Douglas",41505,1263,79.1,2023
+29069,"Missouri","Dunklin",42932,3458,50.5,2023
+29071,"Missouri","Franklin",68162,8881,55.6,2023
+29073,"Missouri","Gasconade",56626,1324,80.9,2023
+29075,"Missouri","Gentry",49726,611,100,2023
+29077,"Missouri","Greene",53391,28759,14,2023
+29079,"Missouri","Grundy",49560,979,45.5,2023
+29081,"Missouri","Harrison",47536,720,70.4,2023
+29083,"Missouri","Henry",48263,2158,49.5,2023
+29085,"Missouri","Hickory",40224,924,100,2023
+29087,"Missouri","Holt",54322,376,100,2023
+29089,"Missouri","Howard",55699,740,64.1,2023
+29091,"Missouri","Howell",45132,4100,72.2,2023
+29093,"Missouri","Iron",44817,1077,74.9,2023
+29095,"Missouri","Jackson",63282,65442,3.8,2023
+29097,"Missouri","Jasper",51936,13750,23.7,2023
+29099,"Missouri","Jefferson",68959,18287,30.2,2023
+29101,"Missouri","Johnson",59146,4859,50.4,2023
+29103,"Missouri","Knox",45464,372,100,2023
+29105,"Missouri","Laclede",46405,3472,60.5,2023
+29107,"Missouri","Lafayette",68142,2782,56.9,2023
+29109,"Missouri","Lawrence",51385,4501,58.7,2023
+29111,"Missouri","Lewis",47136,759,100,2023
+29113,"Missouri","Lincoln",76182,5002,74.8,2023
+29115,"Missouri","Linn",49490,1067,66.5,2023
+29117,"Missouri","Livingston",51789,1254,36.6,2023
+29119,"Missouri","McDonald",41784,3555,100,2023
+29121,"Missouri","Macon",49295,1304,67.8,2023
+29123,"Missouri","Madison",46428,1161,65.5,2023
+29125,"Missouri","Maries",52560,894,100,2023
+29127,"Missouri","Marion",54542,2442,24.8,2023
+29129,"Missouri","Mercer",49815,364,100,2023
+29131,"Missouri","Miller",47185,2930,79.8,2023
+29133,"Missouri","Mississippi",38559,1107,32.7,2023
+29135,"Missouri","Moniteau",56419,1754,52.7,2023
+29137,"Missouri","Monroe",52079,783,100,2023
+29139,"Missouri","Montgomery",52818,1061,78.5,2023
+29141,"Missouri","Morgan",50410,2707,100,2023
+29143,"Missouri","New Madrid",39778,1648,56.9,2023
+29145,"Missouri","Newton",58832,6363,64.4,2023
+29147,"Missouri","Nodaway",49751,1749,43.4,2023
+29149,"Missouri","Oregon",37898,1064,80.5,2023
+29151,"Missouri","Osage",67603,996,100,2023
+29153,"Missouri","Ozark",41194,887,100,2023
+29155,"Missouri","Pemiscot",36828,1473,49.3,2023
+29157,"Missouri","Perry",56788,1541,55.6,2023
+29159,"Missouri","Pettis",49333,4688,37.8,2023
+29161,"Missouri","Phelps",49346,4905,46.2,2023
+29163,"Missouri","Pike",51699,1531,54.4,2023
+29165,"Missouri","Platte",86720,6250,15.8,2023
+29167,"Missouri","Polk",53856,3122,68.9,2023
+29169,"Missouri","Pulaski",58046,3964,44,2023
+29171,"Missouri","Putnam",46774,415,100,2023
+29173,"Missouri","Ralls",61239,822,96.1,2023
+29175,"Missouri","Randolph",48560,2017,45.2,2023
+29177,"Missouri","Ray",68609,2020,75.2,2023
+29179,"Missouri","Reynolds",42611,636,100,2023
+29181,"Missouri","Ripley",37865,1441,100,2023
+29183,"Missouri","St. Charles",92029,18687,5.8,2023
+29185,"Missouri","St. Clair",41754,953,100,2023
+29186,"Missouri","Ste. Genevieve",63729,1436,76.1,2023
+29187,"Missouri","St. Francois",48557,5939,39.8,2023
+29189,"Missouri","St. Louis",72507,58466,1.1,2023
+29195,"Missouri","Saline",51994,2189,45.8,2023
+29197,"Missouri","Schuyler",49163,447,100,2023
+29199,"Missouri","Scotland",48665,631,100,2023
+29201,"Missouri","Scott",49257,3534,41.6,2023
+29203,"Missouri","Shannon",36683,1002,100,2023
+29205,"Missouri","Shelby",50838,527,100,2023
+29207,"Missouri","Stoddard",46818,3188,69.8,2023
+29209,"Missouri","Stone",53039,3185,88.7,2023
+29211,"Missouri","Sullivan",46864,623,100,2023
+29213,"Missouri","Taney",47210,6670,43.9,2023
+29215,"Missouri","Texas",41483,2441,99.2,2023
+29217,"Missouri","Vernon",48273,2012,58.3,2023
+29219,"Missouri","Warren",71073,3226,63,2023
+29221,"Missouri","Washington",44063,2457,80.5,2023
+29223,"Missouri","Wayne",41271,1267,100,2023
+29225,"Missouri","Webster",59303,4486,73.9,2023
+29227,"Missouri","Worth",45477,162,100,2023
+29229,"Missouri","Wright",41748,1958,76.6,2023
+29510,"Missouri","St. Louis City",49246,26277,0,2023
+30001,"Montana","Beaverhead",53776,662,50.2,2023
+30003,"Montana","Big Horn",47179,1445,71.9,2023
+30005,"Montana","Blaine",46335,686,100,2023
+30007,"Montana","Broadwater",66307,474,100,2023
+30009,"Montana","Carbon",62841,692,100,2023
+30011,"Montana","Carter",52116,61,100,2023
+30013,"Montana","Cascade",57085,5566,19.8,2023
+30015,"Montana","Chouteau",51113,502,100,2023
+30017,"Montana","Custer",54913,788,17.9,2023
+30019,"Montana","Daniels",52852,86,100,2023
+30021,"Montana","Dawson",70252,475,27.6,2023
+30023,"Montana","Deer Lodge",45725,567,33.6,2023
+30025,"Montana","Fallon",63793,207,100,2023
+30027,"Montana","Fergus",54823,796,47.4,2023
+30029,"Montana","Flathead",65835,7166,51.5,2023
+30031,"Montana","Gallatin",78910,7803,33.5,2023
+30033,"Montana","Garfield",49898,58,100,2023
+30035,"Montana","Glacier",44777,1654,44,2023
+30037,"Montana","Golden Valley",43820,49,100,2023
+30039,"Montana","Granite",52984,235,100,2023
+30041,"Montana","Hill",54377,1315,40,2023
+30043,"Montana","Jefferson",68128,702,100,2023
+30045,"Montana","Judith Basin",51392,118,100,2023
+30047,"Montana","Lake",50978,3688,83.4,2023
+30049,"Montana","Lewis and Clark",67702,3832,28.9,2023
+30051,"Montana","Liberty",49277,243,100,2023
+30053,"Montana","Lincoln",48156,1657,79.8,2023
+30055,"Montana","McCone",51881,78,100,2023
+30057,"Montana","Madison",62516,650,100,2023
+30059,"Montana","Meagher",45391,142,100,2023
+30061,"Montana","Mineral",50327,319,100,2023
+30063,"Montana","Missoula",65682,8210,22.3,2023
+30065,"Montana","Musselshell",54003,296,100,2023
+30067,"Montana","Park",59113,1243,47.7,2023
+30069,"Montana","Petroleum",48141,20,100,2023
+30071,"Montana","Phillips",53626,337,100,2023
+30073,"Montana","Pondera",47900,493,58.1,2023
+30075,"Montana","Powder River",52298,123,100,2023
+30077,"Montana","Powell",47687,404,54.2,2023
+30079,"Montana","Prairie",46328,74,100,2023
+30081,"Montana","Ravalli",60030,3360,84.6,2023
+30083,"Montana","Richland",63148,746,44.2,2023
+30085,"Montana","Roosevelt",47266,1167,39.7,2023
+30087,"Montana","Rosebud",61331,818,100,2023
+30089,"Montana","Sanders",50270,998,100,2023
+30091,"Montana","Sheridan",56095,216,100,2023
+30093,"Montana","Silver Bow",52495,2295,11.4,2023
+30095,"Montana","Stillwater",75820,478,100,2023
+30097,"Montana","Sweet Grass",61454,222,100,2023
+30099,"Montana","Teton",59787,455,100,2023
+30101,"Montana","Toole",49297,292,43,2023
+30103,"Montana","Treasure",58275,47,100,2023
+30105,"Montana","Valley",55338,475,55.2,2023
+30107,"Montana","Wheatland",42431,258,100,2023
+30109,"Montana","Wibaux",51924,59,100,2023
+30111,"Montana","Yellowstone",69182,10107,16.7,2023
+31001,"Nebraska","Adams",57136,2102,22.5,2023
+31003,"Nebraska","Antelope",57413,403,100,2023
+31005,"Nebraska","Arthur",58677,18,100,2023
+31007,"Nebraska","Banner",59863,29,100,2023
+31009,"Nebraska","Blaine",53541,21,100,2023
+31011,"Nebraska","Boone",64705,239,100,2023
+31013,"Nebraska","Box Butte",65493,893,25,2023
+31015,"Nebraska","Boyd",51107,107,100,2023
+31017,"Nebraska","Brown",52738,172,100,2023
+31019,"Nebraska","Buffalo",65721,3331,32.3,2023
+31021,"Nebraska","Burt",61317,482,100,2023
+31023,"Nebraska","Butler",66416,413,65.7,2023
+31025,"Nebraska","Cass",77771,1369,73,2023
+31027,"Nebraska","Cedar",64037,497,100,2023
+31029,"Nebraska","Chase",59492,325,100,2023
+31031,"Nebraska","Cherry",53533,384,52.5,2023
+31033,"Nebraska","Cheyenne",54772,493,36.3,2023
+31035,"Nebraska","Clay",64315,439,100,2023
+31037,"Nebraska","Colfax",69498,1345,40.5,2023
+31039,"Nebraska","Cuming",66165,690,65.2,2023
+31041,"Nebraska","Custer",56531,641,67.7,2023
+31043,"Nebraska","Dakota",64231,2153,21.1,2023
+31045,"Nebraska","Dawes",50905,554,39.9,2023
+31047,"Nebraska","Dawson",61817,2561,26.7,2023
+31049,"Nebraska","Deuel",51583,122,100,2023
+31051,"Nebraska","Dixon",64943,445,100,2023
+31053,"Nebraska","Dodge",59872,2582,25.1,2023
+31055,"Nebraska","Douglas",69475,38006,2.2,2023
+31057,"Nebraska","Dundy",52916,162,100,2023
+31059,"Nebraska","Fillmore",65739,313,100,2023
+31061,"Nebraska","Franklin",54192,147,100,2023
+31063,"Nebraska","Frontier",53735,127,100,2023
+31065,"Nebraska","Furnas",54308,334,100,2023
+31067,"Nebraska","Gage",56261,1308,44.4,2023
+31069,"Nebraska","Garden",53240,109,100,2023
+31071,"Nebraska","Garfield",51055,81,100,2023
+31073,"Nebraska","Gosper",67263,138,100,2023
+31075,"Nebraska","Grant",64244,36,100,2023
+31077,"Nebraska","Greeley",53225,132,100,2023
+31079,"Nebraska","Hall",60751,6200,14.6,2023
+31081,"Nebraska","Hamilton",73024,487,51.1,2023
+31083,"Nebraska","Harlan",58928,208,100,2023
+31085,"Nebraska","Hayes",57060,58,100,2023
+31087,"Nebraska","Hitchcock",50300,160,100,2023
+31089,"Nebraska","Holt",61415,547,64.7,2023
+31091,"Nebraska","Hooker",52254,49,100,2023
+31093,"Nebraska","Howard",70906,307,100,2023
+31095,"Nebraska","Jefferson",57098,436,48.2,2023
+31097,"Nebraska","Johnson",50886,263,100,2023
+31099,"Nebraska","Kearney",72694,338,54.6,2023
+31101,"Nebraska","Keith",53637,507,47.1,2023
+31103,"Nebraska","Keya Paha",49421,38,100,2023
+31105,"Nebraska","Kimball",52460,281,100,2023
+31107,"Nebraska","Knox",54189,587,100,2023
+31109,"Nebraska","Lancaster",65436,19709,8.3,2023
+31111,"Nebraska","Lincoln",61702,2170,30.5,2023
+31113,"Nebraska","Logan",61004,44,100,2023
+31115,"Nebraska","Loup",53369,28,100,2023
+31117,"Nebraska","McPherson",54138,25,100,2023
+31119,"Nebraska","Madison",61263,2745,27.9,2023
+31121,"Nebraska","Merrick",64309,490,58.9,2023
+31123,"Nebraska","Morrill",52933,392,100,2023
+31125,"Nebraska","Nance",56880,180,100,2023
+31127,"Nebraska","Nemaha",56658,392,52.1,2023
+31129,"Nebraska","Nuckolls",59602,241,100,2023
+31131,"Nebraska","Otoe",67595,900,55.1,2023
+31133,"Nebraska","Pawnee",50501,149,100,2023
+31135,"Nebraska","Perkins",61156,204,100,2023
+31137,"Nebraska","Phelps",66986,525,41.9,2023
+31139,"Nebraska","Pierce",64607,326,100,2023
+31141,"Nebraska","Platte",70177,2421,31.4,2023
+31143,"Nebraska","Polk",69503,379,100,2023
+31145,"Nebraska","Red Willow",63958,661,31.6,2023
+31147,"Nebraska","Richardson",54044,613,50.6,2023
+31149,"Nebraska","Rock",53120,65,100,2023
+31151,"Nebraska","Saline",63187,1168,51.1,2023
+31153,"Nebraska","Sarpy",88913,8469,5.3,2023
+31155,"Nebraska","Saunders",78689,1163,66.5,2023
+31157,"Nebraska","Scotts Bluff",53206,3090,29.8,2023
+31159,"Nebraska","Seward",75305,773,60.4,2023
+31161,"Nebraska","Sheridan",47543,421,100,2023
+31163,"Nebraska","Sherman",54771,150,100,2023
+31165,"Nebraska","Sioux",46834,53,100,2023
+31167,"Nebraska","Stanton",71709,324,73.5,2023
+31169,"Nebraska","Thayer",56626,272,100,2023
+31171,"Nebraska","Thomas",53019,44,100,2023
+31173,"Nebraska","Thurston",52202,796,100,2023
+31175,"Nebraska","Valley",52336,276,100,2023
+31177,"Nebraska","Washington",100572,981,61.2,2023
+31179,"Nebraska","Wayne",59787,495,42.1,2023
+31181,"Nebraska","Webster",58161,185,100,2023
+31183,"Nebraska","Wheeler",50850,37,100,2023
+31185,"Nebraska","York",64531,687,44.1,2023
+32001,"Nevada","Churchill",67716,2479,34.7,2023
+32003,"Nevada","Clark",63735,229469,1.3,2023
+32005,"Nevada","Douglas",74053,3392,31.6,2023
+32007,"Nevada","Elko",81466,5167,37.9,2023
+32009,"Nevada","Esmeralda",53509,90,100,2023
+32011,"Nevada","Eureka",80084,94,100,2023
+32013,"Nevada","Humboldt",77018,1871,37.9,2023
+32015,"Nevada","Lander",85773,523,39,2023
+32017,"Nevada","Lincoln",64304,357,100,2023
+32019,"Nevada","Lyon",71547,5932,36.9,2023
+32021,"Nevada","Mineral",53515,335,31.9,2023
+32023,"Nevada","Nye",59282,3653,35.3,2023
+32027,"Nevada","Pershing",52412,408,100,2023
+32029,"Nevada","Storey",79281,282,92.6,2023
+32031,"Nevada","Washoe",76123,45280,4.3,2023
+32033,"Nevada","White Pine",63070,669,53.3,2023
+32510,"Nevada","Carson City",64869,5712,4.8,2023
+33001,"New Hampshire","Belknap",75781,4042,66.3,2023
+33003,"New Hampshire","Carroll",66874,3325,90.2,2023
+33005,"New Hampshire","Cheshire",67883,4227,65,2023
+33007,"New Hampshire","Coos",53602,1941,66.2,2023
+33009,"New Hampshire","Grafton",77378,5386,68.7,2023
+33011,"New Hampshire","Hillsborough",90806,24425,21.2,2023
+33013,"New Hampshire","Merrimack",80842,8573,54.6,2023
+33015,"New Hampshire","Rockingham",104281,14469,24.9,2023
+33017,"New Hampshire","Strafford",91928,7713,32.4,2023
+33019,"New Hampshire","Sullivan",64919,2555,64.2,2023
+34001,"New Jersey","Atlantic",65693,16581,12.7,2023
+34003,"New Jersey","Bergen",104777,47785,0.1,2023
+34005,"New Jersey","Burlington",94043,17189,6.7,2023
+34007,"New Jersey","Camden",77675,27570,1.6,2023
+34009,"New Jersey","Cape May",74896,5045,17.5,2023
+34011,"New Jersey","Cumberland",58030,13096,23,2023
+34013,"New Jersey","Essex",66191,72494,0,2023
+34015,"New Jersey","Gloucester",93783,12268,8.3,2023
+34017,"New Jersey","Hudson",79159,63575,0,2023
+34019,"New Jersey","Hunterdon",122095,4253,49.6,2023
+34021,"New Jersey","Mercer",86499,19803,3.5,2023
+34023,"New Jersey","Middlesex",98992,48831,0.7,2023
+34025,"New Jersey","Monmouth",107500,30569,3.7,2023
+34027,"New Jersey","Morris",122525,19628,6.8,2023
+34029,"New Jersey","Ocean",75732,25678,2.9,2023
+34031,"New Jersey","Passaic",74016,54390,2.4,2023
+34033,"New Jersey","Salem",69844,3318,45.3,2023
+34035,"New Jersey","Somerset",123708,14825,5.8,2023
+34037,"New Jersey","Sussex",99695,5580,39.8,2023
+34039,"New Jersey","Union",85926,54456,0,2023
+34041,"New Jersey","Warren",82900,5832,37.6,2023
+35001,"New Mexico","Bernalillo",59723,51250,4.2,2023
+35003,"New Mexico","Catron",40273,111,100,2023
+35005,"New Mexico","Chaves",45098,5555,24.2,2023
+35006,"New Mexico","Cibola",42862,2120,55.3,2023
+35007,"New Mexico","Colfax",42787,660,52.4,2023
+35009,"New Mexico","Curry",50322,4293,14.1,2023
+35011,"New Mexico","De Baca",40181,131,100,2023
+35013,"New Mexico","Dona Ana",46619,21532,19.3,2023
+35015,"New Mexico","Eddy",66191,4719,20.9,2023
+35017,"New Mexico","Grant",46503,1385,42.4,2023
+35019,"New Mexico","Guadalupe",37534,163,44.1,2023
+35021,"New Mexico","Harding",44080,35,100,2023
+35023,"New Mexico","Hidalgo",40226,307,100,2023
+35025,"New Mexico","Lea",51749,7221,21,2023
+35027,"New Mexico","Lincoln",50472,1686,53.2,2023
+35028,"New Mexico","Los Alamos",134050,407,11.2,2023
+35029,"New Mexico","Luna",35040,2250,40.6,2023
+35031,"New Mexico","McKinley",40149,9747,57.4,2023
+35033,"New Mexico","Mora",41734,218,100,2023
+35035,"New Mexico","Otero",49845,6253,29.6,2023
+35037,"New Mexico","Quay",35776,546,41.6,2023
+35039,"New Mexico","Rio Arriba",47042,2845,49.8,2023
+35041,"New Mexico","Roosevelt",46977,1847,36.5,2023
+35043,"New Mexico","Sandoval",72545,10500,17.1,2023
+35045,"New Mexico","San Juan",49977,12810,33.7,2023
+35047,"New Mexico","San Miguel",43564,1499,46.9,2023
+35049,"New Mexico","Santa Fe",67311,12589,25.2,2023
+35051,"New Mexico","Sierra",37660,613,34,2023
+35053,"New Mexico","Socorro",38817,1319,49.7,2023
+35055,"New Mexico","Taos",45626,2388,58.4,2023
+35057,"New Mexico","Torrance",45684,976,98.8,2023
+35059,"New Mexico","Union",41518,259,100,2023
+35061,"New Mexico","Valencia",50510,6086,16.7,2023
+36001,"New York","Albany",74512,10075,9.7,2023
+36003,"New York","Allegany",55320,1442,78.7,2023
+36005,"New York","Bronx",43143,93103,0,2023
+36007,"New York","Broome",55729,6708,26.1,2023
+36009,"New York","Cattaraugus",54602,3413,61.8,2023
+36011,"New York","Cayuga",62839,2868,55.8,2023
+36013,"New York","Chautauqua",48102,4958,43.9,2023
+36015,"New York","Chemung",59155,2774,24.2,2023
+36017,"New York","Chenango",58177,1574,83.4,2023
+36019,"New York","Clinton",60094,2811,64.2,2023
+36021,"New York","Columbia",69403,2354,73.3,2023
+36023,"New York","Cortland",62292,1579,44.3,2023
+36025,"New York","Delaware",53385,1650,78.4,2023
+36027,"New York","Dutchess",87370,9385,25.4,2023
+36029,"New York","Erie",63014,27105,9.4,2023
+36031,"New York","Essex",62884,1237,74.9,2023
+36033,"New York","Franklin",54960,2087,62.7,2023
+36035,"New York","Fulton",56169,1989,50.4,2023
+36037,"New York","Genesee",62785,1874,59.9,2023
+36039,"New York","Greene",61375,1646,73.1,2023
+36041,"New York","Hamilton",57427,232,100,2023
+36043,"New York","Herkimer",59366,2336,51.8,2023
+36045,"New York","Jefferson",59430,3866,48,2023
+36047,"New York","Kings",66943,148502,0,2023
+36049,"New York","Lewis",59978,903,86.8,2023
+36051,"New York","Livingston",65221,1988,54.7,2023
+36053,"New York","Madison",66419,2054,58.9,2023
+36055,"New York","Monroe",66003,23720,6.4,2023
+36057,"New York","Montgomery",55523,1848,40.9,2023
+36059,"New York","Nassau",125118,40069,0.2,2023
+36061,"New York","New York",84371,56677,0,2023
+36063,"New York","Niagara",61068,6679,22.4,2023
+36065,"New York","Oneida",59804,7813,33,2023
+36067,"New York","Onondaga",65548,15074,12.6,2023
+36069,"New York","Ontario",76137,3416,47.5,2023
+36071,"New York","Orange",88494,15083,22.3,2023
+36073,"New York","Orleans",56140,1326,60.9,2023
+36075,"New York","Oswego",59394,4171,61.8,2023
+36077,"New York","Otsego",61664,1999,70.6,2023
+36079,"New York","Putnam",107014,2963,20.5,2023
+36081,"New York","Queens",72807,167484,0,2023
+36083,"New York","Rensselaer",74106,4195,30.5,2023
+36085,"New York","Richmond",84744,15448,0,2023
+36087,"New York","Rockland",98054,11935,0.7,2023
+36089,"New York","St. Lawrence",55531,3581,62,2023
+36091,"New York","Saratoga",87154,6146,30,2023
+36093,"New York","Schenectady",72357,4754,8.2,2023
+36095,"New York","Schoharie",67080,1008,82.8,2023
+36097,"New York","Schuyler",57706,569,81.2,2023
+36099,"New York","Seneca",60985,1289,58.7,2023
+36101,"New York","Steuben",57584,3693,60.4,2023
+36103,"New York","Suffolk",112681,50977,2.6,2023
+36105,"New York","Sullivan",57017,3188,74.2,2023
+36107,"New York","Tioga",64052,1458,65.7,2023
+36109,"New York","Tompkins",65402,2979,43.3,2023
+36111,"New York","Ulster",77427,7650,46,2023
+36113,"New York","Warren",69314,2275,33.9,2023
+36115,"New York","Washington",61633,2117,67.9,2023
+36117,"New York","Wayne",65299,3731,60.7,2023
+36119,"New York","Westchester",109131,39225,3.3,2023
+36121,"New York","Wyoming",66261,1211,64.1,2023
+36123,"New York","Yates",63619,1166,71.2,2023
+37001,"North Carolina","Alamance",58847,17510,28.6,2023
+37003,"North Carolina","Alexander",52989,3138,72.8,2023
+37005,"North Carolina","Alleghany",45239,1195,100,2023
+37007,"North Carolina","Anson",40773,2005,78.5,2023
+37009,"North Carolina","Ashe",45551,2453,84.9,2023
+37011,"North Carolina","Avery",48470,1662,88.8,2023
+37013,"North Carolina","Beaufort",50312,4229,65.6,2023
+37015,"North Carolina","Bertie",41280,1265,83.2,2023
+37017,"North Carolina","Bladen",42398,3411,91.2,2023
+37019,"North Carolina","Brunswick",67286,10394,43,2023
+37021,"North Carolina","Buncombe",63838,26935,24.1,2023
+37023,"North Carolina","Burke",53758,9630,42.7,2023
+37025,"North Carolina","Cabarrus",79148,18876,19.3,2023
+37027,"North Carolina","Caldwell",44705,8249,34.4,2023
+37029,"North Carolina","Camden",79162,1006,99.5,2023
+37031,"North Carolina","Carteret",63146,5342,32.6,2023
+37033,"North Carolina","Caswell",50879,1920,99.2,2023
+37035,"North Carolina","Catawba",59841,15288,30.3,2023
+37037,"North Carolina","Chatham",82764,5828,65.9,2023
+37039,"North Carolina","Cherokee",44211,2661,100,2023
+37041,"North Carolina","Chowan",48568,954,67.6,2023
+37043,"North Carolina","Clay",51537,1108,100,2023
+37045,"North Carolina","Cleveland",49009,9443,55.8,2023
+37047,"North Carolina","Columbus",41206,5764,80.6,2023
+37049,"North Carolina","Craven",57628,8727,27.7,2023
+37051,"North Carolina","Cumberland",52463,29188,13.4,2023
+37053,"North Carolina","Currituck",82759,2429,98.3,2023
+37055,"North Carolina","Dare",68682,3497,29,2023
+37057,"North Carolina","Davidson",53473,17802,47.4,2023
+37059,"North Carolina","Davie",67224,3941,70.3,2023
+37061,"North Carolina","Duplin",45149,8526,86.5,2023
+37063,"North Carolina","Durham",71436,32087,5.6,2023
+37065,"North Carolina","Edgecombe",41157,3931,45.3,2023
+37067,"North Carolina","Forsyth",60228,33641,7.3,2023
+37069,"North Carolina","Franklin",63687,7343,85.3,2023
+37071,"North Carolina","Gaston",56017,21332,19.6,2023
+37073,"North Carolina","Gates",59762,807,100,2023
+37075,"North Carolina","Graham",43647,1008,100,2023
+37077,"North Carolina","Granville",62715,5348,54.7,2023
+37079,"North Carolina","Greene",42884,2568,100,2023
+37081,"North Carolina","Guilford",60915,46472,12.7,2023
+37083,"North Carolina","Halifax",38944,4537,54.7,2023
+37085,"North Carolina","Harnett",61701,12619,55.9,2023
+37087,"North Carolina","Haywood",51817,5331,55.4,2023
+37089,"North Carolina","Henderson",60384,11615,33.3,2023
+37091,"North Carolina","Hertford",40461,1679,68.6,2023
+37093,"North Carolina","Hoke",54948,6415,43.2,2023
+37095,"North Carolina","Hyde",44880,487,100,2023
+37097,"North Carolina","Iredell",69734,17269,37.9,2023
+37099,"North Carolina","Jackson",50652,5713,73.1,2023
+37101,"North Carolina","Johnston",69889,20078,52,2023
+37103,"North Carolina","Jones",47616,1033,100,2023
+37105,"North Carolina","Lee",56679,7002,42.8,2023
+37107,"North Carolina","Lenoir",44244,5146,45,2023
+37109,"North Carolina","Lincoln",73319,7832,54.6,2023
+37111,"North Carolina","McDowell",50476,4186,70.3,2023
+37113,"North Carolina","Macon",49406,3570,80,2023
+37115,"North Carolina","Madison",51849,1807,90.6,2023
+37117,"North Carolina","Martin",43261,1761,78.1,2023
+37119,"North Carolina","Mecklenburg",75138,107853,1.1,2023
+37121,"North Carolina","Mitchell",49086,1262,82.6,2023
+37123,"North Carolina","Montgomery",52897,2880,76.8,2023
+37125,"North Carolina","Moore",69373,8288,50.7,2023
+37127,"North Carolina","Nash",55956,8589,47.6,2023
+37129,"North Carolina","New Hanover",66212,21351,2.2,2023
+37131,"North Carolina","Northampton",40524,1330,89.4,2023
+37133,"North Carolina","Onslow",55645,15586,26.3,2023
+37135,"North Carolina","Orange",79814,8891,28.5,2023
+37137,"North Carolina","Pamlico",53732,1028,100,2023
+37139,"North Carolina","Pasquotank",51365,3578,41.3,2023
+37141,"North Carolina","Pender",69555,5539,68.8,2023
+37143,"North Carolina","Perquimans",53760,990,100,2023
+37145,"North Carolina","Person",55287,3316,75.5,2023
+37147,"North Carolina","Pitt",48116,16578,25.4,2023
+37149,"North Carolina","Polk",58064,1769,92.3,2023
+37151,"North Carolina","Randolph",57088,15681,56.2,2023
+37153,"North Carolina","Richmond",42158,4665,45.5,2023
+37155,"North Carolina","Robeson",38613,19160,62.6,2023
+37157,"North Carolina","Rockingham",46868,8528,61.9,2023
+37159,"North Carolina","Rowan",56441,12610,38.8,2023
+37161,"North Carolina","Rutherford",44477,6284,61,2023
+37163,"North Carolina","Sampson",48267,7867,85,2023
+37165,"North Carolina","Scotland",44060,3230,48.4,2023
+37167,"North Carolina","Stanly",57465,5547,67.7,2023
+37169,"North Carolina","Stokes",57763,4376,75.7,2023
+37171,"North Carolina","Surry",51820,7273,68.8,2023
+37173,"North Carolina","Swain",47838,2406,100,2023
+37175,"North Carolina","Transylvania",61737,3222,59.6,2023
+37177,"North Carolina","Tyrrell",39970,388,100,2023
+37179,"North Carolina","Union",87553,19641,27.3,2023
+37181,"North Carolina","Vance",45557,4445,54.1,2023
+37183,"North Carolina","Wake",91558,81277,6.1,2023
+37185,"North Carolina","Warren",44794,2017,100,2023
+37187,"North Carolina","Washington",42582,939,67.8,2023
+37189,"North Carolina","Watauga",55183,5095,55.4,2023
+37191,"North Carolina","Wayne",49955,13108,46.4,2023
+37193,"North Carolina","Wilkes",47891,6821,72.8,2023
+37195,"North Carolina","Wilson",48777,8575,38.7,2023
+37197,"North Carolina","Yadkin",56547,4020,84.7,2023
+37199,"North Carolina","Yancey",46299,1701,100,2023
+38001,"North Dakota","Adams",56364,102,100,2023
+38003,"North Dakota","Barnes",61111,538,39.6,2023
+38005,"North Dakota","Benson",47080,458,100,2023
+38007,"North Dakota","Billings",77375,52,100,2023
+38009,"North Dakota","Bottineau",67400,335,100,2023
+38011,"North Dakota","Bowman",68253,188,100,2023
+38013,"North Dakota","Burke",71492,100,100,2023
+38015,"North Dakota","Burleigh",71980,4209,18.5,2023
+38017,"North Dakota","Cass",66351,9501,10.4,2023
+38019,"North Dakota","Cavalier",65006,135,100,2023
+38021,"North Dakota","Dickey",55270,228,100,2023
+38023,"North Dakota","Divide",64646,106,100,2023
+38025,"North Dakota","Dunn",75713,261,100,2023
+38027,"North Dakota","Eddy",57277,124,100,2023
+38029,"North Dakota","Emmons",55883,168,100,2023
+38031,"North Dakota","Foster",69364,177,100,2023
+38033,"North Dakota","Golden Valley",63973,88,100,2023
+38035,"North Dakota","Grand Forks",64804,3513,16.8,2023
+38037,"North Dakota","Grant",48544,98,100,2023
+38039,"North Dakota","Griggs",59520,98,100,2023
+38041,"North Dakota","Hettinger",54282,132,100,2023
+38043,"North Dakota","Kidder",55020,99,100,2023
+38045,"North Dakota","LaMoure",65932,213,100,2023
+38047,"North Dakota","Logan",51318,64,100,2023
+38049,"North Dakota","McHenry",64262,223,100,2023
+38051,"North Dakota","McIntosh",54211,109,100,2023
+38053,"North Dakota","McKenzie",86294,1060,100,2023
+38055,"North Dakota","McLean",68419,470,100,2023
+38057,"North Dakota","Mercer",78823,320,65,2023
+38059,"North Dakota","Morton",71415,1662,31.9,2023
+38061,"North Dakota","Mountrail",71941,1039,100,2023
+38063,"North Dakota","Nelson",62095,147,100,2023
+38065,"North Dakota","Oliver",72965,81,100,2023
+38067,"North Dakota","Pembina",63809,372,100,2023
+38069,"North Dakota","Pierce",55747,132,35.2,2023
+38071,"North Dakota","Ramsey",63973,693,35,2023
+38073,"North Dakota","Ransom",71594,262,100,2023
+38075,"North Dakota","Renville",66937,110,100,2023
+38077,"North Dakota","Richland",65184,893,52,2023
+38079,"North Dakota","Rolette",47394,1344,100,2023
+38081,"North Dakota","Sargent",69666,169,100,2023
+38083,"North Dakota","Sheridan",49374,78,100,2023
+38085,"North Dakota","Sioux",40307,331,100,2023
+38087,"North Dakota","Slope",57922,31,100,2023
+38089,"North Dakota","Stark",73453,1741,27.3,2023
+38091,"North Dakota","Steele",77013,57,100,2023
+38093,"North Dakota","Stutsman",63871,867,27.6,2023
+38095,"North Dakota","Towner",66452,134,100,2023
+38097,"North Dakota","Traill",72320,381,100,2023
+38099,"North Dakota","Walsh",61472,711,62.1,2023
+38101,"North Dakota","Ward",69957,3519,21.9,2023
+38103,"North Dakota","Wells",63665,171,100,2023
+38105,"North Dakota","Williams",77051,2621,32.5,2023
+39001,"Ohio","Adams",47001,1703,89,2023
+39003,"Ohio","Allen",52518,5554,25.9,2023
+39005,"Ohio","Ashland",59117,3003,61.9,2023
+39007,"Ohio","Ashtabula",48916,6323,46.4,2023
+39009,"Ohio","Athens",49023,3965,43.2,2023
+39011,"Ohio","Auglaize",64942,2201,39.1,2023
+39013,"Ohio","Belmont",50602,3223,54.7,2023
+39015,"Ohio","Brown",58990,2342,76.6,2023
+39017,"Ohio","Butler",72859,21032,9.3,2023
+39019,"Ohio","Carroll",56287,1750,71,2023
+39021,"Ohio","Champaign",64876,1988,70.8,2023
+39023,"Ohio","Clark",59077,6993,23.6,2023
+39025,"Ohio","Clermont",70789,11779,22.7,2023
+39027,"Ohio","Clinton",62999,2244,54.6,2023
+39029,"Ohio","Columbiana",51019,6009,43.9,2023
+39031,"Ohio","Coshocton",50135,2605,61.5,2023
+39033,"Ohio","Crawford",50656,2381,35.3,2023
+39035,"Ohio","Cuyahoga",55250,64762,0.6,2023
+39037,"Ohio","Darke",59456,2978,66.3,2023
+39039,"Ohio","Defiance",66697,1972,43.9,2023
+39041,"Ohio","Delaware",118661,7059,19.3,2023
+39043,"Ohio","Erie",59226,3542,26.5,2023
+39045,"Ohio","Fairfield",80245,8458,34.7,2023
+39047,"Ohio","Fayette",58020,1674,47.8,2023
+39049,"Ohio","Franklin",66056,93791,1.4,2023
+39051,"Ohio","Fulton",68985,2411,56.2,2023
+39053,"Ohio","Gallia",49575,1687,81.4,2023
+39055,"Ohio","Geauga",91701,5344,64,2023
+39057,"Ohio","Greene",79035,7461,14.9,2023
+39059,"Ohio","Guernsey",50599,2658,61.4,2023
+39061,"Ohio","Hamilton",64087,38650,2.2,2023
+39063,"Ohio","Hancock",65866,4086,31.1,2023
+39065,"Ohio","Hardin",53940,2033,55.4,2023
+39067,"Ohio","Harrison",50691,925,84.1,2023
+39069,"Ohio","Henry",69634,1410,69.1,2023
+39071,"Ohio","Highland",56772,2893,73,2023
+39073,"Ohio","Hocking",55814,1628,70.8,2023
+39075,"Ohio","Holmes",70027,7290,93,2023
+39077,"Ohio","Huron",62153,3245,50.3,2023
+39079,"Ohio","Jackson",48745,1889,64.6,2023
+39081,"Ohio","Jefferson",50442,3025,39,2023
+39083,"Ohio","Knox",61642,3188,55.7,2023
+39085,"Ohio","Lake",74208,12341,6.5,2023
+39087,"Ohio","Lawrence",49916,3179,45.9,2023
+39089,"Ohio","Licking",72936,8938,35.5,2023
+39091,"Ohio","Logan",65499,2256,56.9,2023
+39093,"Ohio","Lorain",63348,15493,11.7,2023
+39095,"Ohio","Lucas",53379,22353,4.7,2023
+39097,"Ohio","Madison",71958,1948,48.5,2023
+39099,"Ohio","Mahoning",50216,12528,15.2,2023
+39101,"Ohio","Marion",53172,3037,30.3,2023
+39103,"Ohio","Medina",86880,7524,29.8,2023
+39105,"Ohio","Meigs",45935,1395,81.3,2023
+39107,"Ohio","Mercer",67958,1933,61.4,2023
+39109,"Ohio","Miami",65537,4835,30.8,2023
+39111,"Ohio","Monroe",53036,825,97.7,2023
+39113,"Ohio","Montgomery",56636,30552,4.3,2023
+39115,"Ohio","Morgan",46327,855,81.5,2023
+39117,"Ohio","Morrow",62516,2173,88.8,2023
+39119,"Ohio","Muskingum",52806,4688,47,2023
+39121,"Ohio","Noble",50109,628,62.5,2023
+39123,"Ohio","Ottawa",71409,2034,49.4,2023
+39125,"Ohio","Paulding",60274,1054,81.9,2023
+39127,"Ohio","Perry",63329,2114,75.2,2023
+39129,"Ohio","Pickaway",72652,2564,49.9,2023
+39131,"Ohio","Pike",49357,1583,74.2,2023
+39133,"Ohio","Portage",65445,9088,32.8,2023
+39135,"Ohio","Preble",56134,1950,69.2,2023
+39137,"Ohio","Putnam",72588,1664,84.7,2023
+39139,"Ohio","Richland",51733,6626,32.1,2023
+39141,"Ohio","Ross",53068,3899,58.7,2023
+39143,"Ohio","Sandusky",54399,3371,44.1,2023
+39145,"Ohio","Scioto",43981,3919,54.3,2023
+39147,"Ohio","Seneca",59292,2833,47.5,2023
+39149,"Ohio","Shelby",63848,2319,51.1,2023
+39151,"Ohio","Stark",59205,19137,13.5,2023
+39153,"Ohio","Summit",63191,26392,3.9,2023
+39155,"Ohio","Trumbull",51838,11666,27.3,2023
+39157,"Ohio","Tuscarawas",58282,6328,41.6,2023
+39159,"Ohio","Union",98167,2184,50,2023
+39161,"Ohio","Van Wert",61842,1437,50.7,2023
+39163,"Ohio","Vinton",46511,799,100,2023
+39165,"Ohio","Warren",97011,8645,17.3,2023
+39167,"Ohio","Washington",55133,2966,56.6,2023
+39169,"Ohio","Wayne",60709,8169,51,2023
+39171,"Ohio","Williams",57131,1890,63.6,2023
+39173,"Ohio","Wood",64702,6315,29.5,2023
+39175,"Ohio","Wyandot",65757,1097,57.4,2023
+40001,"Oklahoma","Adair",43371,3686,83.3,2023
+40003,"Oklahoma","Alfalfa",55157,491,100,2023
+40005,"Oklahoma","Atoka",44489,2004,100,2023
+40007,"Oklahoma","Beaver",60260,717,100,2023
+40009,"Oklahoma","Beckham",46744,2522,32.7,2023
+40011,"Oklahoma","Blaine",50068,1035,57.4,2023
+40013,"Oklahoma","Bryan",47916,7418,61.3,2023
+40015,"Oklahoma","Caddo",44121,3791,80,2023
+40017,"Oklahoma","Canadian",75806,14358,22.5,2023
+40019,"Oklahoma","Carter",53211,6825,56.1,2023
+40021,"Oklahoma","Cherokee",42269,8437,60,2023
+40023,"Oklahoma","Choctaw",41228,2210,66.9,2023
+40025,"Oklahoma","Cimarron",50300,264,100,2023
+40027,"Oklahoma","Cleveland",67692,30758,16.9,2023
+40029,"Oklahoma","Coal",44733,852,100,2023
+40031,"Oklahoma","Comanche",50090,13289,21.8,2023
+40033,"Oklahoma","Cotton",48703,711,59.5,2023
+40035,"Oklahoma","Craig",48825,1809,60.1,2023
+40037,"Oklahoma","Creek",53287,8997,53.9,2023
+40039,"Oklahoma","Custer",51098,4202,30.3,2023
+40041,"Oklahoma","Delaware",47774,6708,81.1,2023
+40043,"Oklahoma","Dewey",53165,562,100,2023
+40045,"Oklahoma","Ellis",52503,463,100,2023
+40047,"Oklahoma","Garfield",59514,7321,21.4,2023
+40049,"Oklahoma","Garvin",50043,3984,68.7,2023
+40051,"Oklahoma","Grady",61326,6122,63.9,2023
+40053,"Oklahoma","Grant",51688,456,100,2023
+40055,"Oklahoma","Greer",39391,471,52.7,2023
+40057,"Oklahoma","Harmon",38826,354,100,2023
+40059,"Oklahoma","Harper",58116,539,100,2023
+40061,"Oklahoma","Haskell",36954,1768,77.7,2023
+40063,"Oklahoma","Hughes",39603,1530,58.8,2023
+40065,"Oklahoma","Jackson",55293,3194,24.8,2023
+40067,"Oklahoma","Jefferson",37798,777,100,2023
+40069,"Oklahoma","Johnston",47039,1247,100,2023
+40071,"Oklahoma","Kay",50034,5394,24.5,2023
+40073,"Oklahoma","Kingfisher",66770,2211,72.4,2023
+40075,"Oklahoma","Kiowa",40937,947,61.7,2023
+40077,"Oklahoma","Latimer",37294,1236,73.3,2023
+40079,"Oklahoma","Le Flore",42198,8193,72.9,2023
+40081,"Oklahoma","Lincoln",51525,4313,92.1,2023
+40083,"Oklahoma","Logan",68955,5725,55.4,2023
+40085,"Oklahoma","Love",52205,1404,100,2023
+40087,"Oklahoma","McClain",72895,4733,77.2,2023
+40089,"Oklahoma","McCurtain",43930,5323,69.3,2023
+40091,"Oklahoma","McIntosh",42506,2699,87.3,2023
+40093,"Oklahoma","Major",55948,956,100,2023
+40095,"Oklahoma","Marshall",49443,2753,72.1,2023
+40097,"Oklahoma","Mayes",53161,6053,77.4,2023
+40099,"Oklahoma","Murray",55997,1919,45.7,2023
+40101,"Oklahoma","Muskogee",44521,8927,41.1,2023
+40103,"Oklahoma","Noble",58612,1166,56.3,2023
+40105,"Oklahoma","Nowata",50228,1282,57.9,2023
+40107,"Oklahoma","Okfuskee",36567,1483,74.1,2023
+40109,"Oklahoma","Oklahoma",57890,102137,6.3,2023
+40111,"Oklahoma","Okmulgee",46411,4929,48.6,2023
+40113,"Oklahoma","Osage",56156,5403,59.5,2023
+40115,"Oklahoma","Ottawa",45523,4531,49.3,2023
+40117,"Oklahoma","Pawnee",52367,2065,81.1,2023
+40119,"Oklahoma","Payne",50651,10563,33.7,2023
+40121,"Oklahoma","Pittsburg",47589,5601,51.9,2023
+40123,"Oklahoma","Pontotoc",51044,5288,53.6,2023
+40125,"Oklahoma","Pottawatomie",51569,9048,50.7,2023
+40127,"Oklahoma","Pushmataha",42360,1596,100,2023
+40129,"Oklahoma","Roger Mills",54944,388,100,2023
+40131,"Oklahoma","Rogers",69436,9237,50.3,2023
+40133,"Oklahoma","Seminole",42053,3549,64.7,2023
+40135,"Oklahoma","Sequoyah",43293,6642,66.6,2023
+40137,"Oklahoma","Stephens",49840,5498,43.3,2023
+40139,"Oklahoma","Texas",56229,3464,45.1,2023
+40141,"Oklahoma","Tillman",44231,986,51.2,2023
+40143,"Oklahoma","Tulsa",59232,83490,4.8,2023
+40145,"Oklahoma","Wagoner",70603,10010,37.5,2023
+40147,"Oklahoma","Washington",54108,6280,23.9,2023
+40149,"Oklahoma","Washita",51073,1308,75.3,2023
+40151,"Oklahoma","Woods",51371,859,36.7,2023
+40153,"Oklahoma","Woodward",56666,2553,43.5,2023
+41001,"Oregon","Baker",53107,915,41,2023
+41003,"Oregon","Benton",65419,4174,18.8,2023
+41005,"Oregon","Clackamas",91076,18512,18.1,2023
+41007,"Oregon","Clatsop",59539,2467,39,2023
+41009,"Oregon","Columbia",78267,2576,43.6,2023
+41011,"Oregon","Coos",54067,4158,38.4,2023
+41013,"Oregon","Crook",65755,1304,48,2023
+41015,"Oregon","Curry",52586,1100,38.7,2023
+41017,"Oregon","Deschutes",79648,11995,27.6,2023
+41019,"Oregon","Douglas",52042,5720,41.2,2023
+41021,"Oregon","Gilliam",69135,113,100,2023
+41023,"Oregon","Grant",53079,431,100,2023
+41025,"Oregon","Harney",50113,405,44.3,2023
+41027,"Oregon","Hood River",70850,2425,52.2,2023
+41029,"Oregon","Jackson",63308,13243,20.1,2023
+41031,"Oregon","Jefferson",59317,1849,63.1,2023
+41033,"Oregon","Josephine",49833,4893,45,2023
+41035,"Oregon","Klamath",49660,4537,37.6,2023
+41037,"Oregon","Lake",52012,436,63.3,2023
+41039,"Oregon","Lane",61509,22419,17.5,2023
+41041,"Oregon","Lincoln",52751,3097,37.6,2023
+41043,"Oregon","Linn",64834,7955,31.6,2023
+41045,"Oregon","Malheur",51466,2338,48.4,2023
+41047,"Oregon","Marion",64412,25270,13.1,2023
+41049,"Oregon","Morrow",67334,1003,45.9,2023
+41051,"Oregon","Multnomah",77851,46535,1.3,2023
+41053,"Oregon","Polk",71606,5229,19.9,2023
+41055,"Oregon","Sherman",69892,98,100,2023
+41057,"Oregon","Tillamook",56158,1648,69.6,2023
+41059,"Oregon","Umatilla",58764,5858,29.1,2023
+41061,"Oregon","Union",53294,1469,42.1,2023
+41063,"Oregon","Wallowa",58311,371,100,2023
+41065,"Oregon","Wasco",59638,2027,33.1,2023
+41067,"Oregon","Washington",91899,30995,5.6,2023
+41069,"Oregon","Wheeler",43468,63,100,2023
+41071,"Oregon","Yamhill",75303,6094,22.6,2023
+42001,"Pennsylvania","Adams",72849,5029,53.7,2023
+42003,"Pennsylvania","Allegheny",68874,46947,2.5,2023
+42005,"Pennsylvania","Armstrong",54089,3002,67.5,2023
+42007,"Pennsylvania","Beaver",64593,6669,25.8,2023
+42009,"Pennsylvania","Bedford",52984,2480,83.8,2023
+42011,"Pennsylvania","Berks",68693,25199,23.7,2023
+42013,"Pennsylvania","Blair",55843,5983,23.4,2023
+42015,"Pennsylvania","Bradford",55199,3111,72.2,2023
+42017,"Pennsylvania","Bucks",99755,26090,8.8,2023
+42019,"Pennsylvania","Butler",77902,6697,42,2023
+42021,"Pennsylvania","Cambria",52441,4977,32,2023
+42023,"Pennsylvania","Cameron",47588,204,47.4,2023
+42025,"Pennsylvania","Carbon",58295,3462,47.2,2023
+42027,"Pennsylvania","Centre",66239,9023,32.2,2023
+42029,"Pennsylvania","Chester",109616,19832,13.3,2023
+42031,"Pennsylvania","Clarion",55551,2276,76.6,2023
+42033,"Pennsylvania","Clearfield",54539,3809,53.8,2023
+42035,"Pennsylvania","Clinton",54171,2350,45.7,2023
+42037,"Pennsylvania","Columbia",56300,3073,40.9,2023
+42039,"Pennsylvania","Crawford",55141,4899,63.7,2023
+42041,"Pennsylvania","Cumberland",81975,11591,22.2,2023
+42043,"Pennsylvania","Dauphin",66121,15449,13.3,2023
+42045,"Pennsylvania","Delaware",78194,24469,0.5,2023
+42047,"Pennsylvania","Elk",56843,1276,55.7,2023
+42049,"Pennsylvania","Erie",56799,12359,20,2023
+42051,"Pennsylvania","Fayette",47812,5524,47.9,2023
+42053,"Pennsylvania","Forest",46432,180,100,2023
+42055,"Pennsylvania","Franklin",66983,10423,40.4,2023
+42057,"Pennsylvania","Fulton",55100,714,100,2023
+42059,"Pennsylvania","Greene",55287,1417,66.8,2023
+42061,"Pennsylvania","Huntingdon",54516,1881,68.7,2023
+42063,"Pennsylvania","Indiana",51887,4924,60.1,2023
+42065,"Pennsylvania","Jefferson",51099,2329,61.5,2023
+42067,"Pennsylvania","Juniata",55279,1777,82.3,2023
+42069,"Pennsylvania","Lackawanna",61227,10617,16.3,2023
+42071,"Pennsylvania","Lancaster",75619,39394,21.3,2023
+42073,"Pennsylvania","Lawrence",58307,4416,40.3,2023
+42075,"Pennsylvania","Lebanon",71826,8434,26.6,2023
+42077,"Pennsylvania","Lehigh",68688,20639,7.9,2023
+42079,"Pennsylvania","Luzerne",58645,16853,20,2023
+42081,"Pennsylvania","Lycoming",58862,5810,36.3,2023
+42083,"Pennsylvania","McKean",54377,1754,63.5,2023
+42085,"Pennsylvania","Mercer",54112,5413,44.5,2023
+42087,"Pennsylvania","Mifflin",51503,3130,50.5,2023
+42089,"Pennsylvania","Monroe",74989,9771,38.4,2023
+42091,"Pennsylvania","Montgomery",102648,27798,2.9,2023
+42093,"Pennsylvania","Montour",68053,695,53.8,2023
+42095,"Pennsylvania","Northampton",78768,12402,12.8,2023
+42097,"Pennsylvania","Northumberland",50930,4215,34.9,2023
+42099,"Pennsylvania","Perry",76010,3334,88.5,2023
+42101,"Pennsylvania","Philadelphia",52882,94569,0,2023
+42103,"Pennsylvania","Pike",70065,2635,70.8,2023
+42105,"Pennsylvania","Potter",51348,856,100,2023
+42107,"Pennsylvania","Schuylkill",57868,7180,36.5,2023
+42109,"Pennsylvania","Snyder",61208,2696,66.8,2023
+42111,"Pennsylvania","Somerset",53770,3675,70.8,2023
+42113,"Pennsylvania","Sullivan",55516,373,100,2023
+42115,"Pennsylvania","Susquehanna",56995,2344,84,2023
+42117,"Pennsylvania","Tioga",56920,2122,90.1,2023
+42119,"Pennsylvania","Union",67424,2618,42.8,2023
+42121,"Pennsylvania","Venango",56992,2403,54.8,2023
+42123,"Pennsylvania","Warren",54073,1700,55,2023
+42125,"Pennsylvania","Washington",68238,7761,30.8,2023
+42127,"Pennsylvania","Wayne",54336,2281,88.1,2023
+42129,"Pennsylvania","Westmoreland",63184,11754,25.4,2023
+42131,"Pennsylvania","Wyoming",63118,1156,83.5,2023
+42133,"Pennsylvania","York",72949,22632,24.7,2023
+44001,"Rhode Island","Bristol",94553,941,1.1,2023
+44003,"Rhode Island","Kent",74282,3686,8,2023
+44005,"Rhode Island","Newport",85764,1915,12.1,2023
+44007,"Rhode Island","Providence",66610,23479,5.5,2023
+44009,"Rhode Island","Washington",90152,2435,30.8,2023
+45001,"South Carolina","Abbeville",49485,2441,78.6,2023
+45003,"South Carolina","Aiken",56711,13872,37,2023
+45005,"South Carolina","Allendale",31262,575,68.3,2023
+45007,"South Carolina","Anderson",58951,20352,37.9,2023
+45009,"South Carolina","Bamberg",37906,1118,54.5,2023
+45011,"South Carolina","Barnwell",42265,2015,82.5,2023
+45013,"South Carolina","Beaufort",72661,16035,19.6,2023
+45015,"South Carolina","Berkeley",74289,20657,29,2023
+45017,"South Carolina","Calhoun",39476,1180,100,2023
+45019,"South Carolina","Charleston",71755,33045,10.9,2023
+45021,"South Carolina","Cherokee",45829,6272,61,2023
+45023,"South Carolina","Chester",46500,2905,71.8,2023
+45025,"South Carolina","Chesterfield",45395,4707,73.8,2023
+45027,"South Carolina","Clarendon",41240,2966,85.7,2023
+45029,"South Carolina","Colleton",46629,3901,75.6,2023
+45031,"South Carolina","Darlington",46291,5527,57.8,2023
+45033,"South Carolina","Dillon",39613,3764,69.5,2023
+45035,"South Carolina","Dorchester",71548,15097,19.5,2023
+45037,"South Carolina","Edgefield",57774,2249,73.3,2023
+45039,"South Carolina","Fairfield",40766,1777,78.3,2023
+45041,"South Carolina","Florence",52062,12302,38.5,2023
+45043,"South Carolina","Georgetown",58419,5849,41.5,2023
+45045,"South Carolina","Greenville",68487,47196,12.6,2023
+45047,"South Carolina","Greenwood",52462,6497,39.8,2023
+45049,"South Carolina","Hampton",41281,1657,78.5,2023
+45051,"South Carolina","Horry",56342,36356,30.4,2023
+45053,"South Carolina","Jasper",54099,4031,66.7,2023
+45055,"South Carolina","Kershaw",54900,5633,57.7,2023
+45057,"South Carolina","Lancaster",68993,7962,50,2023
+45059,"South Carolina","Laurens",53130,6803,64.2,2023
+45061,"South Carolina","Lee",39125,1239,72,2023
+45063,"South Carolina","Lexington",65016,24057,25.3,2023
+45065,"South Carolina","McCormick",50005,541,100,2023
+45067,"South Carolina","Marion",37534,2988,60.8,2023
+45069,"South Carolina","Marlboro",38254,2329,55,2023
+45071,"South Carolina","Newberry",57072,3953,67.8,2023
+45073,"South Carolina","Oconee",53432,8070,64.9,2023
+45075,"South Carolina","Orangeburg",39832,6993,63.8,2023
+45077,"South Carolina","Pickens",54415,11279,35.8,2023
+45079,"South Carolina","Richland",56940,34316,9.1,2023
+45081,"South Carolina","Saluda",50440,2902,80.5,2023
+45083,"South Carolina","Spartanburg",60470,29747,27.4,2023
+45085,"South Carolina","Sumter",48286,10715,32,2023
+45087,"South Carolina","Union",43615,2270,65.4,2023
+45089,"South Carolina","Williamsburg",40235,2529,81.9,2023
+45091,"South Carolina","York",73466,23688,23,2023
+46003,"South Dakota","Aurora",56110,226,100,2023
+46005,"South Dakota","Beadle",53648,1874,27.4,2023
+46007,"South Dakota","Bennett",41607,475,100,2023
+46009,"South Dakota","Bon Homme",54009,419,100,2023
+46011,"South Dakota","Brookings",61581,2092,29.7,2023
+46013,"South Dakota","Brown",62070,2987,28.9,2023
+46015,"South Dakota","Brule",58516,518,100,2023
+46017,"South Dakota","Buffalo",25653,299,100,2023
+46019,"South Dakota","Butte",53812,950,48.2,2023
+46021,"South Dakota","Campbell",61892,63,100,2023
+46023,"South Dakota","Charles Mix",50712,1067,100,2023
+46025,"South Dakota","Clark",59637,265,100,2023
+46027,"South Dakota","Clay",51388,1130,24.3,2023
+46029,"South Dakota","Codington",65106,2166,22.5,2023
+46031,"South Dakota","Corson",34372,390,100,2023
+46033,"South Dakota","Custer",68600,733,100,2023
+46035,"South Dakota","Davison",60924,1516,23.3,2023
+46037,"South Dakota","Day",56687,404,100,2023
+46039,"South Dakota","Deuel",63342,257,100,2023
+46041,"South Dakota","Dewey",45120,813,64.1,2023
+46043,"South Dakota","Douglas",60711,193,100,2023
+46045,"South Dakota","Edmunds",67142,241,100,2023
+46047,"South Dakota","Fall River",52113,483,50,2023
+46049,"South Dakota","Faulk",59970,118,100,2023
+46051,"South Dakota","Grant",66697,589,55.4,2023
+46053,"South Dakota","Gregory",45603,383,100,2023
+46055,"South Dakota","Haakon",54380,110,100,2023
+46057,"South Dakota","Hamlin",75467,463,100,2023
+46059,"South Dakota","Hand",64118,159,100,2023
+46061,"South Dakota","Hanson",79602,201,100,2023
+46063,"South Dakota","Harding",58187,123,100,2023
+46065,"South Dakota","Hughes",72724,1387,25.3,2023
+46067,"South Dakota","Hutchinson",60502,481,100,2023
+46069,"South Dakota","Hyde",60715,80,100,2023
+46071,"South Dakota","Jackson",39639,403,100,2023
+46073,"South Dakota","Jerauld",67818,80,100,2023
+46075,"South Dakota","Jones",53891,73,100,2023
+46077,"South Dakota","Kingsbury",60106,310,100,2023
+46079,"South Dakota","Lake",67151,788,44.9,2023
+46081,"South Dakota","Lawrence",62652,2314,36.9,2023
+46083,"South Dakota","Lincoln",91352,3597,29.3,2023
+46085,"South Dakota","Lyman",48076,382,100,2023
+46087,"South Dakota","McCook",69208,396,100,2023
+46089,"South Dakota","McPherson",49970,129,100,2023
+46091,"South Dakota","Marshall",62871,349,100,2023
+46093,"South Dakota","Meade",63475,2182,38,2023
+46095,"South Dakota","Mellette",40223,254,100,2023
+46097,"South Dakota","Miner",60032,150,100,2023
+46099,"South Dakota","Minnehaha",73040,12874,13.6,2023
+46101,"South Dakota","Moody",66527,597,100,2023
+46102,"South Dakota","Oglala Lakota",35046,2131,NA,2023
+46103,"South Dakota","Pennington",64387,11049,20.8,2023
+46105,"South Dakota","Perkins",49810,149,100,2023
+46107,"South Dakota","Potter",64542,127,100,2023
+46109,"South Dakota","Roberts",55666,1194,100,2023
+46111,"South Dakota","Sanborn",61286,145,100,2023
+46115,"South Dakota","Spink",62269,428,100,2023
+46117,"South Dakota","Stanley",73957,192,42.5,2023
+46119,"South Dakota","Sully",62078,61,100,2023
+46121,"South Dakota","Todd",36362,1260,100,2023
+46123,"South Dakota","Tripp",50688,475,48.5,2023
+46125,"South Dakota","Turner",66854,544,100,2023
+46127,"South Dakota","Union",87314,936,61.4,2023
+46129,"South Dakota","Walworth",53162,458,36.4,2023
+46135,"South Dakota","Yankton",65826,1700,34.8,2023
+46137,"South Dakota","Ziebach",37066,363,73.5,2023
+47001,"Tennessee","Anderson",58633,6066,34.7,2023
+47003,"Tennessee","Bedford",55420,5538,55.6,2023
+47005,"Tennessee","Benton",45165,1382,78.5,2023
+47007,"Tennessee","Bledsoe",44867,1379,100,2023
+47009,"Tennessee","Blount",62724,10417,32.6,2023
+47011,"Tennessee","Bradley",56273,9397,33,2023
+47013,"Tennessee","Campbell",44325,3481,55,2023
+47015,"Tennessee","Cannon",53093,1376,81.1,2023
+47017,"Tennessee","Carroll",45997,2302,83.1,2023
+47019,"Tennessee","Carter",45293,5270,41,2023
+47021,"Tennessee","Cheatham",75162,3635,83,2023
+47023,"Tennessee","Chester",51615,1416,65.2,2023
+47025,"Tennessee","Claiborne",43331,2575,71.6,2023
+47027,"Tennessee","Clay",39770,646,100,2023
+47029,"Tennessee","Cocke",40572,3411,67.5,2023
+47031,"Tennessee","Coffee",55070,5456,47.3,2023
+47033,"Tennessee","Crockett",50792,1493,67.4,2023
+47035,"Tennessee","Cumberland",52000,4704,60.9,2023
+47037,"Tennessee","Davidson",65463,67743,3.4,2023
+47039,"Tennessee","Decatur",48292,884,100,2023
+47041,"Tennessee","DeKalb",45612,2045,78.4,2023
+47043,"Tennessee","Dickson",61219,4896,67.8,2023
+47045,"Tennessee","Dyer",51499,2879,42.9,2023
+47047,"Tennessee","Fayette",70943,3473,79,2023
+47049,"Tennessee","Fentress",41469,1399,100,2023
+47051,"Tennessee","Franklin",57723,3424,69.6,2023
+47053,"Tennessee","Gibson",51280,4063,47.7,2023
+47055,"Tennessee","Giles",55468,2429,73.7,2023
+47057,"Tennessee","Grainger",46983,2336,100,2023
+47059,"Tennessee","Greene",54166,5282,65.2,2023
+47061,"Tennessee","Grundy",41266,1310,100,2023
+47063,"Tennessee","Hamblen",48483,6890,21.9,2023
+47065,"Tennessee","Hamilton",65689,32027,10,2023
+47067,"Tennessee","Hancock",34055,487,100,2023
+47069,"Tennessee","Hardeman",44314,1826,80.2,2023
+47071,"Tennessee","Hardin",50309,2236,67.9,2023
+47073,"Tennessee","Hawkins",49873,4417,57.9,2023
+47075,"Tennessee","Haywood",42634,1624,47.4,2023
+47077,"Tennessee","Henderson",53282,2628,76.4,2023
+47079,"Tennessee","Henry",45980,2728,66.8,2023
+47081,"Tennessee","Hickman",50345,2478,100,2023
+47083,"Tennessee","Houston",48788,832,100,2023
+47085,"Tennessee","Humphreys",55298,1732,82.5,2023
+47087,"Tennessee","Jackson",43611,1168,100,2023
+47089,"Tennessee","Jefferson",50969,4587,59.5,2023
+47091,"Tennessee","Johnson",42230,1397,85.2,2023
+47093,"Tennessee","Knox",64817,35215,10.9,2023
+47095,"Tennessee","Lake",29281,407,100,2023
+47097,"Tennessee","Lauderdale",42280,2084,58.7,2023
+47099,"Tennessee","Lawrence",49794,4299,75.9,2023
+47101,"Tennessee","Lewis",50422,1066,70.2,2023
+47103,"Tennessee","Lincoln",52018,3118,72.5,2023
+47105,"Tennessee","Loudon",72378,4486,40.6,2023
+47107,"Tennessee","McMinn",50480,5123,60.3,2023
+47109,"Tennessee","McNairy",45083,2087,85.3,2023
+47111,"Tennessee","Macon",49357,2356,79.6,2023
+47113,"Tennessee","Madison",53954,9006,25.8,2023
+47115,"Tennessee","Marion",51898,2370,77,2023
+47117,"Tennessee","Marshall",64710,3231,65.8,2023
+47119,"Tennessee","Maury",68425,7783,41.6,2023
+47121,"Tennessee","Meigs",51337,1089,100,2023
+47123,"Tennessee","Monroe",50364,4274,76.1,2023
+47125,"Tennessee","Montgomery",63593,15356,19.7,2023
+47127,"Tennessee","Moore",62609,465,99.9,2023
+47129,"Tennessee","Morgan",48122,1753,99.9,2023
+47131,"Tennessee","Obion",50021,2753,61.6,2023
+47133,"Tennessee","Overton",45793,1869,84.2,2023
+47135,"Tennessee","Perry",43998,780,100,2023
+47137,"Tennessee","Pickett",44566,517,100,2023
+47139,"Tennessee","Polk",50863,1512,100,2023
+47141,"Tennessee","Putnam",52138,7896,35,2023
+47143,"Tennessee","Rhea",50479,3659,68,2023
+47145,"Tennessee","Roane",56355,3583,51,2023
+47147,"Tennessee","Robertson",67539,5539,53.2,2023
+47149,"Tennessee","Rutherford",77942,29375,17,2023
+47151,"Tennessee","Scott",40788,1939,80.6,2023
+47153,"Tennessee","Sequatchie",55099,1339,73.8,2023
+47155,"Tennessee","Sevier",51771,12093,56.6,2023
+47157,"Tennessee","Shelby",54931,85865,2.8,2023
+47159,"Tennessee","Smith",56567,1806,82.9,2023
+47161,"Tennessee","Stewart",56764,1224,100,2023
+47163,"Tennessee","Sullivan",49489,14044,25.6,2023
+47165,"Tennessee","Sumner",71268,14468,27.9,2023
+47167,"Tennessee","Tipton",62814,5301,55.1,2023
+47169,"Tennessee","Trousdale",49014,786,100,2023
+47171,"Tennessee","Unicoi",44971,1459,44.7,2023
+47173,"Tennessee","Union",51102,1935,100,2023
+47175,"Tennessee","Van Buren",45565,509,100,2023
+47177,"Tennessee","Warren",48444,4537,61.4,2023
+47179,"Tennessee","Washington",56071,11875,26.4,2023
+47181,"Tennessee","Wayne",47563,1201,100,2023
+47183,"Tennessee","Weakley",44799,3122,67,2023
+47185,"Tennessee","White",45239,2554,78.2,2023
+47187,"Tennessee","Williamson",123474,12160,19.4,2023
+47189,"Tennessee","Wilson",82489,9818,38.5,2023
+48001,"Texas","Anderson",54515,5629,67.1,2023
+48003,"Texas","Andrews",70005,3236,16.5,2023
+48005,"Texas","Angelina",50620,12641,43.1,2023
+48007,"Texas","Aransas",55435,3479,27.3,2023
+48009,"Texas","Archer",69286,1044,89,2023
+48011,"Texas","Armstrong",64401,195,100,2023
+48013,"Texas","Atascosa",57905,8077,60.7,2023
+48015,"Texas","Austin",68150,4142,66.3,2023
+48017,"Texas","Bailey",47375,1207,28.8,2023
+48019,"Texas","Bandera",69051,2648,100,2023
+48021,"Texas","Bastrop",72809,13467,63.9,2023
+48023,"Texas","Baylor",45408,365,100,2023
+48025,"Texas","Bee",45431,3224,43,2023
+48027,"Texas","Bell",58878,44689,15.2,2023
+48029,"Texas","Bexar",63014,280661,4.5,2023
+48031,"Texas","Blanco",69247,1588,100,2023
+48033,"Texas","Borden",69744,49,100,2023
+48035,"Texas","Bosque",56041,2494,81.2,2023
+48037,"Texas","Bowie",52934,9736,35.4,2023
+48039,"Texas","Brazoria",82165,38944,22.5,2023
+48041,"Texas","Brazos",50494,28092,12.1,2023
+48043,"Texas","Brewster",51197,1386,34.9,2023
+48045,"Texas","Briscoe",49905,209,100,2023
+48047,"Texas","Brooks",33460,1018,31.8,2023
+48049,"Texas","Brown",48803,4421,40.4,2023
+48051,"Texas","Burleson",57469,2376,76.7,2023
+48053,"Texas","Burnet",72510,6811,55.7,2023
+48055,"Texas","Caldwell",60063,7152,42.3,2023
+48057,"Texas","Calhoun",70662,2809,44.7,2023
+48059,"Texas","Callahan",56708,1781,72.2,2023
+48061,"Texas","Cameron",46436,90631,8.4,2023
+48063,"Texas","Camp",51024,1646,61.5,2023
+48065,"Texas","Carson",66548,535,95.2,2023
+48067,"Texas","Cass",42896,3666,74,2023
+48069,"Texas","Castro",62236,1309,45.8,2023
+48071,"Texas","Chambers",89767,4283,45.7,2023
+48073,"Texas","Cherokee",48664,7741,63,2023
+48075,"Texas","Childress",42758,799,33.1,2023
+48077,"Texas","Clay",60973,1186,74.6,2023
+48079,"Texas","Cochran",42274,542,100,2023
+48081,"Texas","Coke",46767,402,100,2023
+48083,"Texas","Coleman",42253,1034,51.5,2023
+48085,"Texas","Collin",102119,87407,5.2,2023
+48087,"Texas","Collingsworth",45734,536,100,2023
+48089,"Texas","Colorado",62004,3085,62.6,2023
+48091,"Texas","Comal",93487,15906,46.1,2023
+48093,"Texas","Comanche",49076,1805,71.5,2023
+48095,"Texas","Concho",48563,341,100,2023
+48097,"Texas","Cooke",58060,6026,59,2023
+48099,"Texas","Coryell",59718,7859,19.4,2023
+48101,"Texas","Cottle",44590,175,100,2023
+48103,"Texas","Crane",63555,707,10.7,2023
+48105,"Texas","Crockett",53159,552,22.7,2023
+48107,"Texas","Crosby",42728,843,100,2023
+48109,"Texas","Culberson",48217,389,100,2023
+48111,"Texas","Dallam",70895,1473,23.5,2023
+48113,"Texas","Dallas",63549,442539,0.7,2023
+48115,"Texas","Dawson",43627,1775,16.3,2023
+48117,"Texas","Deaf Smith",50967,3449,17.7,2023
+48119,"Texas","Delta",50329,605,100,2023
+48121,"Texas","Denton",98027,85926,6.9,2023
+48123,"Texas","DeWitt",54279,2271,49.6,2023
+48125,"Texas","Dickens",42690,222,100,2023
+48127,"Texas","Dimmit",41838,1483,39.5,2023
+48129,"Texas","Donley",44353,410,100,2023
+48131,"Texas","Duval",37921,1480,67,2023
+48133,"Texas","Eastland",47526,2346,60.3,2023
+48135,"Texas","Ector",58389,25256,9.5,2023
+48137,"Texas","Edwards",47573,291,100,2023
+48139,"Texas","Ellis",87698,26191,32,2023
+48141,"Texas","El Paso",50983,144067,2.2,2023
+48143,"Texas","Erath",51964,5456,46.3,2023
+48145,"Texas","Falls",46173,1911,67.4,2023
+48147,"Texas","Fannin",56794,4521,70.5,2023
+48149,"Texas","Fayette",64711,3181,67.1,2023
+48151,"Texas","Fisher",51362,418,100,2023
+48153,"Texas","Floyd",43855,1012,53.3,2023
+48155,"Texas","Foard",42616,132,100,2023
+48157,"Texas","Fort Bend",98070,89195,5.5,2023
+48159,"Texas","Franklin",51885,967,69.1,2023
+48161,"Texas","Freestone",48397,2364,66.5,2023
+48163,"Texas","Frio",47833,2637,22.2,2023
+48165,"Texas","Gaines",58712,4721,63,2023
+48167,"Texas","Galveston",77627,38320,6.1,2023
+48169,"Texas","Garza",43890,765,22.3,2023
+48171,"Texas","Gillespie",71594,3572,53.7,2023
+48173,"Texas","Glasscock",116958,200,100,2023
+48175,"Texas","Goliad",58937,870,100,2023
+48177,"Texas","Gonzales",48164,3287,65.3,2023
+48179,"Texas","Gray",45530,3310,19.4,2023
+48181,"Texas","Grayson",62678,17752,43.2,2023
+48183,"Texas","Gregg",57608,17823,13.4,2023
+48185,"Texas","Grimes",52540,3895,68.9,2023
+48187,"Texas","Guadalupe",80145,18354,26.2,2023
+48189,"Texas","Hale",47373,5073,23.1,2023
+48191,"Texas","Hall",34766,474,100,2023
+48193,"Texas","Hamilton",53759,1188,64.4,2023
+48195,"Texas","Hansford",57692,994,40.3,2023
+48197,"Texas","Hardeman",45677,694,100,2023
+48199,"Texas","Hardin",67183,6731,51.5,2023
+48201,"Texas","Harris",63539,778724,1.2,2023
+48203,"Texas","Harrison",56645,7987,56.1,2023
+48205,"Texas","Hartley",71332,568,57.3,2023
+48207,"Texas","Haskell",43546,827,47.6,2023
+48209,"Texas","Hays",79336,27537,31.7,2023
+48211,"Texas","Hemphill",65387,541,27,2023
+48213,"Texas","Henderson",50348,11348,60.1,2023
+48215,"Texas","Hidalgo",44260,211052,5.1,2023
+48217,"Texas","Hill",52495,5571,76.3,2023
+48219,"Texas","Hockley",51078,3732,39.8,2023
+48221,"Texas","Hood",68911,6641,32.8,2023
+48223,"Texas","Hopkins",56680,5097,59.6,2023
+48225,"Texas","Houston",45603,2389,73.5,2023
+48227,"Texas","Howard",55842,4258,20.1,2023
+48229,"Texas","Hudspeth",38904,999,100,2023
+48231,"Texas","Hunt",58326,12874,56.6,2023
+48233,"Texas","Hutchinson",56646,2729,22.6,2023
+48235,"Texas","Irion",69966,157,100,2023
+48237,"Texas","Jack",51846,1086,53.2,2023
+48239,"Texas","Jackson",60666,2099,61.8,2023
+48241,"Texas","Jasper",50038,4120,78.2,2023
+48243,"Texas","Jeff Davis",56149,410,100,2023
+48245,"Texas","Jefferson",55575,38246,8.4,2023
+48247,"Texas","Jim Hogg",37454,723,17.4,2023
+48249,"Texas","Jim Wells",43852,5643,40.1,2023
+48251,"Texas","Johnson",76226,23277,37.9,2023
+48253,"Texas","Jones",52288,1865,85.1,2023
+48255,"Texas","Karnes",48470,1576,38.4,2023
+48257,"Texas","Kaufman",73660,16797,48.8,2023
+48259,"Texas","Kendall",102832,4994,58.2,2023
+48261,"Texas","Kenedy",42379,95,100,2023
+48263,"Texas","Kent",54154,62,100,2023
+48265,"Texas","Kerr",60834,6676,41.1,2023
+48267,"Texas","Kimble",48671,591,44.3,2023
+48269,"Texas","King",74890,41,100,2023
+48271,"Texas","Kinney",50567,373,20.5,2023
+48273,"Texas","Kleberg",49226,4618,18.9,2023
+48275,"Texas","Knox",45558,531,100,2023
+48277,"Texas","Lamar",50787,6837,47.1,2023
+48279,"Texas","Lamb",48981,2116,57.7,2023
+48281,"Texas","Lampasas",64401,2748,68.3,2023
+48283,"Texas","La Salle",40549,900,46.4,2023
+48285,"Texas","Lavaca",54421,2058,81.3,2023
+48287,"Texas","Lee",59469,2247,69.7,2023
+48289,"Texas","Leon",51582,2347,100,2023
+48291,"Texas","Liberty",57174,14170,63.2,2023
+48293,"Texas","Limestone",50381,3049,53.6,2023
+48295,"Texas","Lipscomb",64249,470,100,2023
+48297,"Texas","Live Oak",52910,1480,100,2023
+48299,"Texas","Llano",61037,2386,45.2,2023
+48301,"Texas","Loving",100917,17,100,2023
+48303,"Texas","Lubbock",57270,38414,11.3,2023
+48305,"Texas","Lynn",50374,814,56.7,2023
+48307,"Texas","McCulloch",43525,1181,35.3,2023
+48309,"Texas","McLennan",58524,33804,23.4,2023
+48311,"Texas","McMullen",63120,71,100,2023
+48313,"Texas","Madison",48251,1701,67.4,2023
+48315,"Texas","Marion",43178,1139,100,2023
+48317,"Texas","Martin",69505,782,100,2023
+48319,"Texas","Mason",56690,650,100,2023
+48321,"Texas","Matagorda",50054,5531,36.4,2023
+48323,"Texas","Maverick",41815,12527,9.3,2023
+48325,"Texas","Medina",62907,6199,61.6,2023
+48327,"Texas","Menard",41507,323,100,2023
+48329,"Texas","Midland",84837,23033,12.3,2023
+48331,"Texas","Milam",53320,3311,56.2,2023
+48333,"Texas","Mills",54948,725,100,2023
+48335,"Texas","Mitchell",44476,847,36.7,2023
+48337,"Texas","Montague",54988,2662,58.9,2023
+48339,"Texas","Montgomery",87831,74400,22.7,2023
+48341,"Texas","Moore",61833,4160,16.8,2023
+48343,"Texas","Morris",44957,1449,78.4,2023
+48345,"Texas","Motley",47835,118,100,2023
+48347,"Texas","Nacogdoches",46970,9442,46.5,2023
+48349,"Texas","Navarro",51015,7693,52.7,2023
+48351,"Texas","Newton",44030,1672,100,2023
+48353,"Texas","Nolan",44342,1931,32.7,2023
+48355,"Texas","Nueces",59337,52503,6.4,2023
+48357,"Texas","Ochiltree",60914,1890,13.9,2023
+48359,"Texas","Oldham",62868,238,100,2023
+48361,"Texas","Orange",65908,9321,35.2,2023
+48363,"Texas","Palo Pinto",57580,4086,50.2,2023
+48365,"Texas","Panola",54244,2980,72.7,2023
+48367,"Texas","Parker",85613,16441,56.1,2023
+48369,"Texas","Parmer",56632,1649,60,2023
+48371,"Texas","Pecos",49291,2328,39.8,2023
+48373,"Texas","Polk",50827,6330,77.6,2023
+48375,"Texas","Potter",45904,19748,9,2023
+48377,"Texas","Presidio",39791,1401,40.5,2023
+48379,"Texas","Rains",57294,1749,93.2,2023
+48381,"Texas","Randall",72082,13582,14.4,2023
+48383,"Texas","Reagan",65162,554,13.3,2023
+48385,"Texas","Real",46907,485,100,2023
+48387,"Texas","Red River",46134,1472,75.7,2023
+48389,"Texas","Reeves",46275,1922,14.5,2023
+48391,"Texas","Refugio",46695,797,60.7,2023
+48393,"Texas","Roberts",73224,76,100,2023
+48395,"Texas","Robertson",50816,2063,73.9,2023
+48397,"Texas","Rockwall",120696,9001,16,2023
+48399,"Texas","Runnels",48190,1463,40.8,2023
+48401,"Texas","Rusk",53186,6910,65.9,2023
+48403,"Texas","Sabine",46233,1175,100,2023
+48405,"Texas","San Augustine",43335,983,100,2023
+48407,"Texas","San Jacinto",52302,4169,100,2023
+48409,"Texas","San Patricio",58227,9630,19.7,2023
+48411,"Texas","San Saba",45437,922,49.4,2023
+48413,"Texas","Schleicher",52408,432,100,2023
+48415,"Texas","Scurry",49727,2143,31.7,2023
+48417,"Texas","Shackelford",61351,429,100,2023
+48419,"Texas","Shelby",43244,4150,79.4,2023
+48421,"Texas","Sherman",62557,527,100,2023
+48423,"Texas","Smith",62903,33934,31.6,2023
+48425,"Texas","Somervell",68280,1027,100,2023
+48427,"Texas","Starr",33535,13094,23.7,2023
+48429,"Texas","Stephens",46064,1349,39.4,2023
+48431,"Texas","Sterling",69212,163,100,2023
+48433,"Texas","Stonewall",49813,163,100,2023
+48435,"Texas","Sutton",59905,566,18.8,2023
+48437,"Texas","Swisher",45509,1265,37.6,2023
+48439,"Texas","Tarrant",71399,299069,1.3,2023
+48441,"Texas","Taylor",53820,16737,16,2023
+48443,"Texas","Terrell",44343,79,100,2023
+48445,"Texas","Terry",42225,1912,24.7,2023
+48447,"Texas","Throckmorton",46253,190,100,2023
+48449,"Texas","Titus",49513,5673,50.6,2023
+48451,"Texas","Tom Green",60750,13834,15.6,2023
+48453,"Texas","Travis",84519,135476,5.5,2023
+48455,"Texas","Trinity",46569,1731,77.2,2023
+48457,"Texas","Tyler",46955,2530,78.1,2023
+48459,"Texas","Upshur",51634,5091,79.3,2023
+48461,"Texas","Upton",49340,492,100,2023
+48463,"Texas","Uvalde",48438,4417,31.4,2023
+48465,"Texas","Val Verde",50532,8073,10.2,2023
+48467,"Texas","Van Zandt",59929,7601,75,2023
+48469,"Texas","Victoria",57142,12654,26.6,2023
+48471,"Texas","Walker",43012,7082,45.6,2023
+48473,"Texas","Waller",65437,8947,61.6,2023
+48475,"Texas","Ward",58461,1816,27.9,2023
+48477,"Texas","Washington",66601,3760,53.5,2023
+48479,"Texas","Webb",50865,65797,2.6,2023
+48481,"Texas","Wharton",56522,6648,49.9,2023
+48483,"Texas","Wheeler",49282,827,100,2023
+48485,"Texas","Wichita",53148,15584,10.7,2023
+48487,"Texas","Wilbarger",48117,1962,21.9,2023
+48489,"Texas","Willacy",37087,3009,34.6,2023
+48491,"Texas","Williamson",96653,55535,12,2023
+48493,"Texas","Wilson",78794,5713,85.9,2023
+48495,"Texas","Winkler",62477,1152,18.1,2023
+48497,"Texas","Wise",77668,10581,72.1,2023
+48499,"Texas","Wood",53485,5867,74.2,2023
+48501,"Texas","Yoakum",66816,1604,37.3,2023
+48503,"Texas","Young",53715,2462,33.6,2023
+48505,"Texas","Zapata",37474,2898,23.5,2023
+48507,"Texas","Zavala",35046,1840,38,2023
+49001,"Utah","Beaver",59437,548,56.5,2023
+49003,"Utah","Box Elder",69538,3385,31.1,2023
+49005,"Utah","Cache",69670,8892,15.7,2023
+49007,"Utah","Carbon",50503,1200,33.7,2023
+49009,"Utah","Daggett",57400,66,100,2023
+49011,"Utah","Davis",93260,16794,0.9,2023
+49013,"Utah","Duchesne",63327,1795,68.2,2023
+49015,"Utah","Emery",62257,625,73.6,2023
+49017,"Utah","Garfield",56943,398,100,2023
+49019,"Utah","Grand",52645,944,25.4,2023
+49021,"Utah","Iron",61421,4793,22.6,2023
+49023,"Utah","Juab",77036,842,43.5,2023
+49025,"Utah","Kane",62311,478,54.9,2023
+49027,"Utah","Millard",68131,1078,73.9,2023
+49029,"Utah","Morgan",111472,491,62.8,2023
+49031,"Utah","Piute",50768,87,100,2023
+49033,"Utah","Rich",70815,171,100,2023
+49035,"Utah","Salt Lake",80676,80298,0.9,2023
+49037,"Utah","San Juan",48071,1633,77.9,2023
+49039,"Utah","Sanpete",62098,2582,40.9,2023
+49041,"Utah","Sevier",68303,1500,64.7,2023
+49043,"Utah","Summit",124354,2485,39.2,2023
+49045,"Utah","Tooele",90591,5578,17.7,2023
+49047,"Utah","Uintah",64105,3903,46.8,2023
+49049,"Utah","Utah",86597,36542,3.3,2023
+49051,"Utah","Wasatch",102206,2158,26.9,2023
+49053,"Utah","Washington",63639,13807,15.2,2023
+49055,"Utah","Wayne",57768,238,100,2023
+49057,"Utah","Weber",72348,19007,5.8,2023
+50001,"Vermont","Addison",79756,1452,78.4,2023
+50003,"Vermont","Bennington",65185,1229,64.5,2023
+50005,"Vermont","Caledonia",59762,1053,74.4,2023
+50007,"Vermont","Chittenden",84290,5445,26,2023
+50009,"Vermont","Essex",50840,231,100,2023
+50011,"Vermont","Franklin",69583,1755,71.7,2023
+50013,"Vermont","Grand Isle",80693,277,100,2023
+50015,"Vermont","Lamoille",64083,1126,100,2023
+50017,"Vermont","Orange",71487,1004,97.2,2023
+50019,"Vermont","Orleans",54346,1082,85.3,2023
+50021,"Vermont","Rutland",59916,1991,61,2023
+50023,"Vermont","Washington",75692,1923,52.8,2023
+50025,"Vermont","Windham",64381,1528,68.2,2023
+50027,"Vermont","Windsor",65086,2121,75.6,2023
+51001,"Virginia","Accomack",50949,2715,100,2023
+51003,"Virginia","Albemarle",91849,6720,45,2023
+51005,"Virginia","Alleghany",49197,886,52.4,2023
+51007,"Virginia","Amelia",62884,1001,100,2023
+51009,"Virginia","Amherst",57294,2214,63.7,2023
+51011,"Virginia","Appomattox",58860,1139,100,2023
+51013,"Virginia","Arlington",124474,11922,0,2023
+51015,"Virginia","Augusta",69243,4500,66.4,2023
+51017,"Virginia","Bath",56200,255,100,2023
+51019,"Virginia","Bedford",66026,4303,78.4,2023
+51021,"Virginia","Bland",50492,277,100,2023
+51023,"Virginia","Botetourt",74081,1550,64.1,2023
+51025,"Virginia","Brunswick",47401,913,75.5,2023
+51027,"Virginia","Buchanan",38087,1252,100,2023
+51029,"Virginia","Buckingham",54263,1129,100,2023
+51031,"Virginia","Campbell",53059,3616,61.1,2023
+51033,"Virginia","Caroline",73390,1820,78.4,2023
+51035,"Virginia","Carroll",45956,2252,97.1,2023
+51036,"Virginia","Charles City",63299,639,100,2023
+51037,"Virginia","Charlotte",48382,863,100,2023
+51041,"Virginia","Chesterfield",86101,20189,5.9,2023
+51043,"Virginia","Clarke",91603,837,69.5,2023
+51045,"Virginia","Craig",57299,276,100,2023
+51047,"Virginia","Culpeper",82220,3871,61.9,2023
+51049,"Virginia","Cumberland",52200,631,96,2023
+51051,"Virginia","Dickenson",39722,776,100,2023
+51053,"Virginia","Dinwiddie",66397,1711,71.2,2023
+51057,"Virginia","Essex",59012,799,77.3,2023
+51059,"Virginia","Fairfax",133845,65541,1.4,2023
+51061,"Virginia","Fauquier",106714,4152,57.5,2023
+51063,"Virginia","Floyd",54765,1154,100,2023
+51065,"Virginia","Fluvanna",77226,1600,62.9,2023
+51067,"Virginia","Franklin",60062,3356,89.2,2023
+51069,"Virginia","Frederick",85262,5445,44.8,2023
+51071,"Virginia","Giles",55018,989,66.3,2023
+51073,"Virginia","Gloucester",75630,2324,64.6,2023
+51075,"Virginia","Goochland",104379,792,97,2023
+51077,"Virginia","Grayson",42553,954,99.9,2023
+51079,"Virginia","Greene",76941,1485,51.2,2023
+51081,"Virginia","Greensville",49323,379,87,2023
+51083,"Virginia","Halifax",46244,1924,77.1,2023
+51085,"Virginia","Hanover",95195,4675,39.1,2023
+51087,"Virginia","Henrico",78888,20449,4.3,2023
+51089,"Virginia","Henry",45784,3343,60.7,2023
+51091,"Virginia","Highland",48972,136,100,2023
+51093,"Virginia","Isle of Wight",86286,1947,57.4,2023
+51095,"Virginia","James City",92270,3204,15.9,2023
+51097,"Virginia","King and Queen",59730,542,100,2023
+51099,"Virginia","King George",98668,1210,73.2,2023
+51101,"Virginia","King William",79378,1075,83.2,2023
+51103,"Virginia","Lancaster",58578,590,100,2023
+51105,"Virginia","Lee",38529,1456,99.6,2023
+51107,"Virginia","Loudoun",153716,18984,12.6,2023
+51109,"Virginia","Louisa",68838,2508,100,2023
+51111,"Virginia","Lunenburg",44852,932,100,2023
+51113,"Virginia","Madison",67527,1003,100,2023
+51115,"Virginia","Mathews",69978,475,100,2023
+51117,"Virginia","Mecklenburg",48013,2027,77.8,2023
+51119,"Virginia","Middlesex",62710,681,100,2023
+51121,"Virginia","Montgomery",57752,5755,24.9,2023
+51125,"Virginia","Nelson",61224,1031,100,2023
+51127,"Virginia","New Kent",102920,1443,100,2023
+51131,"Virginia","Northampton",51059,748,100,2023
+51133,"Virginia","Northumberland",63255,692,100,2023
+51135,"Virginia","Nottoway",46442,926,52.3,2023
+51137,"Virginia","Orange",94547,2506,57.8,2023
+51139,"Virginia","Page",53449,1707,80.2,2023
+51141,"Virginia","Patrick",46963,1096,100,2023
+51143,"Virginia","Pittsylvania",52006,3874,85.6,2023
+51145,"Virginia","Powhatan",99854,1671,99.7,2023
+51147,"Virginia","Prince Edward",51239,1258,63.2,2023
+51149,"Virginia","Prince George",79710,1740,53.4,2023
+51153,"Virginia","Prince William",116354,33750,4.2,2023
+51155,"Virginia","Pulaski",53111,1682,46.9,2023
+51157,"Virginia","Rappahannock",80098,573,100,2023
+51159,"Virginia","Richmond",53959,466,100,2023
+51161,"Virginia","Roanoke",73438,4338,18.5,2023
+51163,"Virginia","Rockbridge",59252,1415,91.6,2023
+51165,"Virginia","Rockingham",72392,6458,59.3,2023
+51167,"Virginia","Russell",45254,1630,88.2,2023
+51169,"Virginia","Scott",42894,1162,82.1,2023
+51171,"Virginia","Shenandoah",65308,3070,66.6,2023
+51173,"Virginia","Smyth",42303,1696,75.3,2023
+51175,"Virginia","Southampton",57965,901,98,2023
+51177,"Virginia","Spotsylvania",100162,8570,32.3,2023
+51179,"Virginia","Stafford",116569,8884,19.8,2023
+51181,"Virginia","Surry",61358,349,100,2023
+51183,"Virginia","Sussex",54282,463,100,2023
+51185,"Virginia","Tazewell",40728,2382,51.9,2023
+51187,"Virginia","Warren",73546,2711,50.4,2023
+51191,"Virginia","Washington",54223,3051,71.7,2023
+51193,"Virginia","Westmoreland",59959,1238,78.8,2023
+51195,"Virginia","Wise",41994,2347,56.7,2023
+51197,"Virginia","Wythe",51206,1881,75.3,2023
+51199,"Virginia","York",97500,2939,6.1,2023
+51510,"Virginia","Alexandria City",100877,9922,0,2023
+51520,"Virginia","Bristol City",41272,1042,0,2023
+51530,"Virginia","Buena Vista City",47144,397,3.9,2023
+51540,"Virginia","Charlottesville City",61255,3339,0,2023
+51550,"Virginia","Chesapeake City",87057,13880,7.6,2023
+51570,"Virginia","Colonial Heights City",59455,1032,0,2023
+51580,"Virginia","Covington City",43075,295,0,2023
+51590,"Virginia","Danville City",37652,2484,4.5,2023
+51595,"Virginia","Emporia City",41610,305,6.3,2023
+51600,"Virginia","Fairfax City",107334,1515,0,2023
+51610,"Virginia","Falls Church City",142430,460,0,2023
+51620,"Virginia","Franklin City",46460,417,3.3,2023
+51630,"Virginia","Fredericksburg City",77437,2402,1.2,2023
+51640,"Virginia","Galax City",42023,494,13.7,2023
+51650,"Virginia","Hampton City",57662,7711,0.2,2023
+51660,"Virginia","Harrisonburg City",50250,4738,0,2023
+51670,"Virginia","Hopewell City",47263,1467,0,2023
+51678,"Virginia","Lexington City",53400,224,0,2023
+51680,"Virginia","Lynchburg City",52127,4294,2.7,2023
+51683,"Virginia","Manassas City",100530,5404,0,2023
+51685,"Virginia","Manassas Park City",87255,2360,0,2023
+51690,"Virginia","Martinsville City",38571,761,0,2023
+51700,"Virginia","Newport News City",58303,10163,0,2023
+51710,"Virginia","Norfolk City",56951,17150,0,2023
+51720,"Virginia","Norton City",38316,209,2.6,2023
+51730,"Virginia","Petersburg City",40682,2003,2.1,2023
+51735,"Virginia","Poquoson City",105525,559,6.5,2023
+51740,"Virginia","Portsmouth City",53618,5593,0,2023
+51750,"Virginia","Radford City",48898,893,2.9,2023
+51760,"Virginia","Richmond City",52011,18983,0,2023
+51770,"Virginia","Roanoke City",47545,7343,0,2023
+51775,"Virginia","Salem City",60740,1312,0,2023
+51790,"Virginia","Staunton City",54508,1640,3.7,2023
+51800,"Virginia","Suffolk City",78090,5077,21.6,2023
+51810,"Virginia","Virginia Beach City",81364,26671,1.5,2023
+51820,"Virginia","Waynesboro City",54106,1765,2.5,2023
+51830,"Virginia","Williamsburg City",61750,602,0,2023
+51840,"Virginia","Winchester City",55908,2357,0,2023
+53001,"Washington","Adams",57405,2062,40.2,2023
+53003,"Washington","Asotin",56438,1217,6.7,2023
+53005,"Washington","Benton",77339,12211,10.6,2023
+53007,"Washington","Chelan",64700,5984,27.2,2023
+53009,"Washington","Clallam",62623,4459,35.5,2023
+53011,"Washington","Clark",83790,27744,13.8,2023
+53013,"Washington","Columbia",59650,172,34.3,2023
+53015,"Washington","Cowlitz",70104,5851,28.7,2023
+53017,"Washington","Douglas",64932,4251,26.6,2023
+53019,"Washington","Ferry",50565,486,100,2023
+53021,"Washington","Franklin",79532,9506,13.3,2023
+53023,"Washington","Garfield",61268,86,100,2023
+53025,"Washington","Grant",61815,9375,38.7,2023
+53027,"Washington","Grays Harbor",55018,4493,40.1,2023
+53029,"Washington","Island",76729,3959,46.9,2023
+53031,"Washington","Jefferson",61548,1619,57.5,2023
+53033,"Washington","King",110351,107448,3.2,2023
+53035,"Washington","Kitsap",86826,11570,16.7,2023
+53037,"Washington","Kittitas",62721,2751,40.1,2023
+53039,"Washington","Klickitat",61542,1625,60.2,2023
+53041,"Washington","Lewis",63828,5212,60.7,2023
+53043,"Washington","Lincoln",64692,487,100,2023
+53045,"Washington","Mason",73696,4623,63.7,2023
+53047,"Washington","Okanogan",55233,4091,80,2023
+53049,"Washington","Pacific",58715,1483,64.8,2023
+53051,"Washington","Pend Oreille",55060,749,83.1,2023
+53053,"Washington","Pierce",85492,46666,6.6,2023
+53055,"Washington","San Juan",71678,1050,100,2023
+53057,"Washington","Skagit",72831,8057,29,2023
+53059,"Washington","Skamania",75158,631,100,2023
+53061,"Washington","Snohomish",99650,45862,10.8,2023
+53063,"Washington","Spokane",65571,24203,13.7,2023
+53065,"Washington","Stevens",60180,2464,79.2,2023
+53067,"Washington","Thurston",81544,14612,21,2023
+53069,"Washington","Wahkiakum",64777,222,100,2023
+53071,"Washington","Walla Walla",63631,3784,17.1,2023
+53073,"Washington","Whatcom",71739,14343,25.9,2023
+53075,"Washington","Whitman",53140,2541,27.5,2023
+53077,"Washington","Yakima",60058,27065,23.5,2023
+54001,"West Virginia","Barbour",43545,1001,83.7,2023
+54003,"West Virginia","Berkeley",70893,7210,31.6,2023
+54005,"West Virginia","Boone",41227,1215,81.4,2023
+54007,"West Virginia","Braxton",41587,854,100,2023
+54009,"West Virginia","Brooke",52217,1056,42.1,2023
+54011,"West Virginia","Cabell",46923,5344,21.6,2023
+54013,"West Virginia","Calhoun",38835,385,100,2023
+54015,"West Virginia","Clay",38261,507,100,2023
+54017,"West Virginia","Doddridge",48473,451,100,2023
+54019,"West Virginia","Fayette",40478,2458,57.9,2023
+54021,"West Virginia","Gilmer",40450,399,60.7,2023
+54023,"West Virginia","Grant",47357,743,78.7,2023
+54025,"West Virginia","Greenbrier",41958,2213,69.7,2023
+54027,"West Virginia","Hampshire",52186,1586,100,2023
+54029,"West Virginia","Hancock",52301,1801,30.3,2023
+54031,"West Virginia","Hardy",51591,1109,80.5,2023
+54033,"West Virginia","Harrison",52026,4262,37,2023
+54035,"West Virginia","Jackson",58606,1475,71.4,2023
+54037,"West Virginia","Jefferson",85277,2940,48.4,2023
+54039,"West Virginia","Kanawha",55069,9793,25.2,2023
+54041,"West Virginia","Lewis",47275,973,69,2023
+54043,"West Virginia","Lincoln",41452,1093,100,2023
+54045,"West Virginia","Logan",40394,2055,70.8,2023
+54047,"West Virginia","McDowell",28720,1124,86,2023
+54049,"West Virginia","Marion",51252,3610,41.5,2023
+54051,"West Virginia","Marshall",51385,1558,49,2023
+54053,"West Virginia","Mason",44360,1185,65,2023
+54055,"West Virginia","Mercer",45679,3296,40.7,2023
+54057,"West Virginia","Mineral",54960,1311,64.6,2023
+54059,"West Virginia","Mingo",33416,1641,89.7,2023
+54061,"West Virginia","Monongalia",56706,7502,26.9,2023
+54063,"West Virginia","Monroe",47344,907,88.5,2023
+54065,"West Virginia","Morgan",58460,1187,100,2023
+54067,"West Virginia","Nicholas",47186,1421,87.2,2023
+54069,"West Virginia","Ohio",53560,2111,23.1,2023
+54071,"West Virginia","Pendleton",48035,448,100,2023
+54073,"West Virginia","Pleasants",53712,304,54.5,2023
+54075,"West Virginia","Pocahontas",40260,501,100,2023
+54077,"West Virginia","Preston",57174,1945,90.5,2023
+54079,"West Virginia","Putnam",66946,2668,35.8,2023
+54081,"West Virginia","Raleigh",42525,3636,39.3,2023
+54083,"West Virginia","Randolph",44451,1600,62.4,2023
+54085,"West Virginia","Ritchie",47873,626,100,2023
+54087,"West Virginia","Roane",41202,825,80,2023
+54089,"West Virginia","Summers",40704,656,72.1,2023
+54091,"West Virginia","Taylor",51580,1037,59.7,2023
+54093,"West Virginia","Tucker",49097,495,100,2023
+54095,"West Virginia","Tyler",51594,416,91.1,2023
+54097,"West Virginia","Upshur",49704,1551,64,2023
+54099,"West Virginia","Wayne",49227,2201,65.2,2023
+54101,"West Virginia","Webster",36919,432,100,2023
+54103,"West Virginia","Wetzel",50110,815,53.9,2023
+54105,"West Virginia","Wirt",50160,323,100,2023
+54107,"West Virginia","Wood",53435,5288,26.8,2023
+54109,"West Virginia","Wyoming",37522,1256,88.9,2023
+55001,"Wisconsin","Adams",53592,924,100,2023
+55003,"Wisconsin","Ashland",54799,897,54.9,2023
+55005,"Wisconsin","Barron",60371,2478,65.9,2023
+55007,"Wisconsin","Bayfield",63136,825,100,2023
+55009,"Wisconsin","Brown",67232,12800,14.5,2023
+55011,"Wisconsin","Buffalo",61382,651,100,2023
+55013,"Wisconsin","Burnett",56874,826,100,2023
+55015,"Wisconsin","Calumet",78666,1690,27.5,2023
+55017,"Wisconsin","Chippewa",62306,2922,46.1,2023
+55019,"Wisconsin","Clark",59258,3024,91.7,2023
+55021,"Wisconsin","Columbia",74842,2512,60.7,2023
+55023,"Wisconsin","Crawford",57130,687,62.4,2023
+55025,"Wisconsin","Dane",77653,18681,12.3,2023
+55027,"Wisconsin","Dodge",67743,3393,48.6,2023
+55029,"Wisconsin","Door",64818,1245,69,2023
+55031,"Wisconsin","Douglas",58412,1861,38.8,2023
+55033,"Wisconsin","Dunn",64065,2190,59.3,2023
+55035,"Wisconsin","Eau Claire",63073,5826,23,2023
+55037,"Wisconsin","Florence",62243,230,100,2023
+55039,"Wisconsin","Fond du Lac",69428,4066,35.1,2023
+55041,"Wisconsin","Forest",52275,687,100,2023
+55043,"Wisconsin","Grant",57861,2404,64.5,2023
+55045,"Wisconsin","Green",73386,1618,60.2,2023
+55047,"Wisconsin","Green Lake",59732,1101,74.3,2023
+55049,"Wisconsin","Iowa",73294,819,79.9,2023
+55051,"Wisconsin","Iron",50731,261,67.8,2023
+55053,"Wisconsin","Jackson",59478,1334,72.2,2023
+55055,"Wisconsin","Jefferson",69247,3561,34.1,2023
+55057,"Wisconsin","Juneau",57000,1335,83.5,2023
+55059,"Wisconsin","Kenosha",71051,8522,10.7,2023
+55061,"Wisconsin","Kewaunee",71861,938,72.3,2023
+55063,"Wisconsin","La Crosse",62302,4731,16.8,2023
+55065,"Wisconsin","Lafayette",66719,943,100,2023
+55067,"Wisconsin","Langlade",57229,959,59.2,2023
+55069,"Wisconsin","Lincoln",62064,1214,54,2023
+55071,"Wisconsin","Manitowoc",59774,3078,38.9,2023
+55073,"Wisconsin","Marathon",74050,6331,43,2023
+55075,"Wisconsin","Marinette",56942,1830,61.8,2023
+55077,"Wisconsin","Marquette",60020,741,100,2023
+55078,"Wisconsin","Menominee",42976,282,100,2023
+55079,"Wisconsin","Milwaukee",56417,56904,0.2,2023
+55081,"Wisconsin","Monroe",62742,2507,57.7,2023
+55083,"Wisconsin","Oconto",68480,1913,81.3,2023
+55085,"Wisconsin","Oneida",60679,1356,75,2023
+55087,"Wisconsin","Outagamie",73882,8719,24.7,2023
+55089,"Wisconsin","Ozaukee",91014,2421,24.9,2023
+55091,"Wisconsin","Pepin",66179,385,100,2023
+55093,"Wisconsin","Pierce",80354,1592,53.6,2023
+55095,"Wisconsin","Polk",68732,2058,85.5,2023
+55097,"Wisconsin","Portage",66471,3247,36,2023
+55099,"Wisconsin","Price",56249,533,100,2023
+55101,"Wisconsin","Racine",69021,8927,12.3,2023
+55103,"Wisconsin","Richland",59120,922,72.1,2023
+55105,"Wisconsin","Rock",66383,8391,20.4,2023
+55107,"Wisconsin","Rusk",51585,678,76.6,2023
+55109,"Wisconsin","St. Croix",94629,3236,53.2,2023
+55111,"Wisconsin","Sauk",70254,3265,46.1,2023
+55113,"Wisconsin","Sawyer",51748,1123,84.2,2023
+55115,"Wisconsin","Shawano",62669,2431,74.4,2023
+55117,"Wisconsin","Sheboygan",64133,4648,28.3,2023
+55119,"Wisconsin","Taylor",59473,1033,80.4,2023
+55121,"Wisconsin","Trempealeau",63235,1480,89.6,2023
+55123,"Wisconsin","Vernon",60041,1800,85.7,2023
+55125,"Wisconsin","Vilas",61716,1282,100,2023
+55127,"Wisconsin","Walworth",70688,5445,34.2,2023
+55129,"Wisconsin","Washburn",57536,748,83.2,2023
+55131,"Wisconsin","Washington",85266,4145,30.8,2023
+55133,"Wisconsin","Waukesha",94506,11918,9.9,2023
+55135,"Wisconsin","Waupaca",63216,2309,64.9,2023
+55137,"Wisconsin","Waushara",57188,1265,89.5,2023
+55139,"Wisconsin","Winnebago",64640,6249,13.4,2023
+55141,"Wisconsin","Wood",55946,3170,36.7,2023
+56001,"Wyoming","Albany",53112,3650,11.9,2023
+56003,"Wyoming","Big Horn",58697,1213,100,2023
+56005,"Wyoming","Campbell",88491,4374,29.1,2023
+56007,"Wyoming","Carbon",63984,1627,41.6,2023
+56009,"Wyoming","Converse",74174,1308,55.4,2023
+56011,"Wyoming","Crook",63270,720,100,2023
+56013,"Wyoming","Fremont",56316,5128,51.4,2023
+56015,"Wyoming","Goshen",53428,1149,46,2023
+56017,"Wyoming","Hot Springs",54680,421,31.5,2023
+56019,"Wyoming","Johnson",57275,612,49,2023
+56021,"Wyoming","Laramie",63134,8573,19.8,2023
+56023,"Wyoming","Lincoln",75872,2101,82.7,2023
+56025,"Wyoming","Natrona",63940,7668,14.4,2023
+56027,"Wyoming","Niobrara",50733,226,100,2023
+56029,"Wyoming","Park",63286,2607,44.2,2023
+56031,"Wyoming","Platte",59634,802,58.6,2023
+56033,"Wyoming","Sheridan",63745,2861,35.5,2023
+56035,"Wyoming","Sublette",76703,945,100,2023
+56037,"Wyoming","Sweetwater",74677,4194,10.9,2023
+56039,"Wyoming","Teton",102709,2510,46.4,2023
+56041,"Wyoming","Uinta",70162,1932,43.1,2023
+56043,"Wyoming","Washakie",62176,784,36,2023
+56045,"Wyoming","Weston",62509,552,54.5,2023
